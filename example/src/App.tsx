@@ -1,68 +1,47 @@
 import React, {useState} from 'react'
 import raw from 'raw.macro';
-import TreeMap from 'react-canvas-treemap';
+import TreeMap, {transformData} from 'react-canvas-treemap';
+import styled from 'styled-components/macro';
 
-const colombiaData = JSON.parse(raw('./data/colombia_exports_transformed_data.json'));
-const czechiaData = JSON.parse(raw('./data/czechia_exports_transformed_data.json'));
+const Grid = styled.div`
+  display: grid;
+  grid-template-columns: 500px 500px;
+  grid-gap: 1rem;
+  margin-bottom: 2rem;
+`;
 
-export interface ITreeMapCell {
-  // Key used to manage transition animations between different tree maps. No
-  // two cells across all possible different tree maps should have the same
-  // `uniqueKey`:
-  id: string;
-  // Monetary value of a cell:
-  value: number;
+const destBostonDataRaw = JSON.parse(raw('./data/treemap_dest_boston_all_industry.json'));
 
-  color: string;
+let destColorMap: Array<{id: string, color: string}> = [];
+destBostonDataRaw.forEach(({topLevelParentId, color}: {topLevelParentId: string, color: string}) => {
+  if (!destColorMap.find(({id}) => id === topLevelParentId)) {
+    destColorMap.push({id: topLevelParentId, color});
+  }
+})
 
-  x0: number;
-  y0: number;
-  x1: number;
-  y1: number;
+const destBostonData = transformData({
+  data: destBostonDataRaw,
+  width: 500,
+  height: 500,
+  colorMap: destColorMap,
+});
 
-  // info about where and how cell label should be displayed:
-  textLayout: TextLayout;
-}
 
-// Layout for percentage numbers in each cell:
-type ShareLayout  = {
-  showText: false,
-} | {
-  showText: true;
-  fontSize: number;
-  text: string;
-};
+const originBostonDataRaw = JSON.parse(raw('./data/treemap_origin_boston_all_industry.json'));
 
-type LabelLayout = {
-  showText: false,
-} | {
-  showText: true,
-  fontSize: number;
-  useMargin: boolean;
-  // `textSplitIntoLines` are broken into separate lines for use in SVG which
-  // does not support text wrapping. `textUnsplit` is used in DOM:
-  textSplitIntoLines: string[]
-  textUnsplit: string;
-};
-// (for smaller cells) 3) no label at all (cells that are too small).
-enum TextLayoutType {
-  ShowBoth = 'ShowBoth',
-  ShowOnlyShare = 'ShowOnlyShare',
-  ShowNone = 'ShowNone',
-}
-// 3 types of tree map cell labels. If there's enough space, we show both the
-// label and percentage. If there's not enough space for a label for enough for
-// a percentage, we show only the percentage. Otherwise, show nothing:
-type TextLayout = {
-  type: TextLayoutType.ShowBoth;
-  label: LabelLayout;
-  share: ShareLayout;
-} | {
-  type: TextLayoutType.ShowOnlyShare;
-  share: ShareLayout;
-} | {
-  type: TextLayoutType.ShowNone,
-};
+let originColorMap: Array<{id: string, color: string}> = [];
+originBostonDataRaw.forEach(({topLevelParentId, color}: {topLevelParentId: string, color: string}) => {
+  if (!originColorMap.find(({id}) => id === topLevelParentId)) {
+    originColorMap.push({id: topLevelParentId, color});
+  }
+})
+
+const originBostonData = transformData({
+  data: originBostonDataRaw,
+  width: 500,
+  height: 500,
+  colorMap: destColorMap,
+});
 
 
 enum NumCellsTier {
@@ -72,71 +51,82 @@ enum NumCellsTier {
   Large,
 }
 
-// interface Input {
-//   highlighted: string | undefined;
-//   cells: ITreeMapCell[];
 
-//   numCellsTier: NumCellsTier;
-
-//   chartContainerWidth: number ;
-//   chartContainerHeight: number;
-
-//   onCellClick: (id: string) => void;
-//   onMouseOverCell: (id: string) => void;
-//   onMouseLeaveChart: () => void;
-// }
-
-enum Country {
-  Colombia,
-  Czechia,
+enum Direction {
+  Dest,
+  Origin,
 }
 
 const App = () => {
-  const [country, setCountry] = useState<Country>(Country.Colombia);
+  const [direction, setDirection] = useState<Direction>(Direction.Dest);
 
-  const toggleCountry = () => {
-    if (country === Country.Colombia) {
-      setCountry(Country.Czechia);
+  const toggleDirection = () => {
+    if (direction === Direction.Dest) {
+      setDirection(Direction.Origin);
     } else {
-      setCountry(Country.Colombia);
+      setDirection(Direction.Dest);
     }
   }
 
   return (
     <div>
       <div>
-        <button onClick={toggleCountry}>
+        <button onClick={toggleDirection}>
           Toggle Data
         </button>
       </div>
-      <div>
-        <TreeMap
-          highlighted={undefined}
-          cells={country === Country.Colombia ? colombiaData : czechiaData}
-          numCellsTier={NumCellsTier.Small}
-          chartContainerWidth={797}
-          chartContainerHeight={745}
-          onCellClick={id => console.log(id)}
-          onMouseOverCell={id => console.log(id)}
-          onMouseLeaveChart={() => {}}
-        />
-      </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <div>
-        <TreeMap
-          highlighted={undefined}
-          cells={country !== Country.Colombia ? colombiaData : czechiaData}
-          numCellsTier={NumCellsTier.Small}
-          chartContainerWidth={797}
-          chartContainerHeight={745}
-          onCellClick={id => console.log(id)}
-          onMouseOverCell={id => console.log(id)}
-          onMouseLeaveChart={() => {}}
-        />
-      </div>
+      <Grid>
+        <div>
+          <TreeMap
+            highlighted={undefined}
+            cells={direction === Direction.Dest ? destBostonData.treeMapCells : originBostonData.treeMapCells}
+            numCellsTier={NumCellsTier.Small}
+            chartContainerWidth={500}
+            chartContainerHeight={500}
+            onCellClick={id => console.log(id)}
+            onMouseOverCell={id => console.log(id)}
+            onMouseLeaveChart={() => {}}
+          />
+        </div>
+        <div>
+          <TreeMap
+            highlighted={undefined}
+            cells={direction === Direction.Origin ? destBostonData.treeMapCells : originBostonData.treeMapCells}
+            numCellsTier={NumCellsTier.Small}
+            chartContainerWidth={500}
+            chartContainerHeight={500}
+            onCellClick={id => console.log(id)}
+            onMouseOverCell={id => console.log(id)}
+            onMouseLeaveChart={() => {}}
+          />
+        </div>
+      </Grid>
+      <Grid>
+        <div>
+          <TreeMap
+            highlighted={undefined}
+            cells={direction === Direction.Origin ? destBostonData.treeMapCells : originBostonData.treeMapCells}
+            numCellsTier={NumCellsTier.Small}
+            chartContainerWidth={500}
+            chartContainerHeight={500}
+            onCellClick={id => console.log(id)}
+            onMouseOverCell={id => console.log(id)}
+            onMouseLeaveChart={() => {}}
+          />
+        </div>
+        <div>
+          <TreeMap
+            highlighted={undefined}
+            cells={direction === Direction.Dest ? destBostonData.treeMapCells : originBostonData.treeMapCells}
+            numCellsTier={NumCellsTier.Small}
+            chartContainerWidth={500}
+            chartContainerHeight={500}
+            onCellClick={id => console.log(id)}
+            onMouseOverCell={id => console.log(id)}
+            onMouseLeaveChart={() => {}}
+          />
+        </div>
+      </Grid>
     </div>
   );
 }

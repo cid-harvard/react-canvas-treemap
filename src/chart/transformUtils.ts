@@ -1,83 +1,24 @@
 import {
-  failIfValidOrNonExhaustive,
   measuredCharacterHeight,
   referenceFontSize,
 } from './Utils';
 
-
-enum TradeDirection {
-  export = 'export',
-  import = 'import',
-}
-
-enum TradeFlow {
-  Gross = 'Gross',
-  Net = 'Net',
-}
-
 interface IWithExportImport {
-  exportValue: number | null;
-  importValue: number | null;
+  value: number | null;
 }
 
-type ComputedDatum<T extends IWithExportImport> = Omit<T, 'exportValue' | 'importValue'> & {monetaryValue: number};
+type ComputedDatum<T extends IWithExportImport> = Omit<T, 'value'> & {monetaryValue: number};
 
 export const computeGrossNetTradeValues = <T extends IWithExportImport>(
-    input: T[],
-    tradeDirection: TradeDirection,
-    tradeFlow: TradeFlow,
+    input: T[]
   ): Array<ComputedDatum<T>> => {
 
-  let result: Array<ComputedDatum<T>>;
-  if (tradeDirection === TradeDirection.export) {
-    if (tradeFlow === TradeFlow.Gross) {
-      result = input.map(
-        ({exportValue, importValue: _unused, ...rest}) => {
-          const monetaryValue = exportValue ? exportValue : 0;
-          return {monetaryValue, ...rest};
-        },
-      );
-    } else if (tradeFlow === TradeFlow.Net) {
-      result = input.map(
-        ({exportValue, importValue, ...rest}) => {
-          const nonNullExportValue = exportValue ? exportValue : 0;
-          const nonNullImportValue = importValue ? importValue : 0;
-          return {monetaryValue: nonNullExportValue - nonNullImportValue, ...rest};
-        },
-      );
-    } else {
-      // The following lines will never be executed:
-      result = [];
-      failIfValidOrNonExhaustive(tradeFlow, 'Invalid trade flow' + tradeFlow);
-    }
-
-  } else if (tradeDirection === TradeDirection.import) {
-    if (tradeFlow === TradeFlow.Gross) {
-      result = input.map(
-        ({exportValue: _unused, importValue, ...rest}) => {
-          const monetaryValue = importValue ? importValue : 0;
-          return {monetaryValue, ...rest};
-        },
-      );
-    } else if (tradeFlow === TradeFlow.Net) {
-      result = input.map(
-        ({exportValue, importValue, ...rest}) => {
-          const nonNullExportValue = exportValue ? exportValue : 0;
-          const nonNullImportValue = importValue ? importValue : 0;
-          return {monetaryValue: nonNullImportValue - nonNullExportValue, ...rest};
-        },
-      );
-
-    } else {
-      // The following lines will never be executed:
-      result = [];
-      failIfValidOrNonExhaustive(tradeFlow, 'Invalid trade flow' + tradeFlow);
-    }
-  } else {
-    // The following lines will never be executed:
-    result = [];
-    failIfValidOrNonExhaustive(tradeDirection, 'Invalid trade direction ' + tradeDirection);
-  }
+  let result: Array<ComputedDatum<T>> = input.map(
+    ({value, ...rest}) => {
+      const monetaryValue = value ? value : 0;
+      return {monetaryValue, ...rest};
+    },
+  );
   return result;
 };
 
