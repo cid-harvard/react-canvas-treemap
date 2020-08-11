@@ -1,4 +1,4 @@
-import {CSSPlugin, TimelineLite, TweenLite, registerPlugin} from 'gsap';
+import {CSSPlugin, TimelineLite, TweenLite} from 'gsap';
 import createIntervalTree, {
   IntervalTree,
 } from 'interval-tree-1d';
@@ -64,15 +64,10 @@ import usePropsChangeRateLimiter, {
 import useTrackingRef from './useTrackingRef';
 import raw from 'raw.macro';
 
-
 // Need to do this so that `CSSPlugin` is not dropped by the minifier:
-/* tslint:disable-next-line:no-unused-expression */
-CSSPlugin;
-/* tslint:disable-next-line:no-unused-expression */
-TimelineLite;
-/* tslint:disable-next-line:no-unused-expression */
-TweenLite;
-registerPlugin(CSSPlugin);
+if (!CSSPlugin) {
+  console.error('CSSPlugin failed to load', CSSPlugin);
+}
 
 //#region Styling
 const Root = styled.div`
