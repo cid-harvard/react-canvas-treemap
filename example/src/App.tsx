@@ -12,10 +12,10 @@ const Grid = styled.div`
 
 const destBostonDataRaw = JSON.parse(raw('./data/treemap_dest_boston_all_industry.json'));
 
-let destColorMap: Array<{id: string, color: string}> = [];
+let colorMap: Array<{id: string, color: string}> = [];
 destBostonDataRaw.forEach(({topLevelParentId, color}: {topLevelParentId: string, color: string}) => {
-  if (!destColorMap.find(({id}) => id === topLevelParentId)) {
-    destColorMap.push({id: topLevelParentId, color});
+  if (!colorMap.find(({id}) => id === topLevelParentId)) {
+    colorMap.push({id: topLevelParentId, color});
   }
 })
 
@@ -23,24 +23,26 @@ const destBostonData = transformData({
   data: destBostonDataRaw,
   width: 500,
   height: 500,
-  colorMap: destColorMap,
+  colorMap: colorMap,
 });
 
 
 const originBostonDataRaw = JSON.parse(raw('./data/treemap_origin_boston_all_industry.json'));
 
-let originColorMap: Array<{id: string, color: string}> = [];
-originBostonDataRaw.forEach(({topLevelParentId, color}: {topLevelParentId: string, color: string}) => {
-  if (!originColorMap.find(({id}) => id === topLevelParentId)) {
-    originColorMap.push({id: topLevelParentId, color});
-  }
-})
-
 const originBostonData = transformData({
   data: originBostonDataRaw,
   width: 500,
   height: 500,
-  colorMap: destColorMap,
+  colorMap: colorMap,
+});
+
+const filteredToServices = destBostonDataRaw.filter(({topLevelParentId}: {topLevelParentId: string}) => topLevelParentId === 'Services');
+
+const filteredBostonData = transformData({
+  data: filteredToServices,
+  width: 500,
+  height: 500,
+  colorMap: colorMap,
 });
 
 
@@ -59,6 +61,7 @@ enum Direction {
 
 const App = () => {
   const [direction, setDirection] = useState<Direction>(Direction.Dest);
+  const [filtered, setFiltered] = useState<boolean>(false);
 
   const toggleDirection = () => {
     if (direction === Direction.Dest) {
@@ -70,13 +73,11 @@ const App = () => {
 
   return (
     <div>
-      <div>
-        <button onClick={toggleDirection}>
-          Toggle Data
-        </button>
-      </div>
       <Grid>
         <div>
+          <button onClick={toggleDirection}>
+            Toggle Data
+          </button>
           <TreeMap
             highlighted={undefined}
             cells={direction === Direction.Dest ? destBostonData.treeMapCells : originBostonData.treeMapCells}
@@ -89,35 +90,12 @@ const App = () => {
           />
         </div>
         <div>
+          <button onClick={() => setFiltered(!filtered)}>
+            Toggle Filter
+          </button>
           <TreeMap
             highlighted={undefined}
-            cells={direction === Direction.Origin ? destBostonData.treeMapCells : originBostonData.treeMapCells}
-            numCellsTier={NumCellsTier.Small}
-            chartContainerWidth={500}
-            chartContainerHeight={500}
-            onCellClick={id => console.log(id)}
-            onMouseOverCell={id => console.log(id)}
-            onMouseLeaveChart={() => {}}
-          />
-        </div>
-      </Grid>
-      <Grid>
-        <div>
-          <TreeMap
-            highlighted={undefined}
-            cells={direction === Direction.Origin ? destBostonData.treeMapCells : originBostonData.treeMapCells}
-            numCellsTier={NumCellsTier.Small}
-            chartContainerWidth={500}
-            chartContainerHeight={500}
-            onCellClick={id => console.log(id)}
-            onMouseOverCell={id => console.log(id)}
-            onMouseLeaveChart={() => {}}
-          />
-        </div>
-        <div>
-          <TreeMap
-            highlighted={undefined}
-            cells={direction === Direction.Dest ? destBostonData.treeMapCells : originBostonData.treeMapCells}
+            cells={filtered ? filteredBostonData.treeMapCells : destBostonData.treeMapCells}
             numCellsTier={NumCellsTier.Small}
             chartContainerWidth={500}
             chartContainerHeight={500}
