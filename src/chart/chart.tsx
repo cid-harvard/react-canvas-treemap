@@ -1,7 +1,4 @@
-// import CSSPlugin from 'gsap/CSSPlugin';
 import {CSSPlugin, TimelineLite, TweenLite} from 'gsap';
-// import TimelineLite from 'gsap/TimelineLite';
-// import TweenLite from 'gsap/TweenLite';
 import createIntervalTree, {
   IntervalTree,
 } from 'interval-tree-1d';
@@ -12,7 +9,7 @@ import React, {
   useEffect,
   useRef,
 } from 'react';
-import styled from 'styled-components/macro';
+import styled from 'styled-components';
 import {
   sendHeroElementTiming,
 } from './heroElement';
