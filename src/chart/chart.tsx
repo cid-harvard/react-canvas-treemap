@@ -9,7 +9,7 @@ import React, {
   useEffect,
   useRef,
 } from 'react';
-import styled from 'styled-components';
+import styled from 'styled-components/macro';
 import {
   sendHeroElementTiming,
 } from './heroElement';
@@ -94,6 +94,7 @@ const Root = styled.div`
     height: 100%;
     opacity: 0;
     will-change: opacity;
+    -webkit-transition: opacity 175ms ease-out;
     transition: opacity 175ms ease-out;
   }
 
@@ -523,7 +524,7 @@ const performPropsChange =
             currentTextContainer: prevTextContainer,
           };
         }
-
+        console.log(textContainerStatus);
         if (textContainerStatus.isTextContainerChanging === true) {
           timeline.set(textContainerStatus.nextContainer, {css: {opacity: 1}}, durationInSeconds / 2);
           timeline.set(textContainerStatus.prevContainer, {css: {opacity: 0}}, timelineStartTime);
