@@ -527,7 +527,6 @@ const performPropsChange =
             currentTextContainer: prevTextContainer,
           };
         }
-        console.log(textContainerStatus);
         if (textContainerStatus.isTextContainerChanging === true) {
           timeline.set(textContainerStatus.nextContainer, {css: {opacity: 1}}, durationInSeconds / 2);
           timeline.set(textContainerStatus.prevContainer, {css: {opacity: 0}}, timelineStartTime);

@@ -2,6 +2,13 @@ import React, {useState} from 'react'
 import raw from 'raw.macro';
 import TreeMap, {transformData} from 'react-canvas-treemap';
 import styled from 'styled-components/macro';
+import {CSSPlugin, registerPlugin} from 'gsap';
+
+// Need to do this so that `CSSPlugin` is not dropped by the minifier:
+/* tslint:disable-next-line:no-unused-expression */
+CSSPlugin;
+/* tslint:disable-next-line:no-unused-expression */
+registerPlugin(CSSPlugin);
 
 const Grid = styled.div`
   display: grid;
