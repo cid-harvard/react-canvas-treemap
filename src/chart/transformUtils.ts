@@ -1,0 +1,109 @@
+import {
+  failIfValidOrNonExhaustive,
+  measuredCharacterHeight,
+  referenceFontSize,
+} from './Utils';
+
+
+enum TradeDirection {
+  export = 'export',
+  import = 'import',
+}
+
+enum TradeFlow {
+  Gross = 'Gross',
+  Net = 'Net',
+}
+
+interface IWithExportImport {
+  exportValue: number | null;
+  importValue: number | null;
+}
+
+type ComputedDatum<T extends IWithExportImport> = Omit<T, 'exportValue' | 'importValue'> & {monetaryValue: number};
+
+export const computeGrossNetTradeValues = <T extends IWithExportImport>(
+    input: T[],
+    tradeDirection: TradeDirection,
+    tradeFlow: TradeFlow,
+  ): Array<ComputedDatum<T>> => {
+
+  let result: Array<ComputedDatum<T>>;
+  if (tradeDirection === TradeDirection.export) {
+    if (tradeFlow === TradeFlow.Gross) {
+      result = input.map(
+        ({exportValue, importValue: _unused, ...rest}) => {
+          const monetaryValue = exportValue ? exportValue : 0;
+          return {monetaryValue, ...rest};
+        },
+      );
+    } else if (tradeFlow === TradeFlow.Net) {
+      result = input.map(
+        ({exportValue, importValue, ...rest}) => {
+          const nonNullExportValue = exportValue ? exportValue : 0;
+          const nonNullImportValue = importValue ? importValue : 0;
+          return {monetaryValue: nonNullExportValue - nonNullImportValue, ...rest};
+        },
+      );
+    } else {
+      // The following lines will never be executed:
+      result = [];
+      failIfValidOrNonExhaustive(tradeFlow, 'Invalid trade flow' + tradeFlow);
+    }
+
+  } else if (tradeDirection === TradeDirection.import) {
+    if (tradeFlow === TradeFlow.Gross) {
+      result = input.map(
+        ({exportValue: _unused, importValue, ...rest}) => {
+          const monetaryValue = importValue ? importValue : 0;
+          return {monetaryValue, ...rest};
+        },
+      );
+    } else if (tradeFlow === TradeFlow.Net) {
+      result = input.map(
+        ({exportValue, importValue, ...rest}) => {
+          const nonNullExportValue = exportValue ? exportValue : 0;
+          const nonNullImportValue = importValue ? importValue : 0;
+          return {monetaryValue: nonNullImportValue - nonNullExportValue, ...rest};
+        },
+      );
+
+    } else {
+      // The following lines will never be executed:
+      result = [];
+      failIfValidOrNonExhaustive(tradeFlow, 'Invalid trade flow' + tradeFlow);
+    }
+  } else {
+    // The following lines will never be executed:
+    result = [];
+    failIfValidOrNonExhaustive(tradeDirection, 'Invalid trade direction ' + tradeDirection);
+  }
+  return result;
+};
+
+interface IWithMonetaryValue {
+  monetaryValue: number;
+}
+export const filterByMonetaryValues =
+  <T extends IWithMonetaryValue>(data: T[]): T[] =>
+    data.filter(({monetaryValue}) => monetaryValue > 0);
+
+interface IWithCategory {
+  topLevelParentId: string;
+}
+export const filterBySelectedCategories =
+    <T extends IWithCategory>(data: T[], selectedCategories: string[]): T[] => {
+
+  const asSet = new Set(selectedCategories);
+  return data.filter(({topLevelParentId}) => asSet.has(topLevelParentId));
+};
+
+//#region Constants
+// The font size should never get smaller than this:
+export const minNodeNameFontSize = 8;
+export const labelHorizontalMargin = 0.05; // in percentage points i.e. the number '5' means '5%'
+export const labelTopMargin = 0.05; // in percentage points
+export const heightProportionReservedForShare = 0.2; // in percentage points
+
+export const maxCharacterHeightAtMinFontSize = measuredCharacterHeight / referenceFontSize * minNodeNameFontSize;
+//#endregion

@@ -1,0 +1,1007 @@
+,SIC,descr_2dig,descr_4dig,color,US 1987 SIC 1,EMPLOYEES HERE,pct,pct2,Label
+1004,9999.0,Public Administration,Nonclassifiable Establishments,#CD7CA4,9999.0,44608.0,0.06272189515511042,6.27,Nonclassifiable Establishments (6.27%)
+930,8062.0,Services,General Medical and Surgical Hospitals,#FF0069,8062.0,38816.0,0.05457794750584573,5.46,General Medical and Surgical Hospitals (5.46%)
+796,6282.0,"Finance, Insurance, And Real Estate",Investment Advice,#FFFF00,6282.0,29458.0,0.04141996026450957,4.14,Investment Advice (4.14%)
+749,5812.0,Retail and wholesale trade,Eating Places,#FF9BCD,5812.0,27918.0,0.03925461506770922,3.93,Eating Places (3.93%)
+941,8221.0,Services,"Colleges, Universities, and Professional Schools",#FF0069,8221.0,22457.0,0.031576076028925634,3.16,"Colleges, Universities, and Professional Schools (3.16%)"
+939,8111.0,Services,Legal Services,#FF0069,8111.0,22364.0,0.03144531167613185,3.14,Legal Services (3.14%)
+827,7011.0,Services,Hotels and Motels,#FF0069,7011.0,17134.0,0.02409157441686832,2.41,Hotels and Motels (2.41%)
+920,8011.0,Services,Offices and Clinics of Doctors of Medicine,#FF0069,8011.0,16227.0,0.02281627046005149,2.28,Offices and Clinics of Doctors of Medicine (2.28%)
+820,6726.0,"Finance, Insurance, And Real Estate","Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices",#FFFF00,6726.0,12980.0,0.018250766658745816,1.83,"Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices (1.83%)"
+971,8742.0,Services,Management Consulting Services,#FF0069,8742.0,12681.0,0.01783035223417224,1.78,Management Consulting Services (1.78%)
+813,6531.0,"Finance, Insurance, And Real Estate",Real Estate Agents and Managers,#FFFF00,6531.0,12048.0,0.01694031099418872,1.69,Real Estate Agents and Managers (1.69%)
+826,6799.0,"Finance, Insurance, And Real Estate","Investors, Not Elsewhere Classified",#FFFF00,6799.0,11594.0,0.0163019559816255,1.63,"Investors, Not Elsewhere Classified (1.63%)"
+819,6722.0,"Finance, Insurance, And Real Estate","Management Investment Offices, Open-End",#FFFF00,6722.0,11042.0,0.015525806274720439,1.55,"Management Investment Offices, Open-End (1.55%)"
+777,6022.0,"Finance, Insurance, And Real Estate",State Commercial Banks,#FFFF00,6022.0,10966.0,0.015418945083190031,1.54,State Commercial Banks (1.54%)
+621,4813.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Telephone Communications, Except Radiotelephone",#C3FF00,4813.0,10129.0,0.014242065908045944,1.42,"Telephone Communications, Except Radiotelephone (1.42%)"
+865,7371.0,Services,Computer Programming Services,#FF0069,7371.0,8726.0,0.012269352069662249,1.23,Computer Programming Services (1.23%)
+985,9224.0,Public Administration,Fire Protection,#CD7CA4,9224.0,8627.0,0.012130151307010797,1.21,Fire Protection (1.21%)
+878,7389.0,Services,"Business Services, Not Elsewhere Classified",#FF0069,7389.0,8349.0,0.011739264316939045,1.17,"Business Services, Not Elsewhere Classified (1.17%)"
+970,8741.0,Services,Management Services,#FF0069,8741.0,8135.0,0.011438365698682373,1.14,Management Services (1.14%)
+808,6513.0,"Finance, Insurance, And Real Estate",Operators of Apartment Buildings,#FFFF00,6513.0,8085.0,0.011368062283201842,1.14,Operators of Apartment Buildings (1.14%)
+940,8211.0,Services,Elementary and Secondary Schools,#FF0069,8211.0,7601.0,0.010687525221350304,1.07,Elementary and Secondary Schools (1.07%)
+990,9441.0,Public Administration,"Administration of Social, Human Resource and Income Maintenance Programs",#CD7CA4,9441.0,7007.0,0.009852320645441597,0.99,"Administration of Social, Human Resource and Income Maintenance Programs (0.99%)"
+859,7349.0,Services,"Building Cleaning and Maintenance Services, Not Elsewhere",#FF0069,7349.0,6903.0,0.009706089541242092,0.97,"Building Cleaning and Maintenance Services, Not Elsewhere (0.97%)"
+793,6211.0,"Finance, Insurance, And Real Estate","Security Brokers, Dealers, and Flotation Companies",#FFFF00,6211.0,6866.0,0.0096540650137865,0.97,"Security Brokers, Dealers, and Flotation Companies (0.97%)"
+932,8069.0,Services,"Specialty Hospitals, Except Psychiatric",#FF0069,8069.0,6645.0,0.009343323917362553,0.93,"Specialty Hospitals, Except Psychiatric (0.93%)"
+942,8222.0,Services,Junior Colleges and Technical Institutes,#FF0069,8222.0,6503.0,0.009143662217397845,0.91,Junior Colleges and Technical Institutes (0.91%)
+948,8322.0,Services,Individual and Family Social Services,#FF0069,8322.0,6450.0,0.009069140596988483,0.91,Individual and Family Social Services (0.91%)
+271,2731.0,Manufacturing,"Books: Publishing, or Publishing and Printing",#0072FF,2731.0,5930.0,0.008337985075990961,0.83,"Books: Publishing, or Publishing and Printing (0.83%)"
+982,9221.0,Public Administration,Police Protection,#CD7CA4,9221.0,5927.0,0.00833376687106213,0.83,Police Protection (0.83%)
+989,9431.0,Public Administration,Administration of Public Health Programs,#CD7CA4,9431.0,5905.0,0.008302833368250696,0.83,Administration of Public Health Programs (0.83%)
+965,8721.0,Services,"Accounting, Auditing, and Bookkeeping Services",#FF0069,8721.0,5743.0,0.008075050302093776,0.81,"Accounting, Auditing, and Bookkeeping Services (0.81%)"
+799,6321.0,"Finance, Insurance, And Real Estate",Accident and Health Insurance,#FFFF00,6321.0,5713.0,0.008032868252805457,0.8,Accident and Health Insurance (0.8%)
+963,8712.0,Services,Architectural Services,#FF0069,8712.0,5578.0,0.007843049031008024,0.78,Architectural Services (0.78%)
+980,9199.0,Public Administration,"General Government, Not Elsewhere Classified",#CD7CA4,9199.0,5403.0,0.0075969870768261664,0.76,"General Government, Not Elsewhere Classified (0.76%)"
+997,9621.0,Public Administration,Regulation and Administration of Transportation Programs,#CD7CA4,9621.0,5398.0,0.007589956735278114,0.76,Regulation and Administration of Transportation Programs (0.76%)
+962,8711.0,Services,Engineering Services,#FF0069,8711.0,5198.0,0.00730874307335599,0.73,Engineering Services (0.73%)
+806,6411.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, and Service",#FFFF00,6411.0,5126.0,0.007207506155064026,0.72,"Insurance Agents, Brokers, and Service (0.72%)"
+269,2711.0,Manufacturing,"Newspapers: Publishing, or Publishing and Printing",#0072FF,2711.0,4873.0,0.006851770872732539,0.69,"Newspapers: Publishing, or Publishing and Printing (0.69%)"
+605,4512.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Air Transportation, Scheduled",#C3FF00,4512.0,4651.0,0.006539623707998982,0.65,"Air Transportation, Scheduled (0.65%)"
+974,8748.0,Services,"Business Consulting Services, Not Elsewhere Classified",#FF0069,8748.0,4559.0,0.006410265423514805,0.64,"Business Consulting Services, Not Elsewhere Classified (0.64%)"
+866,7372.0,Services,Prepackaged Software,#FF0069,7372.0,4471.0,0.006286531412269071,0.63,Prepackaged Software (0.63%)
+960,8661.0,Services,Religious Organizations,#FF0069,8661.0,4075.0,0.005729728361663266,0.57,Religious Organizations (0.57%)
+914,7991.0,Services,Physical Fitness Facilities,#FF0069,7991.0,3865.0,0.005434454016645037,0.54,Physical Fitness Facilities (0.54%)
+958,8641.0,Services,"Civic, Social, and Fraternal Associations",#FF0069,8641.0,3854.0,0.00541898726523932,0.54,"Civic, Social, and Fraternal Associations (0.54%)"
+1003,9721.0,Public Administration,International Affairs,#CD7CA4,9721.0,3805.0,0.0053500899180684,0.54,International Affairs (0.54%)
+822,6733.0,"Finance, Insurance, And Real Estate","Trusts, Except Educational, Religious, and Charitable",#FFFF00,6733.0,3704.0,0.0052080770187977275,0.52,"Trusts, Except Educational, Religious, and Charitable (0.52%)"
+773,5999.0,Retail and wholesale trade,"Miscellaneous Retail Stores, Not Elsewhere Classified",#FF9BCD,5999.0,3669.0,0.005158864627961356,0.52,"Miscellaneous Retail Stores, Not Elsewhere Classified (0.52%)"
+798,6311.0,"Finance, Insurance, And Real Estate",Life Insurance,#FFFF00,6311.0,3500.0,0.004921239083637161,0.49,Life Insurance (0.49%)
+981,9211.0,Public Administration,Courts,#CD7CA4,9211.0,3494.0,0.0049128026737794974,0.49,Courts (0.49%)
+718,5411.0,Retail and wholesale trade,Grocery Stores,#FF9BCD,5411.0,3459.0,0.004863590282943126,0.49,Grocery Stores (0.49%)
+815,6552.0,"Finance, Insurance, And Real Estate","Land Subdividers and Developers, Except Cemeteries",#FFFF00,6552.0,3445.0,0.004843905326608577,0.48,"Land Subdividers and Developers, Except Cemeteries (0.48%)"
+953,8412.0,Services,Museums and Art Galleries,#FF0069,8412.0,3271.0,0.00459924944073633,0.46,Museums and Art Galleries (0.46%)
+947,8299.0,Services,"Schools and Educational Services, Not Elsewhere Classified",#FF0069,8299.0,3258.0,0.004580970552711392,0.46,"Schools and Educational Services, Not Elsewhere Classified (0.46%)"
+867,7373.0,Services,Computer Integrated Systems Design,#FF0069,7373.0,3256.0,0.004578158416092171,0.46,Computer Integrated Systems Design (0.46%)
+801,6331.0,"Finance, Insurance, And Real Estate","Fire, Marine, and Casualty Insurance",#FFFF00,6331.0,3235.0,0.004548630981590348,0.45,"Fire, Marine, and Casualty Insurance (0.45%)"
+968,8733.0,Services,Noncommercial Research Organizations,#FF0069,8733.0,3137.0,0.004410836287248507,0.44,Noncommercial Research Organizations (0.44%)
+847,7311.0,Services,Advertising Agencies,#FF0069,7311.0,3058.0,0.004299756890789268,0.43,Advertising Agencies (0.43%)
+807,6512.0,"Finance, Insurance, And Real Estate",Operators of Nonresidential Buildings,#FFFF00,6512.0,2909.0,0.004090252712657286,0.41,Operators of Nonresidential Buildings (0.41%)
+952,8399.0,Services,"Social Services, Not Elsewhere Classified",#FF0069,8399.0,2848.0,0.004004482545771039,0.4,"Social Services, Not Elsewhere Classified (0.4%)"
+785,6091.0,"Finance, Insurance, And Real Estate","Non-deposit Trust Facilities,",#FFFF00,6091.0,2830.0,0.003979173316198048,0.4,"Non-deposit Trust Facilities, (0.4%)"
+883,7521.0,Services,Automobile Parking,#FF0069,7521.0,2803.0,0.003941209471838561,0.39,Automobile Parking (0.39%)
+992,9511.0,Public Administration,Air and Water Resource and Solid Waste Management,#CD7CA4,9511.0,2778.0,0.0039060577640982956,0.39,Air and Water Resource and Solid Waste Management (0.39%)
+863,7361.0,Services,Employment Agencies,#FF0069,7361.0,2633.0,0.003702177859204756,0.37,Employment Agencies (0.37%)
+927,8051.0,Services,Skilled Nursing Care Facilities,#FF0069,8051.0,2630.0,0.003697959654275924,0.37,Skilled Nursing Care Facilities (0.37%)
+873,7379.0,Services,"Computer Related Services, Not Elsewhere Classified",#FF0069,7379.0,2578.0,0.003624844102176172,0.36,"Computer Related Services, Not Elsewhere Classified (0.36%)"
+937,8093.0,Services,"Specialty Outpatient Facilities, Not Elsewhere Classified",#FF0069,8093.0,2566.0,0.0036079712824608444,0.36,"Specialty Outpatient Facilities, Not Elsewhere Classified (0.36%)"
+802,6351.0,"Finance, Insurance, And Real Estate",Surety Insurance,#FFFF00,6351.0,2526.0,0.00355172855007642,0.36,Surety Insurance (0.36%)
+951,8361.0,Services,Residential Care,#FF0069,8361.0,2516.0,0.0035376678669803135,0.35,Residential Care (0.35%)
+763,5961.0,Retail and wholesale trade,Catalog and Mail-Order Houses,#FF9BCD,5961.0,2515.0,0.003536261798670703,0.35,Catalog and Mail-Order Houses (0.35%)
+1000,9651.0,Public Administration,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",#CD7CA4,9651.0,2397.0,0.00337034573813665,0.34,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors (0.34%)"
+987,9311.0,Public Administration,"Public Finance, Taxation, and Monetary Policy",#CD7CA4,9311.0,2350.0,0.0033042605275849513,0.33,"Public Finance, Taxation, and Monetary Policy (0.33%)"
+921,8021.0,Services,Offices and Clinics of Dentists,#FF0069,8021.0,2266.0,0.0031861507895776593,0.32,Offices and Clinics of Dentists (0.32%)
+750,5813.0,Retail and wholesale trade,Drinking Places (alcoholic Beverages),#FF9BCD,5813.0,2144.0,0.003014610455805164,0.3,Drinking Places (alcoholic Beverages) (0.3%)
+943,8231.0,Services,Libraries,#FF0069,8231.0,2137.0,0.0030047679776378897,0.3,Libraries (0.3%)
+961,8699.0,Services,"Membership Organizations, Not Elsewhere Classified",#FF0069,8699.0,2059.0,0.0028950946494882613,0.29,"Membership Organizations, Not Elsewhere Classified (0.29%)"
+89,1521.0,Construction,General Contractors-Single-Family Houses,#696969,1521.0,2041.0,0.0028697854199152702,0.29,General Contractors-Single-Family Houses (0.29%)
+983,9222.0,Public Administration,Legal Counsel and Prosecution,#CD7CA4,9222.0,2014.0,0.0028318215755557836,0.28,Legal Counsel and Prosecution (0.28%)
+1002,9711.0,Public Administration,National Security,#CD7CA4,9711.0,2009.0,0.0028247912340077304,0.28,National Security (0.28%)
+825,6798.0,"Finance, Insurance, And Real Estate",Real Estate Investment Trusts,#FFFF00,6798.0,2005.0,0.002819166960769288,0.28,Real Estate Investment Trusts (0.28%)
+627,4911.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Electric Services,#C3FF00,4911.0,1968.0,0.002767142433313695,0.28,Electric Services (0.28%)
+653,5045.0,Retail and wholesale trade,Computers and Computer Peripheral Equipment and Software,#FF9BCD,5045.0,1950.0,0.002741833203740704,0.27,Computers and Computer Peripheral Equipment and Software (0.27%)
+966,8731.0,Services,Commercial Physical and Biological Research,#FF0069,8731.0,1863.0,0.0026195052608045805,0.26,Commercial Physical and Biological Research (0.26%)
+723,5461.0,Retail and wholesale trade,Retail Bakeries,#FF9BCD,5461.0,1851.0,0.002602632441089253,0.26,Retail Bakeries (0.26%)
+874,7381.0,Services,"Detective, Guard, and Armored Car Services",#FF0069,7381.0,1798.0,0.0025281108206798904,0.25,"Detective, Guard, and Armored Car Services (0.25%)"
+574,4011.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Railroads, Line-Haul Operating",#C3FF00,4011.0,1702.0,0.002393128262957271,0.24,"Railroads, Line-Haul Operating (0.24%)"
+910,7929.0,Services,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",#FF0069,7929.0,1660.0,0.0023340733939536252,0.23,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups (0.23%)"
+841,7231.0,Services,Beauty Shops,#FF0069,7231.0,1642.0,0.002308764164380634,0.23,Beauty Shops (0.23%)
+765,5963.0,Retail and wholesale trade,Direct Selling Establishments,#FF9BCD,5963.0,1632.0,0.002294703481284528,0.23,Direct Selling Establishments (0.23%)
+738,5661.0,Retail and wholesale trade,Shoe Stores,#FF9BCD,5661.0,1607.0,0.0022595517735442623,0.23,Shoe Stores (0.23%)
+776,6021.0,"Finance, Insurance, And Real Estate",National Commercial Banks,#FFFF00,6021.0,1600.0,0.002249709295376988,0.22,National Commercial Banks (0.22%)
+591,4226.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Special Warehousing and Storage, Not Elsewhere Classified",#C3FF00,4226.0,1599.0,0.0022483032270673776,0.22,"Special Warehousing and Storage, Not Elsewhere Classified (0.22%)"
+909,7922.0,Services,Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services,#FF0069,7922.0,1594.0,0.0022412728855193244,0.22,Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services (0.22%)
+977,9111.0,Public Administration,Executive Offices,#CD7CA4,9111.0,1588.0,0.0022328364756616604,0.22,Executive Offices (0.22%)
+967,8732.0,Services,"Commercial Economic, Sociological, and Educational Research",#FF0069,8732.0,1586.0,0.0022300243390424392,0.22,"Commercial Economic, Sociological, and Educational Research (0.22%)"
+950,8351.0,Services,Child Day Care Services,#FF0069,8351.0,1525.0,0.0021442541721561916,0.21,Child Day Care Services (0.21%)
+98,1711.0,Construction,"Plumbing, Heating and Air-Conditioning",#696969,1711.0,1516.0,0.002131599557369696,0.21,"Plumbing, Heating and Air-Conditioning (0.21%)"
+493,3634.0,Manufacturing,Electric Housewares and Fans,#0072FF,3634.0,1507.0,0.0021189449425832005,0.21,Electric Housewares and Fans (0.21%)
+868,7374.0,Services,Computer Processing and Data Preparation and Processing Services,#FF0069,7374.0,1445.0,0.0020317687073873425,0.2,Computer Processing and Data Preparation and Processing Services (0.2%)
+864,7363.0,Services,Help Supply Services,#FF0069,7363.0,1346.0,0.0018925679447358912,0.19,Help Supply Services (0.19%)
+778,6029.0,"Finance, Insurance, And Real Estate","Commercial Banks, Not Elsewhere Classified",#FFFF00,6029.0,1320.0,0.0018560101686860152,0.19,"Commercial Banks, Not Elsewhere Classified (0.19%)"
+972,8743.0,Services,Public Relations Services,#FF0069,8743.0,1318.0,0.0018531980320667938,0.19,Public Relations Services (0.19%)
+995,9532.0,Public Administration,Administration of Urban Planning and Community and Rural Development,#CD7CA4,9532.0,1316.0,0.0018503858954475726,0.19,Administration of Urban Planning and Community and Rural Development (0.19%)
+613,4725.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Tour Operators,#C3FF00,4725.0,1285.0,0.0018067977778496436,0.18,Tour Operators (0.18%)
+901,7812.0,Services,Motion Picture and Video Tape Production,#FF0069,7812.0,1276.0,0.0017941431630631478,0.18,Motion Picture and Video Tape Production (0.18%)
+800,6324.0,"Finance, Insurance, And Real Estate",Hospital and Medical Service Plans,#FFFF00,6324.0,1261.0,0.0017730521384189887,0.18,Hospital and Medical Service Plans (0.18%)
+846,7299.0,Services,"Miscellaneous Personal Services, Not Elsewhere Classified",#FF0069,7299.0,1249.0,0.0017561793187036612,0.18,"Miscellaneous Personal Services, Not Elsewhere Classified (0.18%)"
+935,8082.0,Services,Home Health Care Services,#FF0069,8082.0,1246.0,0.0017519611137748294,0.18,Home Health Care Services (0.18%)
+292,2834.0,Manufacturing,Pharmaceutical Preparations,#0072FF,2834.0,1241.0,0.0017449307722267762,0.17,Pharmaceutical Preparations (0.17%)
+938,8099.0,Services,"Health and Allied Services, Not Elsewhere Classified",#FF0069,8099.0,1230.0,0.0017294640208210595,0.17,"Health and Allied Services, Not Elsewhere Classified (0.17%)"
+751,5912.0,Retail and wholesale trade,Drug Stores and Proprietary Stores,#FF9BCD,5912.0,1204.0,0.0016929062447711835,0.17,Drug Stores and Proprietary Stores (0.17%)
+737,5651.0,Retail and wholesale trade,Family Clothing Stores,#FF9BCD,5651.0,1171.0,0.001646505990554033,0.16,Family Clothing Stores (0.16%)
+691,5146.0,Retail and wholesale trade,Fish and Seafoods,#FF9BCD,5146.0,1152.0,0.0016197906926714314,0.16,Fish and Seafoods (0.16%)
+715,5311.0,Retail and wholesale trade,Department Stores,#FF9BCD,5311.0,1132.0,0.001591669326479219,0.16,Department Stores (0.16%)
+978,9121.0,Public Administration,Legislative Bodies,#CD7CA4,9121.0,1125.0,0.0015818268483119447,0.16,Legislative Bodies (0.16%)
+93,1542.0,Construction,"General Contractors-Nonresidential Buildings, Other than Industrial Buildings and Warehouses",#696969,1542.0,1094.0,0.0015382387307140155,0.15,"General Contractors-Nonresidential Buildings, Other than Industrial Buildings and Warehouses (0.15%)"
+956,8621.0,Services,Professional Membership Organizations,#FF0069,8621.0,1094.0,0.0015382387307140155,0.15,Professional Membership Organizations (0.15%)
+976,8999.0,Services,"Services, Not Elsewhere Classified",#FF0069,8999.0,1074.0,0.0015101173645218032,0.15,"Services, Not Elsewhere Classified (0.15%)"
+608,4581.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Airports, Flying Fields, and Airport Terminal Services",#C3FF00,4581.0,1072.0,0.001507305227902582,0.15,"Airports, Flying Fields, and Airport Terminal Services (0.15%)"
+994,9531.0,Public Administration,Administration of Housing Programs,#CD7CA4,9531.0,1061.0,0.001491838476496865,0.15,Administration of Housing Programs (0.15%)
+725,5511.0,Retail and wholesale trade,Motor Vehicle Dealers (New and Used),#FF9BCD,5511.0,1044.0,0.0014679353152334846,0.15,Motor Vehicle Dealers (New and Used) (0.15%)
+90,1522.0,Construction,"General Contractors-Residential Buildings, Other Than Single-Family",#696969,1522.0,1017.0,0.001429971470873998,0.14,"General Contractors-Residential Buildings, Other Than Single-Family (0.14%)"
+734,5621.0,Retail and wholesale trade,Women's Clothing Stores,#FF9BCD,5621.0,988.0,0.00138919548989529,0.14,Women's Clothing Stores (0.14%)
+791,6162.0,"Finance, Insurance, And Real Estate",Mortgage Bankers and Loan Correspondents,#FFFF00,6162.0,987.0,0.0013877894215856795,0.14,Mortgage Bankers and Loan Correspondents (0.14%)
+818,6719.0,"Finance, Insurance, And Real Estate","Offices of Holding Companies, Not Elsewhere Classified",#FFFF00,6719.0,966.0,0.0013582619870838564,0.14,"Offices of Holding Companies, Not Elsewhere Classified (0.14%)"
+993,9512.0,Public Administration,"Land, Mineral, Wildlife, and Forest Conservation",#CD7CA4,9512.0,964.0,0.0013554498504646352,0.14,"Land, Mineral, Wildlife, and Forest Conservation (0.14%)"
+774,6011.0,"Finance, Insurance, And Real Estate",Federal Reserve Banks,#FFFF00,6011.0,950.0,0.0013357648941300867,0.13,Federal Reserve Banks (0.13%)
+880,7514.0,Services,Passenger Car Rental,#FF0069,7514.0,927.0,0.0013034253230090425,0.13,Passenger Car Rental (0.13%)
+988,9411.0,Public Administration,Administration of Educational Programs,#CD7CA4,9411.0,904.0,0.0012710857518879982,0.13,Administration of Educational Programs (0.13%)
+954,8422.0,Services,Arboreta and Botanical or Zoological Gardens,#FF0069,8422.0,879.0,0.0012359340441477327,0.12,Arboreta and Botanical or Zoological Gardens (0.12%)
+957,8631.0,Services,Labor Unions and Similar Labor Organizations,#FF0069,8631.0,872.0,0.0012260915659804584,0.12,Labor Unions and Similar Labor Organizations (0.12%)
+933,8071.0,Services,Medical Laboratories,#FF0069,8071.0,864.0,0.0012148430195035736,0.12,Medical Laboratories (0.12%)
+746,5734.0,Retail and wholesale trade,Computer and Computer Software Stores,#FF9BCD,5734.0,848.0,0.0011923459265498037,0.12,Computer and Computer Software Stores (0.12%)
+576,4111.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Local and Suburban Transit,#C3FF00,4111.0,828.0,0.0011642245603575912,0.12,Local and Suburban Transit (0.12%)
+926,8049.0,Services,"Offices and Clinics of Health Practitioners, Not Elsewhere Classified",#FF0069,8049.0,826.0,0.00116141242373837,0.12,"Offices and Clinics of Health Practitioners, Not Elsewhere Classified (0.12%)"
+593,4311.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",United States Postal Service,#C3FF00,4311.0,822.0,0.0011557881504999277,0.12,United States Postal Service (0.12%)
+797,6289.0,"Finance, Insurance, And Real Estate","Services Allied With the Exchange of Securities or Commodities, Not Elsewhere Classified",#FFFF00,6289.0,806.0,0.0011332910575461578,0.11,"Services Allied With the Exchange of Securities or Commodities, Not Elsewhere Classified (0.11%)"
+92,1541.0,Construction,General Contractors-Industrial Buildings and Warehouses,#696969,1541.0,773.0,0.0010868908033290073,0.11,General Contractors-Industrial Buildings and Warehouses (0.11%)
+100,1731.0,Construction,Electrical Work,#696969,1731.0,771.0,0.0010840786667097862,0.11,Electrical Work (0.11%)
+612,4724.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Travel Agencies,#C3FF00,4724.0,769.0,0.0010812665300905648,0.11,Travel Agencies (0.11%)
+590,4225.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",General Warehousing and Storage,#C3FF00,4225.0,693.0,0.0009744053385601579,0.1,General Warehousing and Storage (0.1%)
+151,2082.0,Manufacturing,Malt Beverages,#0072FF,2082.0,662.0,0.0009308172209622288,0.09,Malt Beverages (0.09%)
+740,5712.0,Retail and wholesale trade,Furniture Stores,#FF9BCD,5712.0,660.0,0.0009280050843430076,0.09,Furniture Stores (0.09%)
+919,7999.0,Services,"Amusement and Recreation Services, Not Elsewhere Classified",#FF0069,7999.0,659.0,0.0009265990160333969,0.09,"Amusement and Recreation Services, Not Elsewhere Classified (0.09%)"
+955,8611.0,Services,Business Associations,#FF0069,8611.0,651.0,0.0009153504695565119,0.09,Business Associations (0.09%)
+623,4832.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Radio Broadcasting Stations,#C3FF00,4832.0,640.0,0.0008998837181507952,0.09,Radio Broadcasting Stations (0.09%)
+601,4491.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Marine Cargo Handling,#C3FF00,4491.0,640.0,0.0008998837181507952,0.09,Marine Cargo Handling (0.09%)
+497,3643.0,Manufacturing,Current-Carrying Wiring Devices,#0072FF,3643.0,622.0,0.0008745744885778041,0.09,Current-Carrying Wiring Devices (0.09%)
+999,9641.0,Public Administration,Regulation of Agricultural Marketing and Commodities,#CD7CA4,9641.0,612.0,0.0008605138054816979,0.09,Regulation of Agricultural Marketing and Commodities (0.09%)
+949,8331.0,Services,Job Training and Vocational Rehabilitation Services,#FF0069,8331.0,610.0,0.0008577016688624767,0.09,Job Training and Vocational Rehabilitation Services (0.09%)
+757,5944.0,Retail and wholesale trade,Jewelry Stores,#FF9BCD,5944.0,609.0,0.0008562956005528661,0.09,Jewelry Stores (0.09%)
+862,7359.0,Services,"Equipment Rental and Leasing, Not Elsewhere Classified",#FF0069,7359.0,600.0,0.0008436409857663705,0.08,"Equipment Rental and Leasing, Not Elsewhere Classified (0.08%)"
+752,5921.0,Retail and wholesale trade,Liquor Stores,#FF9BCD,5921.0,598.0,0.0008408288491471492,0.08,Liquor Stores (0.08%)
+433,3511.0,Manufacturing,"Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units",#0072FF,3511.0,596.0,0.0008380167125279281,0.08,"Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units (0.08%)"
+615,4731.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Arrangement of Transportation of Freight and Cargo,#C3FF00,4731.0,586.0,0.0008239560294318218,0.08,Arrangement of Transportation of Freight and Cargo (0.08%)
+577,4119.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Local Passenger Transportation, Not Elsewhere Classified",#C3FF00,4119.0,582.0,0.0008183317561933793,0.08,"Local Passenger Transportation, Not Elsewhere Classified (0.08%)"
+624,4833.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Television Broadcasting Stations,#C3FF00,4833.0,579.0,0.0008141135512645476,0.08,Television Broadcasting Stations (0.08%)
+526,3721.0,Manufacturing,Aircraft,#0072FF,3721.0,570.0,0.000801458936478052,0.08,Aircraft (0.08%)
+918,7997.0,Services,Membership Sports and Recreation Clubs,#FF0069,7997.0,565.0,0.0007944285949299988,0.08,Membership Sports and Recreation Clubs (0.08%)
+397,3421.0,Manufacturing,Cutlery,#0072FF,3421.0,555.0,0.0007803679118338927,0.08,Cutlery (0.08%)
+984,9223.0,Public Administration,Correctional Institutions,#CD7CA4,9223.0,555.0,0.0007803679118338927,0.08,Correctional Institutions (0.08%)
+790,6159.0,"Finance, Insurance, And Real Estate",Miscellaneous business Credit Institutions,#FFFF00,6159.0,542.0,0.0007620890238089547,0.08,Miscellaneous business Credit Institutions (0.08%)
+270,2721.0,Manufacturing,"Periodicals: Publishing, or Publishing and Printing",#0072FF,2721.0,534.0,0.0007508404773320697,0.08,"Periodicals: Publishing, or Publishing and Printing (0.08%)"
+710,5211.0,Retail and wholesale trade,Lumber and Other Building Materials Dealers,#FF9BCD,5211.0,532.0,0.0007480283407128485,0.07,Lumber and Other Building Materials Dealers (0.07%)
+780,6036.0,"Finance, Insurance, And Real Estate","Savings Institutions, Not Federally Chartered",#FFFF00,6036.0,514.0,0.0007227191111398574,0.07,"Savings Institutions, Not Federally Chartered (0.07%)"
+733,5611.0,Retail and wholesale trade,Men's and Boys' Clothing and Accessory Stores,#FF9BCD,5611.0,505.0,0.0007100644963533619,0.07,Men's and Boys' Clothing and Accessory Stores (0.07%)
+47,781.0,"Agriculture, Forestry, Fishing, Mining",Landscape Counseling and Planning,#698705,781.0,502.0,0.00070584629142453,0.07,Landscape Counseling and Planning (0.07%)
+795,6231.0,"Finance, Insurance, And Real Estate",Security and Commodity Exchanges,#FFFF00,6231.0,499.0,0.0007016280864956981,0.07,Security and Commodity Exchanges (0.07%)
+817,6712.0,"Finance, Insurance, And Real Estate",Offices of Bank Holding Companies,#FFFF00,6712.0,480.0,0.0006749127886130964,0.07,Offices of Bank Holding Companies (0.07%)
+875,7382.0,Services,Security Systems Services,#FF0069,7382.0,464.0,0.0006524156956593265,0.07,Security Systems Services (0.07%)
+991,9451.0,Public Administration,"Administration of Veterans' Affairs, Except Health and Insurance",#CD7CA4,9451.0,457.0,0.0006425732174920522,0.06,"Administration of Veterans' Affairs, Except Health and Insurance (0.06%)"
+912,7941.0,Services,Professional Sports Clubs and Promoters,#FF0069,7941.0,447.0,0.000628512534395946,0.06,Professional Sports Clubs and Promoters (0.06%)
+578,4121.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Taxicabs,#C3FF00,4121.0,446.0,0.0006271064660863354,0.06,Taxicabs (0.06%)
+900,7699.0,Services,"Repair Shops and Related Services, Not Elsewhere Classified",#FF0069,7699.0,439.0,0.0006172639879190611,0.06,"Repair Shops and Related Services, Not Elsewhere Classified (0.06%)"
+620,4812.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Radiotelephone Communications,#C3FF00,4812.0,422.0,0.0005933608266556806,0.06,Radiotelephone Communications (0.06%)
+879,7513.0,Services,"Truck Rental and Leasing, Without Drivers",#FF0069,7513.0,415.0,0.0005835183484884063,0.06,"Truck Rental and Leasing, Without Drivers (0.06%)"
+96,1623.0,Construction,"Water, Sewer, Pipeline, and Communications and Power Line Construction",#696969,1623.0,410.0,0.0005764880069403531,0.06,"Water, Sewer, Pipeline, and Communications and Power Line Construction (0.06%)"
+760,5947.0,Retail and wholesale trade,"Gift, Novelty, and Souvenir Shops",#FF9BCD,5947.0,410.0,0.0005764880069403531,0.06,"Gift, Novelty, and Souvenir Shops (0.06%)"
+755,5942.0,Retail and wholesale trade,Book Stores,#FF9BCD,5942.0,407.0,0.0005722698020115214,0.06,Book Stores (0.06%)
+337,3149.0,Manufacturing,"Footwear, Except Rubber, Not Elsewhere Classified",#0072FF,3149.0,400.0,0.000562427323844247,0.06,"Footwear, Except Rubber, Not Elsewhere Classified (0.06%)"
+876,7383.0,Services,News Syndicates,#FF0069,7383.0,400.0,0.000562427323844247,0.06,News Syndicates (0.06%)
+849,7313.0,Services,"Radio, Television, and Publishers' Advertising Representatives",#FF0069,7313.0,389.0,0.0005469605724385303,0.05,"Radio, Television, and Publishers' Advertising Representatives (0.05%)"
+681,5122.0,Retail and wholesale trade,"Drugs, Drug Proprietaries, and Druggists' Sundries",#FF9BCD,5122.0,388.0,0.0005455545041289196,0.05,"Drugs, Drug Proprietaries, and Druggists' Sundries (0.05%)"
+387,3357.0,Manufacturing,Drawing and Insulating of Nonferrous Wire,#0072FF,3357.0,384.0,0.0005399302308904771,0.05,Drawing and Insulating of Nonferrous Wire (0.05%)
+739,5699.0,Retail and wholesale trade,Miscellaneous Apparel and Accessory Stores,#FF9BCD,5699.0,384.0,0.0005399302308904771,0.05,Miscellaneous Apparel and Accessory Stores (0.05%)
+677,5099.0,Retail and wholesale trade,"Durable Goods, Not Elsewhere Classified",#FF9BCD,5099.0,383.0,0.0005385241625808665,0.05,"Durable Goods, Not Elsewhere Classified (0.05%)"
+973,8744.0,Services,Facilities Support Management Services,#FF0069,8744.0,379.0,0.000532899889342424,0.05,Facilities Support Management Services (0.05%)
+114,1799.0,Construction,"Special Trade Contractors, Not Elsewhere Classified",#696969,1799.0,379.0,0.000532899889342424,0.05,"Special Trade Contractors, Not Elsewhere Classified (0.05%)"
+294,2836.0,Manufacturing,"Biological Products, Except Diagnostic Substances",#0072FF,2836.0,378.0,0.0005314938210328134,0.05,"Biological Products, Except Diagnostic Substances (0.05%)"
+645,5021.0,Retail and wholesale trade,Furniture,#FF9BCD,5021.0,377.0,0.0005300877527232028,0.05,Furniture (0.05%)
+626,4899.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Communications Services, Not Elsewhere Classified",#C3FF00,4899.0,372.0,0.0005230574111751498,0.05,"Communications Services, Not Elsewhere Classified (0.05%)"
+913,7948.0,Services,"Racing, Including Track Operation",#FF0069,7948.0,371.0,0.0005216513428655391,0.05,"Racing, Including Track Operation (0.05%)"
+694,5149.0,Retail and wholesale trade,"Groceries and Related Products, Not Elsewhere Classified",#FF9BCD,5149.0,371.0,0.0005216513428655391,0.05,"Groceries and Related Products, Not Elsewhere Classified (0.05%)"
+856,7336.0,Services,Commercial Art and Graphic Design,#FF0069,7336.0,368.0,0.0005174331379367073,0.05,Commercial Art and Graphic Design (0.05%)
+48,782.0,"Agriculture, Forestry, Fishing, Mining",Lawn and Garden Services,#698705,782.0,365.0,0.0005132149330078754,0.05,Lawn and Garden Services (0.05%)
+573,3999.0,Manufacturing,"Manufacturing Industries, Not Elsewhere Classified",#0072FF,3999.0,361.0,0.0005075906597694329,0.05,"Manufacturing Industries, Not Elsewhere Classified (0.05%)"
+769,5992.0,Retail and wholesale trade,Florists,#FF9BCD,5992.0,357.0,0.0005019663865309904,0.05,Florists (0.05%)
+854,7334.0,Services,Photocopying and Duplicating Services,#FF0069,7334.0,350.0,0.0004921239083637161,0.05,Photocopying and Duplicating Services (0.05%)
+996,9611.0,Public Administration,Administration of General Economic Programs,#CD7CA4,9611.0,350.0,0.0004921239083637161,0.05,Administration of General Economic Programs (0.05%)
+728,5541.0,Retail and wholesale trade,Gasoline Service Stations,#FF9BCD,5541.0,347.0,0.00048790570343488425,0.05,Gasoline Service Stations (0.05%)
+788,6141.0,"Finance, Insurance, And Real Estate",Personal Credit Institutions,#FFFF00,6141.0,345.0,0.00048509356681566306,0.05,Personal Credit Institutions (0.05%)
+869,7375.0,Services,Information Retrieval Services,#FF0069,7375.0,343.0,0.0004822814301964418,0.05,Information Retrieval Services (0.05%)
+889,7538.0,Services,General Automotive Repair Shops,#FF0069,7538.0,328.0,0.00046119040555228256,0.05,General Automotive Repair Shops (0.05%)
+789,6153.0,"Finance, Insurance, And Real Estate","Short-Term Business Credit Institutions, Except Agricultural",#FFFF00,6153.0,322.0,0.00045275399569461884,0.05,"Short-Term Business Credit Institutions, Except Agricultural (0.05%)"
+812,6519.0,"Finance, Insurance, And Real Estate","Lessors of Real Property, Not Elsewhere Classified",#FFFF00,6519.0,314.0,0.0004415054492177339,0.04,"Lessors of Real Property, Not Elsewhere Classified (0.04%)"
+786,6099.0,"Finance, Insurance, And Real Estate","Functions Related to Depository Banking, Not Elsewhere Classified",#FFFF00,6099.0,311.0,0.00043728724428890206,0.04,"Functions Related to Depository Banking, Not Elsewhere Classified (0.04%)"
+693,5148.0,Retail and wholesale trade,Fresh Fruits and Vegetables,#FF9BCD,5148.0,311.0,0.00043728724428890206,0.04,Fresh Fruits and Vegetables (0.04%)
+745,5731.0,Retail and wholesale trade,"Radio, Television, and Consumer Electronics Stores",#FF9BCD,5731.0,302.0,0.0004246326295024065,0.04,"Radio, Television, and Consumer Electronics Stores (0.04%)"
+323,3081.0,Manufacturing,Unsupported Plastics Film and Sheet,#0072FF,3081.0,300.0,0.00042182049288318527,0.04,Unsupported Plastics Film and Sheet (0.04%)
+625,4841.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Cable and Other Pay Television Services,#C3FF00,4841.0,297.0,0.0004176022879543534,0.04,Cable and Other Pay Television Services (0.04%)
+664,5074.0,Retail and wholesale trade,Plumbing and Heating Equipment and Supplies (Hydronics),#FF9BCD,5074.0,294.0,0.00041338408302552156,0.04,Plumbing and Heating Equipment and Supplies (Hydronics) (0.04%)
+584,4212.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Local Trucking Without Storage,#C3FF00,4212.0,292.0,0.0004105719464063003,0.04,Local Trucking Without Storage (0.04%)
+908,7911.0,Services,"Dance Studios, Schools, and Halls",#FF0069,7911.0,288.0,0.00040494767316785784,0.04,"Dance Studios, Schools, and Halls (0.04%)"
+986,9229.0,Public Administration,"Public Order and Safety, Not Elsewhere Classified",#CD7CA4,9229.0,286.0,0.0004021355365486366,0.04,"Public Order and Safety, Not Elsewhere Classified (0.04%)"
+787,6111.0,"Finance, Insurance, And Real Estate",Federal and Federally-Sponsored Credit Agencies,#FFFF00,6111.0,286.0,0.0004021355365486366,0.04,Federal and Federally-Sponsored Credit Agencies (0.04%)
+928,8052.0,Services,Intermediate Care Facilities,#FF0069,8052.0,284.0,0.00039932339992941536,0.04,Intermediate Care Facilities (0.04%)
+619,4789.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation Services, Not Elsewhere Classified",#C3FF00,4789.0,282.0,0.0003965112633101941,0.04,"Transportation Services, Not Elsewhere Classified (0.04%)"
+529,3731.0,Manufacturing,Ship Building and Repairing,#0072FF,3731.0,280.0,0.0003936991266909729,0.04,Ship Building and Repairing (0.04%)
+724,5499.0,Retail and wholesale trade,Miscellaneous Food Stores,#FF9BCD,5499.0,277.0,0.00038948092176214105,0.04,Miscellaneous Food Stores (0.04%)
+861,7353.0,Services,Heavy Construction Equipment Rental and Leasing,#FF0069,7353.0,273.0,0.0003838566485236986,0.04,Heavy Construction Equipment Rental and Leasing (0.04%)
+639,4961.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Steam and Air-Conditioning Supply,#C3FF00,4961.0,273.0,0.0003838566485236986,0.04,Steam and Air-Conditioning Supply (0.04%)
+803,6361.0,"Finance, Insurance, And Real Estate",Title Insurance,#FFFF00,6361.0,271.0,0.00038104451190447734,0.04,Title Insurance (0.04%)
+637,4953.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Refuse Systems,#C3FF00,4953.0,271.0,0.00038104451190447734,0.04,Refuse Systems (0.04%)
+276,2759.0,Manufacturing,"Commercial Printing, Not Elsewhere Classified",#0072FF,2759.0,270.0,0.00037963844359486674,0.04,"Commercial Printing, Not Elsewhere Classified (0.04%)"
+682,5131.0,Retail and wholesale trade,"Piece Goods, Notions, and Other Dry Good",#FF9BCD,5131.0,265.0,0.0003726081020468136,0.04,"Piece Goods, Notions, and Other Dry Good (0.04%)"
+104,1751.0,Construction,Carpentry Work,#696969,1751.0,262.0,0.0003683898971179818,0.04,Carpentry Work (0.04%)
+911,7933.0,Services,Bowling Centers,#FF0069,7933.0,258.0,0.0003627656238795393,0.04,Bowling Centers (0.04%)
+743,5719.0,Retail and wholesale trade,Miscellaneous home furnishings Stores,#FF9BCD,5719.0,256.0,0.0003599534872603181,0.04,Miscellaneous home furnishings Stores (0.04%)
+946,8249.0,Services,"Vocational Schools, Not Elsewhere Classified",#FF0069,8249.0,253.0,0.00035573528233148624,0.04,"Vocational Schools, Not Elsewhere Classified (0.04%)"
+274,2752.0,Manufacturing,"Commercial Printing, Lithographic",#0072FF,2752.0,252.0,0.0003543292140218756,0.04,"Commercial Printing, Lithographic (0.04%)"
+600,4489.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Water Transportation of Passengers, Not Elsewhere Classified",#C3FF00,4489.0,252.0,0.0003543292140218756,0.04,"Water Transportation of Passengers, Not Elsewhere Classified (0.04%)"
+545,3826.0,Manufacturing,Laboratory Analytical Instruments,#0072FF,3826.0,250.0,0.00035151707740265436,0.04,Laboratory Analytical Instruments (0.04%)
+191,2311.0,Manufacturing,"Men's and Boys' Suits, Coats, and Overcoats",#0072FF,2311.0,244.0,0.0003430806675449907,0.03,"Men's and Boys' Suits, Coats, and Overcoats (0.03%)"
+685,5139.0,Retail and wholesale trade,Footwear,#FF9BCD,5139.0,242.0,0.00034026853092576946,0.03,Footwear (0.03%)
+94,1611.0,Construction,"Highway and Street Construction, Except Elevated Highways",#696969,1611.0,242.0,0.00034026853092576946,0.03,"Highway and Street Construction, Except Elevated Highways (0.03%)"
+929,8059.0,Services,"Nursing and Personal Care Facilities, Not Elsewhere Classified",#FF0069,8059.0,242.0,0.00034026853092576946,0.03,"Nursing and Personal Care Facilities, Not Elsewhere Classified (0.03%)"
+852,7323.0,Services,Credit Reporting Services,#FF0069,7323.0,238.0,0.000334644257687327,0.03,Credit Reporting Services (0.03%)
+515,3679.0,Manufacturing,"Electronic Components, Not Elsewhere Classified",#0072FF,3679.0,232.0,0.00032620784782966326,0.03,"Electronic Components, Not Elsewhere Classified (0.03%)"
+692,5147.0,Retail and wholesale trade,Meats and Meat Products,#FF9BCD,5147.0,231.0,0.00032480177952005267,0.03,Meats and Meat Products (0.03%)
+821,6732.0,"Finance, Insurance, And Real Estate","Educational, Religious, and Charitable Trusts",#FFFF00,6732.0,231.0,0.00032480177952005267,0.03,"Educational, Religious, and Charitable Trusts (0.03%)"
+842,7241.0,Services,Barber Shops,#FF0069,7241.0,230.0,0.000323395711210442,0.03,Barber Shops (0.03%)
+884,7532.0,Services,"Top, Body, and Upholstery Repair Shops and Paint Shops",#FF0069,7532.0,220.0,0.00030933502811433583,0.03,"Top, Body, and Upholstery Repair Shops and Paint Shops (0.03%)"
+109,1791.0,Construction,Structural Steel Erection,#696969,1791.0,212.0,0.00029808648163745093,0.03,Structural Steel Erection (0.03%)
+754,5941.0,Retail and wholesale trade,Sporting Goods Stores and Bicycle Shops,#FF9BCD,5941.0,212.0,0.00029808648163745093,0.03,Sporting Goods Stores and Bicycle Shops (0.03%)
+772,5995.0,Retail and wholesale trade,Optical Goods Stores,#FF9BCD,5995.0,209.0,0.00029386827670861904,0.03,Optical Goods Stores (0.03%)
+903,7822.0,Services,Motion Picture and Video Tape Distribution,#FF0069,7822.0,205.0,0.00028824400347017657,0.03,Motion Picture and Video Tape Distribution (0.03%)
+660,5063.0,Retail and wholesale trade,"Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials",#FF9BCD,5063.0,204.0,0.000286837935160566,0.03,"Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials (0.03%)"
+568,3965.0,Manufacturing,"Fasteners, Buttons, Needles, and Pins",#0072FF,3965.0,202.0,0.00028402579854134473,0.03,"Fasteners, Buttons, Needles, and Pins (0.03%)"
+853,7331.0,Services,Direct Mail Advertising Services,#FF0069,7331.0,201.0,0.00028261973023173414,0.03,Direct Mail Advertising Services (0.03%)
+792,6163.0,"Finance, Insurance, And Real Estate",Loan Brokers,#FFFF00,6163.0,199.0,0.0002798075936125129,0.03,Loan Brokers (0.03%)
+944,8243.0,Services,Data Processing Schools,#FF0069,8243.0,198.0,0.00027840152530290226,0.03,Data Processing Schools (0.03%)
+924,8042.0,Services,Offices and Clinics of Optometrists,#FF0069,8042.0,196.0,0.000275589388683681,0.03,Offices and Clinics of Optometrists (0.03%)
+782,6062.0,"Finance, Insurance, And Real Estate","Credit Unions, Not Federally Chartered",#FFFF00,6062.0,196.0,0.000275589388683681,0.03,"Credit Unions, Not Federally Chartered (0.03%)"
+779,6035.0,"Finance, Insurance, And Real Estate","Savings Institutions, Federally Chartered",#FFFF00,6035.0,195.0,0.0002741833203740704,0.03,"Savings Institutions, Federally Chartered (0.03%)"
+507,3669.0,Manufacturing,"Communications Equipment, Not Elsewhere Classified",#0072FF,3669.0,195.0,0.0002741833203740704,0.03,"Communications Equipment, Not Elsewhere Classified (0.03%)"
+836,7216.0,Services,"Drycleaning Plants, Except Rug Cleaning",#FF0069,7216.0,195.0,0.0002741833203740704,0.03,"Drycleaning Plants, Except Rug Cleaning (0.03%)"
+709,5199.0,Retail and wholesale trade,"Nondurable Goods, Not Elsewhere Classified",#FF9BCD,5199.0,192.0,0.00026996511544523854,0.03,"Nondurable Goods, Not Elsewhere Classified (0.03%)"
+217,2394.0,Manufacturing,Canvas and Related Products,#0072FF,2394.0,190.0,0.0002671529788260173,0.03,Canvas and Related Products (0.03%)
+587,4215.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Courier Services, Except by Air",#C3FF00,4215.0,189.0,0.0002657469105164067,0.03,"Courier Services, Except by Air (0.03%)"
+845,7291.0,Services,Tax Return Preparation Services,#FF0069,7291.0,186.0,0.0002615287055875749,0.03,Tax Return Preparation Services (0.03%)
+719,5421.0,Retail and wholesale trade,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners",#FF9BCD,5421.0,186.0,0.0002615287055875749,0.03,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners (0.03%)"
+804,6371.0,"Finance, Insurance, And Real Estate","Pension, Health, and Welfare Funds",#FFFF00,6371.0,185.0,0.00026012263727796423,0.03,"Pension, Health, and Welfare Funds (0.03%)"
+521,3711.0,Manufacturing,Motor Vehicles and Passenger Car Bodies,#0072FF,3711.0,182.0,0.0002559044323491324,0.03,Motor Vehicles and Passenger Car Bodies (0.03%)
+647,5031.0,Retail and wholesale trade,"Lumber, Plywood, Millwork, and Wood Panels",#FF9BCD,5031.0,179.0,0.0002516862274203005,0.03,"Lumber, Plywood, Millwork, and Wood Panels (0.03%)"
+200,2337.0,Manufacturing,"Women's, Misses', and Juniors' Suits, Skirts, and Coats",#0072FF,2337.0,174.0,0.00024465588587224745,0.02,"Women's, Misses', and Juniors' Suits, Skirts, and Coats (0.02%)"
+735,5632.0,Retail and wholesale trade,Women's Accessory and Specialty Stores,#FF9BCD,5632.0,172.0,0.0002418437492530262,0.02,Women's Accessory and Specialty Stores (0.02%)
+293,2835.0,Manufacturing,In Vitro and In Vivo Diagnostic Substances,#0072FF,2835.0,172.0,0.0002418437492530262,0.02,In Vitro and In Vivo Diagnostic Substances (0.02%)
+881,7515.0,Services,Passenger Car Leasing,#FF0069,7515.0,170.0,0.00023903161263380497,0.02,Passenger Car Leasing (0.02%)
+676,5094.0,Retail and wholesale trade,"Jewelry, Watches, Precious Stones, and Precious Metals",#FF9BCD,5094.0,168.0,0.00023621947601458373,0.02,"Jewelry, Watches, Precious Stones, and Precious Metals (0.02%)"
+857,7338.0,Services,Secretarial and Court Reporting Services,#FF0069,7338.0,166.0,0.00023340733939536252,0.02,Secretarial and Court Reporting Services (0.02%)
+959,8651.0,Services,Political Organizations,#FF0069,8651.0,164.0,0.00023059520277614128,0.02,Political Organizations (0.02%)
+523,3714.0,Manufacturing,Motor Vehicle Parts and Accessories,#0072FF,3714.0,160.0,0.0002249709295376988,0.02,Motor Vehicle Parts and Accessories (0.02%)
+840,7221.0,Services,"Photographic Studios, Portrait",#FF0069,7221.0,159.0,0.00022356486122808818,0.02,"Photographic Studios, Portrait (0.02%)"
+298,2844.0,Manufacturing,"Perfumes, Cosmetics, and Other Toilet Preparations",#0072FF,2844.0,158.0,0.00022215879291847756,0.02,"Perfumes, Cosmetics, and Other Toilet Preparations (0.02%)"
+580,4141.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Local Bus Charter Service,#C3FF00,4141.0,157.0,0.00022075272460886694,0.02,Local Bus Charter Service (0.02%)
+712,5251.0,Retail and wholesale trade,Hardware Stores,#FF9BCD,5251.0,156.0,0.00021934665629925632,0.02,Hardware Stores (0.02%)
+628,4922.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Natural Gas Transmission,#C3FF00,4922.0,154.0,0.00021653451968003509,0.02,Natural Gas Transmission (0.02%)
+727,5531.0,Retail and wholesale trade,Auto and Home Supply Stores,#FF9BCD,5531.0,153.0,0.00021512845137042447,0.02,Auto and Home Supply Stores (0.02%)
+844,7261.0,Services,Funeral Service and Crematories,#FF0069,7261.0,151.0,0.00021231631475120326,0.02,Funeral Service and Crematories (0.02%)
+434,3519.0,Manufacturing,"Internal Combustion Engines, Not Elsewhere Classified",#0072FF,3519.0,150.0,0.00021091024644159264,0.02,"Internal Combustion Engines, Not Elsewhere Classified (0.02%)"
+936,8092.0,Services,Kidney Dialysis Centers,#FF0069,8092.0,147.0,0.00020669204151276078,0.02,Kidney Dialysis Centers (0.02%)
+706,5193.0,Retail and wholesale trade,"Flowers, Nursery Stock, and Florists' Supplies",#FF9BCD,5193.0,146.0,0.00020528597320315016,0.02,"Flowers, Nursery Stock, and Florists' Supplies (0.02%)"
+998,9631.0,Public Administration,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",#CD7CA4,9631.0,145.0,0.00020387990489353954,0.02,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities (0.02%)"
+816,6553.0,"Finance, Insurance, And Real Estate",Cemetery Subdividers and Developers,#FFFF00,6553.0,143.0,0.0002010677682743183,0.02,Cemetery Subdividers and Developers (0.02%)
+753,5932.0,Retail and wholesale trade,Used Merchandise Stores,#FF9BCD,5932.0,143.0,0.0002010677682743183,0.02,Used Merchandise Stores (0.02%)
+781,6061.0,"Finance, Insurance, And Real Estate","Credit Unions, Federally Chartered",#FFFF00,6061.0,142.0,0.00019966169996470768,0.02,"Credit Unions, Federally Chartered (0.02%)"
+163,2099.0,Manufacturing,"Food Preparations, Not Elsewhere Classified",#0072FF,2099.0,141.0,0.00019825563165509706,0.02,"Food Preparations, Not Elsewhere Classified (0.02%)"
+310,2895.0,Manufacturing,Carbon Black,#0072FF,2895.0,140.0,0.00019684956334548644,0.02,Carbon Black (0.02%)
+711,5231.0,Retail and wholesale trade,"Paint, Glass, and Wallpaper Stores",#FF9BCD,5231.0,139.0,0.00019544349503587582,0.02,"Paint, Glass, and Wallpaper Stores (0.02%)"
+253,2621.0,Manufacturing,Paper Mills,#0072FF,2621.0,138.0,0.0001940374267262652,0.02,Paper Mills (0.02%)
+158,2092.0,Manufacturing,Prepared Fresh or Frozen Fish and Seafoods,#0072FF,2092.0,135.0,0.00018981922179743337,0.02,Prepared Fresh or Frozen Fish and Seafoods (0.02%)
+579,4131.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Intercity and Rural Bus Transportation,#C3FF00,4131.0,132.0,0.00018560101686860151,0.02,Intercity and Rural Bus Transportation (0.02%)
+892,7549.0,Services,"Automotive Services, Except Repair and Carwashes",#FF0069,7549.0,132.0,0.00018560101686860151,0.02,"Automotive Services, Except Repair and Carwashes (0.02%)"
+634,4939.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Combination Utilities, Not Elsewhere Classified",#C3FF00,4939.0,131.0,0.0001841949485589909,0.02,"Combination Utilities, Not Elsewhere Classified (0.02%)"
+113,1796.0,Construction,"Installation or Erection of Building Equipment, Not Elsewhere",#696969,1796.0,131.0,0.0001841949485589909,0.02,"Installation or Erection of Building Equipment, Not Elsewhere (0.02%)"
+686,5141.0,Retail and wholesale trade,"Groceries, General Line",#FF9BCD,5141.0,131.0,0.0001841949485589909,0.02,"Groceries, General Line (0.02%)"
+662,5065.0,Retail and wholesale trade,"Electronic Parts and Equipment, Not Elsewhere Classified",#FF9BCD,5065.0,131.0,0.0001841949485589909,0.02,"Electronic Parts and Equipment, Not Elsewhere Classified (0.02%)"
+923,8041.0,Services,Offices and Clinics of Chiropractors,#FF0069,8041.0,130.0,0.00018278888024938028,0.02,Offices and Clinics of Chiropractors (0.02%)
+809,6514.0,"Finance, Insurance, And Real Estate",Operators of Dwellings Other Than Apartment Buildings,#FFFF00,6514.0,124.0,0.00017435247039171656,0.02,Operators of Dwellings Other Than Apartment Buildings (0.02%)
+850,7319.0,Services,"Advertising, Not Elsewhere Classified",#FF0069,7319.0,121.0,0.00017013426546288473,0.02,"Advertising, Not Elsewhere Classified (0.02%)"
+273,2741.0,Manufacturing,Miscellaneous Publishing,#0072FF,2741.0,119.0,0.0001673221288436635,0.02,Miscellaneous Publishing (0.02%)
+891,7542.0,Services,Carwashes,#FF0069,7542.0,118.0,0.00016591606053405287,0.02,Carwashes (0.02%)
+99,1721.0,Construction,Painting and Paper Hanging,#696969,1721.0,117.0,0.00016450999222444225,0.02,Painting and Paper Hanging (0.02%)
+548,3841.0,Manufacturing,Surgical and Medical Instruments and Apparatus,#0072FF,3841.0,117.0,0.00016450999222444225,0.02,Surgical and Medical Instruments and Apparatus (0.02%)
+539,3812.0,Manufacturing,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",#0072FF,3812.0,115.0,0.000161697855605221,0.02,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments (0.02%)"
+848,7312.0,Services,Outdoor Advertising Services,#FF0069,7312.0,114.0,0.0001602917872956104,0.02,Outdoor Advertising Services (0.02%)
+442,3536.0,Manufacturing,"Overhead Traveling Cranes, Hoists, and Monorail Systems",#0072FF,3536.0,112.0,0.00015747965067638915,0.02,"Overhead Traveling Cranes, Hoists, and Monorail Systems (0.02%)"
+964,8713.0,Services,Surveying Services,#FF0069,8713.0,112.0,0.00015747965067638915,0.02,Surveying Services (0.02%)
+585,4213.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Trucking, Except Local",#C3FF00,4213.0,111.0,0.00015607358236677853,0.02,"Trucking, Except Local (0.02%)"
+550,3843.0,Manufacturing,Dental Equipment and Supplies,#0072FF,3843.0,110.0,0.00015466751405716791,0.02,Dental Equipment and Supplies (0.02%)
+671,5087.0,Retail and wholesale trade,Service Establishment Equipment and Supplies,#FF9BCD,5087.0,109.0,0.0001532614457475573,0.02,Service Establishment Equipment and Supplies (0.02%)
+510,3674.0,Manufacturing,Semiconductors and Related Devices,#0072FF,3674.0,108.0,0.0001518553774379467,0.02,Semiconductors and Related Devices (0.02%)
+652,5044.0,Retail and wholesale trade,Office Equipment,#FF9BCD,5044.0,107.0,0.00015044930912833608,0.02,Office Equipment (0.02%)
+106,1761.0,Construction,"Roofing, Siding, and Sheet Metal Work",#696969,1761.0,106.0,0.00014904324081872546,0.01,"Roofing, Siding, and Sheet Metal Work (0.01%)"
+547,3829.0,Manufacturing,"Measuring and Controlling Devices, Not Elsewhere Classified",#0072FF,3829.0,105.0,0.00014763717250911485,0.01,"Measuring and Controlling Devices, Not Elsewhere Classified (0.01%)"
+400,3429.0,Manufacturing,"Hardware, Not Elsewhere Classified",#0072FF,3429.0,104.0,0.00014623110419950423,0.01,"Hardware, Not Elsewhere Classified (0.01%)"
+905,7832.0,Services,"Motion Picture Theaters, Except Drive-In",#FF0069,7832.0,103.0,0.0001448250358898936,0.01,"Motion Picture Theaters, Except Drive-In (0.01%)"
+404,3441.0,Manufacturing,Fabricated Structural Metal,#0072FF,3441.0,102.0,0.000143418967580283,0.01,Fabricated Structural Metal (0.01%)
+828,7021.0,Services,Rooming and Boarding Houses,#FF0069,7021.0,97.0,0.0001363886260322299,0.01,Rooming and Boarding Houses (0.01%)
+136,2051.0,Manufacturing,"Bread and Other Bakery Products, Except Cookies and Crackers",#0072FF,2051.0,95.0,0.00013357648941300865,0.01,"Bread and Other Bakery Products, Except Cookies and Crackers (0.01%)"
+552,3845.0,Manufacturing,Electromedical and Electrotherapeutic Apparatus,#0072FF,3845.0,95.0,0.00013357648941300865,0.01,Electromedical and Electrotherapeutic Apparatus (0.01%)
+247,2531.0,Manufacturing,Public Building and Related Furniture,#0072FF,2531.0,94.0,0.00013217042110339803,0.01,Public Building and Related Furniture (0.01%)
+945,8244.0,Services,Business and Secretarial Schools,#FF0069,8244.0,94.0,0.00013217042110339803,0.01,Business and Secretarial Schools (0.01%)
+42,742.0,"Agriculture, Forestry, Fishing, Mining",Veterinary Services for Animal Specialties,#698705,742.0,94.0,0.00013217042110339803,0.01,Veterinary Services for Animal Specialties (0.01%)
+670,5085.0,Retail and wholesale trade,Industrial Supplies,#FF9BCD,5085.0,94.0,0.00013217042110339803,0.01,Industrial Supplies (0.01%)
+618,4785.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation,#C3FF00,4785.0,90.0,0.00012654614786495558,0.01,Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation (0.01%)
+91,1531.0,Construction,Operative Builders,#696969,1531.0,90.0,0.00012654614786495558,0.01,Operative Builders (0.01%)
+834,7213.0,Services,Linen Supply,#FF0069,7213.0,90.0,0.00012654614786495558,0.01,Linen Supply (0.01%)
+549,3842.0,Manufacturing,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",#0072FF,3842.0,89.0,0.00012514007955534496,0.01,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies (0.01%)"
+747,5735.0,Retail and wholesale trade,Record and Prerecorded Tape Stores,#FF9BCD,5735.0,88.0,0.00012373401124573434,0.01,Record and Prerecorded Tape Stores (0.01%)
+642,5013.0,Retail and wholesale trade,Motor Vehicle Supplies and New Parts,#FF9BCD,5013.0,88.0,0.00012373401124573434,0.01,Motor Vehicle Supplies and New Parts (0.01%)
+689,5144.0,Retail and wholesale trade,Poultry and Poultry Products,#FF9BCD,5144.0,87.0,0.00012232794293612372,0.01,Poultry and Poultry Products (0.01%)
+556,3911.0,Manufacturing,"Jewelry, Precious Metal",#0072FF,3911.0,87.0,0.00012232794293612372,0.01,"Jewelry, Precious Metal (0.01%)"
+602,4492.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Towing and Tugboat Services,#C3FF00,4492.0,85.0,0.00011951580631690248,0.01,Towing and Tugboat Services (0.01%)
+969,8734.0,Services,Testing Laboratories,#FF0069,8734.0,85.0,0.00011951580631690248,0.01,Testing Laboratories (0.01%)
+102,1742.0,Construction,"Plastering, Drywall, Acoustical, and Insulation Work",#696969,1742.0,84.0,0.00011810973800729187,0.01,"Plastering, Drywall, Acoustical, and Insulation Work (0.01%)"
+748,5736.0,Retail and wholesale trade,Musical Instrument Stores,#FF9BCD,5736.0,84.0,0.00011810973800729187,0.01,Musical Instrument Stores (0.01%)
+115,2011.0,Manufacturing,Meat Packing Plants,#0072FF,2011.0,84.0,0.00011810973800729187,0.01,Meat Packing Plants (0.01%)
+581,4142.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Bus Charter Service, Except Local",#C3FF00,4142.0,83.0,0.00011670366969768126,0.01,"Bus Charter Service, Except Local (0.01%)"
+646,5023.0,Retail and wholesale trade,Home furnishings,#FF9BCD,5023.0,83.0,0.00011670366969768126,0.01,Home furnishings (0.01%)
+589,4222.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Refrigerated Warehousing and Storage,#C3FF00,4222.0,83.0,0.00011670366969768126,0.01,Refrigerated Warehousing and Storage (0.01%)
+669,5084.0,Retail and wholesale trade,Industrial Machinery and Equipment,#FF9BCD,5084.0,82.0,0.00011529760138807064,0.01,Industrial Machinery and Equipment (0.01%)
+890,7539.0,Services,"Automotive Repair Shops, Not Elsewhere Classified",#FF0069,7539.0,82.0,0.00011529760138807064,0.01,"Automotive Repair Shops, Not Elsewhere Classified (0.01%)"
+586,4214.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Local Trucking With Storage,#C3FF00,4214.0,82.0,0.00011529760138807064,0.01,Local Trucking With Storage (0.01%)
+761,5948.0,Retail and wholesale trade,Luggage and Leather Goods Stores,#FF9BCD,5948.0,81.0,0.00011389153307846002,0.01,Luggage and Leather Goods Stores (0.01%)
+766,5983.0,Retail and wholesale trade,Fuel Oil Dealers,#FF9BCD,5983.0,80.0,0.0001124854647688494,0.01,Fuel Oil Dealers (0.01%)
+655,5047.0,Retail and wholesale trade,"Medical, Dental, and Hospital Equipment and Supplies",#FF9BCD,5047.0,80.0,0.0001124854647688494,0.01,"Medical, Dental, and Hospital Equipment and Supplies (0.01%)"
+542,3823.0,Manufacturing,"Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products",#0072FF,3823.0,78.0,0.00010967332814962816,0.01,"Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products (0.01%)"
+835,7215.0,Services,Coin-Operated Laundries and Drycleaning,#FF0069,7215.0,77.0,0.00010826725984001754,0.01,Coin-Operated Laundries and Drycleaning (0.01%)
+571,3995.0,Manufacturing,Burial Caskets,#0072FF,3995.0,77.0,0.00010826725984001754,0.01,Burial Caskets (0.01%)
+716,5331.0,Retail and wholesale trade,Variety Stores,#FF9BCD,5331.0,76.0,0.00010686119153040692,0.01,Variety Stores (0.01%)
+302,2869.0,Manufacturing,"Industrial Organic Chemicals, Not Elsewhere Classified",#0072FF,2869.0,76.0,0.00010686119153040692,0.01,"Industrial Organic Chemicals, Not Elsewhere Classified (0.01%)"
+896,7631.0,Services,"Watch, Clock, and Jewelry Repair",#FF0069,7631.0,76.0,0.00010686119153040692,0.01,"Watch, Clock, and Jewelry Repair (0.01%)"
+483,3599.0,Manufacturing,"Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified",#0072FF,3599.0,74.0,0.0001040490549111857,0.01,"Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified (0.01%)"
+858,7342.0,Services,Disinfecting and Pest Control Services,#FF0069,7342.0,73.0,0.00010264298660157508,0.01,Disinfecting and Pest Control Services (0.01%)
+741,5713.0,Retail and wholesale trade,Floor Covering Stores,#FF9BCD,5713.0,71.0,9.983084998235384e-05,0.01,Floor Covering Stores (0.01%)
+110,1793.0,Construction,Glass and Glazing Work,#696969,1793.0,70.0,9.842478167274322e-05,0.01,Glass and Glazing Work (0.01%)
+471,3577.0,Manufacturing,"Computer Peripheral Equipment, Not Elsewhere Classified",#0072FF,3577.0,70.0,9.842478167274322e-05,0.01,"Computer Peripheral Equipment, Not Elsewhere Classified (0.01%)"
+95,1622.0,Construction,"Bridge, Tunnel, and Elevated Highway Construction",#696969,1622.0,70.0,9.842478167274322e-05,0.01,"Bridge, Tunnel, and Elevated Highway Construction (0.01%)"
+44,752.0,"Agriculture, Forestry, Fishing, Mining","Animal Specialty Services, Except Veterinary",#698705,752.0,70.0,9.842478167274322e-05,0.01,"Animal Specialty Services, Except Veterinary (0.01%)"
+476,3585.0,Manufacturing,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment,#0072FF,3585.0,70.0,9.842478167274322e-05,0.01,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment (0.01%)
+562,3949.0,Manufacturing,"Sporting and Athletic Goods, Not Elsewhere Classified",#0072FF,3949.0,69.0,9.70187133631326e-05,0.01,"Sporting and Athletic Goods, Not Elsewhere Classified (0.01%)"
+101,1741.0,Construction,"Masonry, Stone Setting, and Other Stone Work",#696969,1741.0,69.0,9.70187133631326e-05,0.01,"Masonry, Stone Setting, and Other Stone Work (0.01%)"
+636,4952.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Sewerage Systems,#C3FF00,4952.0,68.0,9.5612645053522e-05,0.01,Sewerage Systems (0.01%)
+722,5451.0,Retail and wholesale trade,Dairy Products Stores,#FF9BCD,5451.0,68.0,9.5612645053522e-05,0.01,Dairy Products Stores (0.01%)
+833,7212.0,Services,"Garment Pressing, and Agents for Laundries and Drycleaners",#FF0069,7212.0,67.0,9.420657674391138e-05,0.01,"Garment Pressing, and Agents for Laundries and Drycleaners (0.01%)"
+541,3822.0,Manufacturing,Automatic Controls for Regulating Residential and Commercial Environments and Appliances,#0072FF,3822.0,67.0,9.420657674391138e-05,0.01,Automatic Controls for Regulating Residential and Commercial Environments and Appliances (0.01%)
+648,5032.0,Retail and wholesale trade,"Brick, Stone, and Related Construction Materials",#FF9BCD,5032.0,66.0,9.280050843430076e-05,0.01,"Brick, Stone, and Related Construction Materials (0.01%)"
+135,2048.0,Manufacturing,"Prepared Feed and Feed Ingredients for Animals and Fowls, Except Dogs and Cats",#0072FF,2048.0,65.0,9.139444012469014e-05,0.01,"Prepared Feed and Feed Ingredients for Animals and Fowls, Except Dogs and Cats (0.01%)"
+925,8043.0,Services,Offices and Clinics of Podiatrists,#FF0069,8043.0,64.0,8.998837181507952e-05,0.01,Offices and Clinics of Podiatrists (0.01%)
+758,5945.0,Retail and wholesale trade,"Hobby, Toy, and Game Shops",#FF9BCD,5945.0,63.0,8.85823035054689e-05,0.01,"Hobby, Toy, and Game Shops (0.01%)"
+699,5169.0,Retail and wholesale trade,"Chemicals and Allied Products, Not Elsewhere Classified",#FF9BCD,5169.0,63.0,8.85823035054689e-05,0.01,"Chemicals and Allied Products, Not Elsewhere Classified (0.01%)"
+705,5192.0,Retail and wholesale trade,"Books, Periodicals, and Newspapers",#FF9BCD,5192.0,61.0,8.577016688624767e-05,0.01,"Books, Periodicals, and Newspapers (0.01%)"
+736,5641.0,Retail and wholesale trade,Children's and Infants' Wear Stores,#FF9BCD,5641.0,61.0,8.577016688624767e-05,0.01,Children's and Infants' Wear Stores (0.01%)
+407,3444.0,Manufacturing,Sheet Metal Work,#0072FF,3444.0,61.0,8.577016688624767e-05,0.01,Sheet Metal Work (0.01%)
+559,3931.0,Manufacturing,Musical Instruments,#0072FF,3931.0,60.0,8.436409857663705e-05,0.01,Musical Instruments (0.01%)
+902,7819.0,Services,Services Allied to Motion Picture Production,#FF0069,7819.0,60.0,8.436409857663705e-05,0.01,Services Allied to Motion Picture Production (0.01%)
+720,5431.0,Retail and wholesale trade,Fruit and Vegetable Markets,#FF9BCD,5431.0,59.0,8.295803026702643e-05,0.01,Fruit and Vegetable Markets (0.01%)
+805,6399.0,"Finance, Insurance, And Real Estate","Insurance Carriers, Not Elsewhere Classified",#FFFF00,6399.0,59.0,8.295803026702643e-05,0.01,"Insurance Carriers, Not Elsewhere Classified (0.01%)"
+419,3479.0,Manufacturing,"Coating, Engraving, and Allied Services, Not Elsewhere Classified",#0072FF,3479.0,59.0,8.295803026702643e-05,0.01,"Coating, Engraving, and Allied Services, Not Elsewhere Classified (0.01%)"
+701,5172.0,Retail and wholesale trade,"Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals",#FF9BCD,5172.0,59.0,8.295803026702643e-05,0.01,"Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals (0.01%)"
+667,5082.0,Retail and wholesale trade,Construction and Mining (Except Petroleum) Machinery and Equipment,#FF9BCD,5082.0,58.0,8.155196195741582e-05,0.01,Construction and Mining (Except Petroleum) Machinery and Equipment (0.01%)
+554,3861.0,Manufacturing,Photographic Equipment and Supplies,#0072FF,3861.0,58.0,8.155196195741582e-05,0.01,Photographic Equipment and Supplies (0.01%)
+570,3993.0,Manufacturing,Signs and Advertising Specialties,#0072FF,3993.0,58.0,8.155196195741582e-05,0.01,Signs and Advertising Specialties (0.01%)
+473,3579.0,Manufacturing,"Office Machines, Not Elsewhere Classified",#0072FF,3579.0,57.0,8.01458936478052e-05,0.01,"Office Machines, Not Elsewhere Classified (0.01%)"
+97,1629.0,Construction,"Heavy Construction, Not Elsewhere Classified",#696969,1629.0,57.0,8.01458936478052e-05,0.01,"Heavy Construction, Not Elsewhere Classified (0.01%)"
+142,2064.0,Manufacturing,Candy and Other Confectionery Products,#0072FF,2064.0,57.0,8.01458936478052e-05,0.01,Candy and Other Confectionery Products (0.01%)
+19,191.0,"Agriculture, Forestry, Fishing, Mining","General Farms, Primarily Crop",#698705,191.0,57.0,8.01458936478052e-05,0.01,"General Farms, Primarily Crop (0.01%)"
+756,5943.0,Retail and wholesale trade,Stationery Stores,#FF9BCD,5943.0,57.0,8.01458936478052e-05,0.01,Stationery Stores (0.01%)
+855,7335.0,Services,Commercial Photography,#FF0069,7335.0,56.0,7.873982533819458e-05,0.01,Commercial Photography (0.01%)
+335,3143.0,Manufacturing,"Men's Footwear, Except Athletic",#0072FF,3143.0,54.0,7.592768871897335e-05,0.01,"Men's Footwear, Except Athletic (0.01%)"
+121,2024.0,Manufacturing,Ice Cream and Frozen Desserts,#0072FF,2024.0,53.0,7.452162040936273e-05,0.01,Ice Cream and Frozen Desserts (0.01%)
+606,4513.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Air Courier Services,#C3FF00,4513.0,53.0,7.452162040936273e-05,0.01,Air Courier Services (0.01%)
+128,2038.0,Manufacturing,"Frozen Specialties, Not Elsewhere Classified",#0072FF,2038.0,52.0,7.311555209975211e-05,0.01,"Frozen Specialties, Not Elsewhere Classified (0.01%)"
+831,7041.0,Services,"Organization Hotels and Lodging Houses, on Membership Basis",#FF0069,7041.0,52.0,7.311555209975211e-05,0.01,"Organization Hotels and Lodging Houses, on Membership Basis (0.01%)"
+299,2851.0,Manufacturing,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",#0072FF,2851.0,52.0,7.311555209975211e-05,0.01,"Paints, Varnishes, Lacquers, Enamels, and Allied Products (0.01%)"
+246,2522.0,Manufacturing,"Office Furniture, Except Wood",#0072FF,2522.0,51.0,7.17094837901415e-05,0.01,"Office Furniture, Except Wood (0.01%)"
+546,3827.0,Manufacturing,Optical Instruments and Lenses,#0072FF,3827.0,51.0,7.17094837901415e-05,0.01,Optical Instruments and Lenses (0.01%)
+331,3089.0,Manufacturing,"Plastics Products, Not Elsewhere Classified",#0072FF,3089.0,50.0,7.030341548053087e-05,0.01,"Plastics Products, Not Elsewhere Classified (0.01%)"
+409,3448.0,Manufacturing,Prefabricated Metal Buildings and Components,#0072FF,3448.0,49.0,6.889734717092025e-05,0.01,Prefabricated Metal Buildings and Components (0.01%)
+162,2098.0,Manufacturing,"Macaroni, Spaghetti, Vermicelli, and Noodles",#0072FF,2098.0,49.0,6.889734717092025e-05,0.01,"Macaroni, Spaghetti, Vermicelli, and Noodles (0.01%)"
+673,5091.0,Retail and wholesale trade,Sporting and Recreational Goods and Supplies,#FF9BCD,5091.0,48.0,6.749127886130964e-05,0.01,Sporting and Recreational Goods and Supplies (0.01%)
+770,5993.0,Retail and wholesale trade,Tobacco Stores and Stands,#FF9BCD,5993.0,47.0,6.608521055169902e-05,0.01,Tobacco Stores and Stands (0.01%)
+721,5441.0,Retail and wholesale trade,"Candy, Nut, and Confectionery Stores",#FF9BCD,5441.0,47.0,6.608521055169902e-05,0.01,"Candy, Nut, and Confectionery Stores (0.01%)"
+839,7219.0,Services,"Laundry and Garment Services, Not Elsewhere Classified",#FF0069,7219.0,47.0,6.608521055169902e-05,0.01,"Laundry and Garment Services, Not Elsewhere Classified (0.01%)"
+635,4941.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Water Supply,#C3FF00,4941.0,46.0,6.467914224208841e-05,0.01,Water Supply (0.01%)
+18,182.0,"Agriculture, Forestry, Fishing, Mining",Food Crops Grown Under Cover,#698705,182.0,46.0,6.467914224208841e-05,0.01,Food Crops Grown Under Cover (0.01%)
+690,5145.0,Retail and wholesale trade,Confectionery,#FF9BCD,5145.0,46.0,6.467914224208841e-05,0.01,Confectionery (0.01%)
+359,3273.0,Manufacturing,Ready-Mixed Concrete,#0072FF,3273.0,45.0,6.327307393247779e-05,0.01,Ready-Mixed Concrete (0.01%)
+703,5182.0,Retail and wholesale trade,Wine and Distilled Alcoholic Beverages,#FF9BCD,5182.0,43.0,6.046093731325655e-05,0.01,Wine and Distilled Alcoholic Beverages (0.01%)
+503,3651.0,Manufacturing,Household Audio and Video Equipment,#0072FF,3651.0,43.0,6.046093731325655e-05,0.01,Household Audio and Video Equipment (0.01%)
+872,7378.0,Services,Computer Maintenance and Repair,#FF0069,7378.0,43.0,6.046093731325655e-05,0.01,Computer Maintenance and Repair (0.01%)
+744,5722.0,Retail and wholesale trade,Household Appliance Stores,#FF9BCD,5722.0,42.0,5.905486900364593e-05,0.01,Household Appliance Stores (0.01%)
+522,3713.0,Manufacturing,Truck and Bus Bodies,#0072FF,3713.0,42.0,5.905486900364593e-05,0.01,Truck and Bus Bodies (0.01%)
+979,9131.0,Public Administration,Executive and Legislative Offices Combined,#CD7CA4,9131.0,42.0,5.905486900364593e-05,0.01,Executive and Legislative Offices Combined (0.01%)
+363,3291.0,Manufacturing,Abrasive Products,#0072FF,3291.0,41.0,5.764880069403532e-05,0.01,Abrasive Products (0.01%)
+506,3663.0,Manufacturing,Radio and Television Broadcasting and Communications Equipment,#0072FF,3663.0,41.0,5.764880069403532e-05,0.01,Radio and Television Broadcasting and Communications Equipment (0.01%)
+843,7251.0,Services,Shoe Repair Shops and Shoeshine Parlors,#FF0069,7251.0,41.0,5.764880069403532e-05,0.01,Shoe Repair Shops and Shoeshine Parlors (0.01%)
+105,1752.0,Construction,"Floor Laying and Other Floor Work, Not Elsewhere Classified",#696969,1752.0,41.0,5.764880069403532e-05,0.01,"Floor Laying and Other Floor Work, Not Elsewhere Classified (0.01%)"
+904,7829.0,Services,Services Allied to Motion Picture Distribution,#FF0069,7829.0,41.0,5.764880069403532e-05,0.01,Services Allied to Motion Picture Distribution (0.01%)
+117,2015.0,Manufacturing,Poultry Slaughtering and Processing,#0072FF,2015.0,40.0,5.62427323844247e-05,0.01,Poultry Slaughtering and Processing (0.01%)
+654,5046.0,Retail and wholesale trade,"Commercial Equipment, Not Elsewhere Classified",#FF9BCD,5046.0,40.0,5.62427323844247e-05,0.01,"Commercial Equipment, Not Elsewhere Classified (0.01%)"
+824,6794.0,"Finance, Insurance, And Real Estate",Patent Owners and Lessors,#FFFF00,6794.0,39.0,5.483666407481408e-05,0.01,Patent Owners and Lessors (0.01%)
+729,5551.0,Retail and wholesale trade,Boat Dealers,#FF9BCD,5551.0,39.0,5.483666407481408e-05,0.01,Boat Dealers (0.01%)
+717,5399.0,Retail and wholesale trade,Miscellaneous General Merchandise Stores,#FF9BCD,5399.0,39.0,5.483666407481408e-05,0.01,Miscellaneous General Merchandise Stores (0.01%)
+922,8031.0,Services,Offices and Clinics of Doctors of Osteopathy,#FF0069,8031.0,38.0,5.343059576520346e-05,0.01,Offices and Clinics of Doctors of Osteopathy (0.01%)
+603,4493.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Marinas,#C3FF00,4493.0,38.0,5.343059576520346e-05,0.01,Marinas (0.01%)
+505,3661.0,Manufacturing,Telephone and Telegraph Apparatus,#0072FF,3661.0,38.0,5.343059576520346e-05,0.01,Telephone and Telegraph Apparatus (0.01%)
+895,7629.0,Services,"Electrical and Electronic Repair Shops, Not Elsewhere Classified",#FF0069,7629.0,37.0,5.202452745559285e-05,0.01,"Electrical and Electronic Repair Shops, Not Elsewhere Classified (0.01%)"
+700,5171.0,Retail and wholesale trade,Petroleum Bulk stations and Terminals,#FF9BCD,5171.0,36.0,5.061845914598223e-05,0.01,Petroleum Bulk stations and Terminals (0.01%)
+17,181.0,"Agriculture, Forestry, Fishing, Mining",Ornamental Floriculture and Nursery Products,#698705,181.0,36.0,5.061845914598223e-05,0.01,Ornamental Floriculture and Nursery Products (0.01%)
+168,2211.0,Manufacturing,"Broadwoven Fabric Mills, Cotton",#0072FF,2211.0,35.0,4.921239083637161e-05,0.0,"Broadwoven Fabric Mills, Cotton (0.0%)"
+680,5113.0,Retail and wholesale trade,Industrial and Personal Service Paper,#FF9BCD,5113.0,35.0,4.921239083637161e-05,0.0,Industrial and Personal Service Paper (0.0%)
+814,6541.0,"Finance, Insurance, And Real Estate",Title Abstract Offices,#FFFF00,6541.0,35.0,4.921239083637161e-05,0.0,Title Abstract Offices (0.0%)
+665,5075.0,Retail and wholesale trade,Warm Air Heating and Air-Conditioning Equipment and Supplies,#FF9BCD,5075.0,34.0,4.7806322526761e-05,0.0,Warm Air Heating and Air-Conditioning Equipment and Supplies (0.0%)
+657,5049.0,Retail and wholesale trade,"Professional Equipment and Supplies, Not Elsewhere Classified",#FF9BCD,5049.0,34.0,4.7806322526761e-05,0.0,"Professional Equipment and Supplies, Not Elsewhere Classified (0.0%)"
+684,5137.0,Retail and wholesale trade,"Women's, Children's, and Infants' Clothing and Accessories",#FF9BCD,5137.0,34.0,4.7806322526761e-05,0.0,"Women's, Children's, and Infants' Clothing and Accessories (0.0%)"
+120,2023.0,Manufacturing,"Dry, Condensed, and Evaporated Dairy Products",#0072FF,2023.0,33.0,4.640025421715038e-05,0.0,"Dry, Condensed, and Evaporated Dairy Products (0.0%)"
+702,5181.0,Retail and wholesale trade,Beer and Ale,#FF9BCD,5181.0,32.0,4.499418590753976e-05,0.0,Beer and Ale (0.0%)
+362,3281.0,Manufacturing,Cut Stone and Stone Products,#0072FF,3281.0,32.0,4.499418590753976e-05,0.0,Cut Stone and Stone Products (0.0%)
+832,7211.0,Services,"Power Laundries, Family and Commercial",#FF0069,7211.0,32.0,4.499418590753976e-05,0.0,"Power Laundries, Family and Commercial (0.0%)"
+137,2052.0,Manufacturing,Cookies and Crackers,#0072FF,2052.0,32.0,4.499418590753976e-05,0.0,Cookies and Crackers (0.0%)
+441,3535.0,Manufacturing,Conveyors and Conveying Equipment,#0072FF,3535.0,30.0,4.218204928831853e-05,0.0,Conveyors and Conveying Equipment (0.0%)
+34,279.0,"Agriculture, Forestry, Fishing, Mining","Animal Specialties, Not Elsewhere Classified",#698705,279.0,29.0,4.077598097870791e-05,0.0,"Animal Specialties, Not Elsewhere Classified (0.0%)"
+281,2791.0,Manufacturing,Typesetting,#0072FF,2791.0,29.0,4.077598097870791e-05,0.0,Typesetting (0.0%)
+311,2899.0,Manufacturing,"Chemicals and Chemical Preparations, Not Elsewhere Classified",#0072FF,2899.0,28.0,3.936991266909729e-05,0.0,"Chemicals and Chemical Preparations, Not Elsewhere Classified (0.0%)"
+594,4412.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Deep Sea Foreign Transportation of Freight,#C3FF00,4412.0,28.0,3.936991266909729e-05,0.0,Deep Sea Foreign Transportation of Freight (0.0%)
+907,7841.0,Services,Video Tape Rental,#FF0069,7841.0,27.0,3.7963844359486676e-05,0.0,Video Tape Rental (0.0%)
+245,2521.0,Manufacturing,Wood Office Furniture,#0072FF,2521.0,27.0,3.7963844359486676e-05,0.0,Wood Office Furniture (0.0%)
+897,7641.0,Services,Reupholstery and Furniture Repair,#FF0069,7641.0,27.0,3.7963844359486676e-05,0.0,Reupholstery and Furniture Repair (0.0%)
+871,7377.0,Services,Computer Rental and Leasing,#FF0069,7377.0,27.0,3.7963844359486676e-05,0.0,Computer Rental and Leasing (0.0%)
+679,5112.0,Retail and wholesale trade,Stationery and Office Supplies,#FF9BCD,5112.0,27.0,3.7963844359486676e-05,0.0,Stationery and Office Supplies (0.0%)
+197,2329.0,Manufacturing,"Men's and Boys' Clothing, Not Elsewhere Classified",#0072FF,2329.0,26.0,3.6557776049876056e-05,0.0,"Men's and Boys' Clothing, Not Elsewhere Classified (0.0%)"
+226,2431.0,Manufacturing,Millwork,#0072FF,2431.0,26.0,3.6557776049876056e-05,0.0,Millwork (0.0%)
+917,7996.0,Services,Amusement Parks,#FF0069,7996.0,26.0,3.6557776049876056e-05,0.0,Amusement Parks (0.0%)
+630,4924.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Natural Gas Distribution,#C3FF00,4924.0,25.0,3.515170774026544e-05,0.0,Natural Gas Distribution (0.0%)
+561,3944.0,Manufacturing,"Games, Toys, and Children's Vehicles, Except Dolls and Bicycles",#0072FF,3944.0,25.0,3.515170774026544e-05,0.0,"Games, Toys, and Children's Vehicles, Except Dolls and Bicycles (0.0%)"
+614,4729.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Arrangement of Passenger Transportation, Not Elsewhere Classified",#C3FF00,4729.0,25.0,3.515170774026544e-05,0.0,"Arrangement of Passenger Transportation, Not Elsewhere Classified (0.0%)"
+277,2761.0,Manufacturing,Manifold Business Forms,#0072FF,2761.0,25.0,3.515170774026544e-05,0.0,Manifold Business Forms (0.0%)
+500,3646.0,Manufacturing,"Commercial, Industrial, and Institutional Electric Lighting Fixtures",#0072FF,3646.0,25.0,3.515170774026544e-05,0.0,"Commercial, Industrial, and Institutional Electric Lighting Fixtures (0.0%)"
+663,5072.0,Retail and wholesale trade,Hardware,#FF9BCD,5072.0,24.0,3.374563943065482e-05,0.0,Hardware (0.0%)
+726,5521.0,Retail and wholesale trade,Motor Vehicle Dealers (Used Only),#FF9BCD,5521.0,24.0,3.374563943065482e-05,0.0,Motor Vehicle Dealers (Used Only) (0.0%)
+374,3321.0,Manufacturing,Gray and Ductile Iron Foundries,#0072FF,3321.0,24.0,3.374563943065482e-05,0.0,Gray and Ductile Iron Foundries (0.0%)
+698,5162.0,Retail and wholesale trade,Plastics Materials and Basic Forms and Shapes,#FF9BCD,5162.0,24.0,3.374563943065482e-05,0.0,Plastics Materials and Basic Forms and Shapes (0.0%)
+638,4959.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Sanitary Services, Not Elsewhere Classified",#C3FF00,4959.0,23.0,3.2339571121044205e-05,0.0,"Sanitary Services, Not Elsewhere Classified (0.0%)"
+80,1442.0,"Agriculture, Forestry, Fishing, Mining",Construction Sand and Gravel,#698705,1442.0,23.0,3.2339571121044205e-05,0.0,Construction Sand and Gravel (0.0%)
+488,3625.0,Manufacturing,Relays and Industrial Controls,#0072FF,3625.0,23.0,3.2339571121044205e-05,0.0,Relays and Industrial Controls (0.0%)
+107,1771.0,Construction,Concrete Work,#696969,1771.0,23.0,3.2339571121044205e-05,0.0,Concrete Work (0.0%)
+931,8063.0,Services,Psychiatric Hospitals,#FF0069,8063.0,23.0,3.2339571121044205e-05,0.0,Psychiatric Hospitals (0.0%)
+771,5994.0,Retail and wholesale trade,News Dealers and Newsstands,#FF9BCD,5994.0,22.0,3.0933502811433586e-05,0.0,News Dealers and Newsstands (0.0%)
+838,7218.0,Services,Industrial Launderers,#FF0069,7218.0,22.0,3.0933502811433586e-05,0.0,Industrial Launderers (0.0%)
+829,7032.0,Services,Sporting and Recreational Camps,#FF0069,7032.0,22.0,3.0933502811433586e-05,0.0,Sporting and Recreational Camps (0.0%)
+201,2339.0,Manufacturing,"Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified",#0072FF,2339.0,22.0,3.0933502811433586e-05,0.0,"Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified (0.0%)"
+688,5143.0,Retail and wholesale trade,"Dairy Products, Except Dried or Canned",#FF9BCD,5143.0,22.0,3.0933502811433586e-05,0.0,"Dairy Products, Except Dried or Canned (0.0%)"
+658,5051.0,Retail and wholesale trade,Metals Service Centers and Offices,#FF9BCD,5051.0,21.0,2.9527434501822966e-05,0.0,Metals Service Centers and Offices (0.0%)
+888,7537.0,Services,Automotive Transmission Repair Shops,#FF0069,7537.0,21.0,2.9527434501822966e-05,0.0,Automotive Transmission Repair Shops (0.0%)
+341,3172.0,Manufacturing,"Personal Leather Goods, Except Women's Handbags and Purses",#0072FF,3172.0,21.0,2.9527434501822966e-05,0.0,"Personal Leather Goods, Except Women's Handbags and Purses (0.0%)"
+877,7384.0,Services,Photofinishing Laboratories,#FF0069,7384.0,21.0,2.9527434501822966e-05,0.0,Photofinishing Laboratories (0.0%)
+707,5194.0,Retail and wholesale trade,Tobacco and Tobacco Products,#FF9BCD,5194.0,21.0,2.9527434501822966e-05,0.0,Tobacco and Tobacco Products (0.0%)
+675,5093.0,Retail and wholesale trade,Scrap and Waste Materials,#FF9BCD,5093.0,21.0,2.9527434501822966e-05,0.0,Scrap and Waste Materials (0.0%)
+219,2396.0,Manufacturing,"Automotive Trimmings, Apparel Findings, and Related Products",#0072FF,2396.0,21.0,2.9527434501822966e-05,0.0,"Automotive Trimmings, Apparel Findings, and Related Products (0.0%)"
+134,2047.0,Manufacturing,Dog and Cat Food,#0072FF,2047.0,20.0,2.812136619221235e-05,0.0,Dog and Cat Food (0.0%)
+604,4499.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Water Transportation Services, Not Elsewhere Classified",#C3FF00,4499.0,20.0,2.812136619221235e-05,0.0,"Water Transportation Services, Not Elsewhere Classified (0.0%)"
+287,2821.0,Manufacturing,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers",#0072FF,2821.0,20.0,2.812136619221235e-05,0.0,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers (0.0%)"
+651,5043.0,Retail and wholesale trade,Photographic Equipment and Supplies,#FF9BCD,5043.0,20.0,2.812136619221235e-05,0.0,Photographic Equipment and Supplies (0.0%)
+672,5088.0,Retail and wholesale trade,"Transportation Equipment and Supplies, Except Motor Vehicles",#FF9BCD,5088.0,19.0,2.671529788260173e-05,0.0,"Transportation Equipment and Supplies, Except Motor Vehicles (0.0%)"
+762,5949.0,Retail and wholesale trade,"Sewing, Needlework, and Piece Goods Stores",#FF9BCD,5949.0,19.0,2.671529788260173e-05,0.0,"Sewing, Needlework, and Piece Goods Stores (0.0%)"
+75,1389.0,"Agriculture, Forestry, Fishing, Mining","Oil and Gas Field Services, Not Elsewhere Classified",#698705,1389.0,19.0,2.671529788260173e-05,0.0,"Oil and Gas Field Services, Not Elsewhere Classified (0.0%)"
+632,4931.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Electric and Other Services Combined,#C3FF00,4931.0,19.0,2.671529788260173e-05,0.0,Electric and Other Services Combined (0.0%)
+182,2273.0,Manufacturing,Carpets and Rugs,#0072FF,2273.0,19.0,2.671529788260173e-05,0.0,Carpets and Rugs (0.0%)
+406,3443.0,Manufacturing,Fabricated Plate Work (Boiler Shops),#0072FF,3443.0,18.0,2.5309229572991115e-05,0.0,Fabricated Plate Work (Boiler Shops) (0.0%)
+595,4424.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Deep Sea Domestic Transportation of Freight,#C3FF00,4424.0,18.0,2.5309229572991115e-05,0.0,Deep Sea Domestic Transportation of Freight (0.0%)
+764,5962.0,Retail and wholesale trade,Automatic Merchandising Machine Operators,#FF9BCD,5962.0,18.0,2.5309229572991115e-05,0.0,Automatic Merchandising Machine Operators (0.0%)
+123,2032.0,Manufacturing,Canned Specialties,#0072FF,2032.0,18.0,2.5309229572991115e-05,0.0,Canned Specialties (0.0%)
+661,5064.0,Retail and wholesale trade,"Electrical Appliances, Television and Radio Sets",#FF9BCD,5064.0,17.0,2.39031612633805e-05,0.0,"Electrical Appliances, Television and Radio Sets (0.0%)"
+260,2671.0,Manufacturing,"Packaging Paper and Plastics Film, Coated and Laminated",#0072FF,2671.0,17.0,2.39031612633805e-05,0.0,"Packaging Paper and Plastics Film, Coated and Laminated (0.0%)"
+516,3691.0,Manufacturing,Storage Batteries,#0072FF,3691.0,17.0,2.39031612633805e-05,0.0,Storage Batteries (0.0%)
+408,3446.0,Manufacturing,Architectural and Ornamental Metal Work,#0072FF,3446.0,17.0,2.39031612633805e-05,0.0,Architectural and Ornamental Metal Work (0.0%)
+732,5599.0,Retail and wholesale trade,"Automotive Dealers, Not Elsewhere Classified",#FF9BCD,5599.0,16.0,2.249709295376988e-05,0.0,"Automotive Dealers, Not Elsewhere Classified (0.0%)"
+915,7992.0,Services,Public Golf Courses,#FF0069,7992.0,16.0,2.249709295376988e-05,0.0,Public Golf Courses (0.0%)
+837,7217.0,Services,Carpet and Upholstery Cleaning,#FF0069,7217.0,16.0,2.249709295376988e-05,0.0,Carpet and Upholstery Cleaning (0.0%)
+532,3751.0,Manufacturing,"Motorcycles, Bicycles, and Parts",#0072FF,3751.0,15.0,2.1091024644159264e-05,0.0,"Motorcycles, Bicycles, and Parts (0.0%)"
+894,7623.0,Services,Refrigeration and Air-Conditioning Service and Repair Shops,#FF0069,7623.0,15.0,2.1091024644159264e-05,0.0,Refrigeration and Air-Conditioning Service and Repair Shops (0.0%)
+199,2335.0,Manufacturing,"Women's, Misses', and Juniors' Dresses",#0072FF,2335.0,15.0,2.1091024644159264e-05,0.0,"Women's, Misses', and Juniors' Dresses (0.0%)"
+870,7376.0,Services,Computer Facilities Management Services,#FF0069,7376.0,15.0,2.1091024644159264e-05,0.0,Computer Facilities Management Services (0.0%)
+887,7536.0,Services,Automotive Glass Replacement Shops,#FF0069,7536.0,14.0,1.9684956334548644e-05,0.0,Automotive Glass Replacement Shops (0.0%)
+435,3523.0,Manufacturing,Farm Machinery and Equipment,#0072FF,3523.0,14.0,1.9684956334548644e-05,0.0,Farm Machinery and Equipment (0.0%)
+111,1794.0,Construction,Excavation Work,#696969,1794.0,14.0,1.9684956334548644e-05,0.0,Excavation Work (0.0%)
+122,2026.0,Manufacturing,Fluid Milk,#0072FF,2026.0,14.0,1.9684956334548644e-05,0.0,Fluid Milk (0.0%)
+227,2434.0,Manufacturing,Wood Kitchen Cabinets,#0072FF,2434.0,13.0,1.8278888024938028e-05,0.0,Wood Kitchen Cabinets (0.0%)
+520,3699.0,Manufacturing,"Electrical Machinery, Equipment, and Supplies, Not Elsewhere",#0072FF,3699.0,13.0,1.8278888024938028e-05,0.0,"Electrical Machinery, Equipment, and Supplies, Not Elsewhere (0.0%)"
+934,8072.0,Services,Dental Laboratories,#FF0069,8072.0,13.0,1.8278888024938028e-05,0.0,Dental Laboratories (0.0%)
+50,811.0,"Agriculture, Forestry, Fishing, Mining",Timber Tracts,#698705,811.0,13.0,1.8278888024938028e-05,0.0,Timber Tracts (0.0%)
+345,3229.0,Manufacturing,"Pressed and Blown Glass and Glassware, Not Elsewhere Classified",#0072FF,3229.0,13.0,1.8278888024938028e-05,0.0,"Pressed and Blown Glass and Glassware, Not Elsewhere Classified (0.0%)"
+851,7322.0,Services,Adjustment and Collection Services,#FF0069,7322.0,13.0,1.8278888024938028e-05,0.0,Adjustment and Collection Services (0.0%)
+486,3621.0,Manufacturing,Motors and Generators,#0072FF,3621.0,12.0,1.687281971532741e-05,0.0,Motors and Generators (0.0%)
+196,2326.0,Manufacturing,Men's and Boys' Work Clothing,#0072FF,2326.0,12.0,1.687281971532741e-05,0.0,Men's and Boys' Work Clothing (0.0%)
+687,5142.0,Retail and wholesale trade,Packaged Frozen Foods,#FF9BCD,5142.0,12.0,1.687281971532741e-05,0.0,Packaged Frozen Foods (0.0%)
+508,3671.0,Manufacturing,Electron Tubes,#0072FF,3671.0,12.0,1.687281971532741e-05,0.0,Electron Tubes (0.0%)
+731,5571.0,Retail and wholesale trade,Motorcycle Dealers,#FF9BCD,5571.0,12.0,1.687281971532741e-05,0.0,Motorcycle Dealers (0.0%)
+519,3695.0,Manufacturing,Magnetic And Optical Recording Media,#0072FF,3695.0,12.0,1.687281971532741e-05,0.0,Magnetic And Optical Recording Media (0.0%)
+544,3825.0,Manufacturing,Instruments for Measuring and Testing of Electricity and Electrical Signals,#0072FF,3825.0,12.0,1.687281971532741e-05,0.0,Instruments for Measuring and Testing of Electricity and Electrical Signals (0.0%)
+597,4449.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Water Transportation of Freight, Not Elsewhere Classified",#C3FF00,4449.0,12.0,1.687281971532741e-05,0.0,"Water Transportation of Freight, Not Elsewhere Classified (0.0%)"
+275,2754.0,Manufacturing,"Commercial Printing, Gravure",#0072FF,2754.0,11.0,1.5466751405716793e-05,0.0,"Commercial Printing, Gravure (0.0%)"
+616,4741.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Rental of Railroad Cars,#C3FF00,4741.0,11.0,1.5466751405716793e-05,0.0,Rental of Railroad Cars (0.0%)
+704,5191.0,Retail and wholesale trade,Farm Supplies,#FF9BCD,5191.0,11.0,1.5466751405716793e-05,0.0,Farm Supplies (0.0%)
+286,2819.0,Manufacturing,"Industrial Inorganic Chemicals, Not Elsewhere Classified",#0072FF,2819.0,11.0,1.5466751405716793e-05,0.0,"Industrial Inorganic Chemicals, Not Elsewhere Classified (0.0%)"
+458,3559.0,Manufacturing,"Special Industry Machinery, Not Elsewhere Classified",#0072FF,3559.0,11.0,1.5466751405716793e-05,0.0,"Special Industry Machinery, Not Elsewhere Classified (0.0%)"
+633,4932.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Gas and Other Services Combined,#C3FF00,4932.0,10.0,1.4060683096106175e-05,0.0,Gas and Other Services Combined (0.0%)
+112,1795.0,Construction,Wrecking and Demolition Work,#696969,1795.0,10.0,1.4060683096106175e-05,0.0,Wrecking and Demolition Work (0.0%)
+622,4822.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Telegraph and Other Message Communications,#C3FF00,4822.0,10.0,1.4060683096106175e-05,0.0,Telegraph and Other Message Communications (0.0%)
+35,291.0,"Agriculture, Forestry, Fishing, Mining","General Farms, Primarily Livestock and Animal Specialties",#698705,291.0,10.0,1.4060683096106175e-05,0.0,"General Farms, Primarily Livestock and Animal Specialties (0.0%)"
+898,7692.0,Services,Welding Repair,#FF0069,7692.0,10.0,1.4060683096106175e-05,0.0,Welding Repair (0.0%)
+742,5714.0,Retail and wholesale trade,"Drapery, Curtain, and Upholstery Stores",#FF9BCD,5714.0,9.0,1.2654614786495557e-05,0.0,"Drapery, Curtain, and Upholstery Stores (0.0%)"
+222,2411.0,Manufacturing,Logging,#0072FF,2411.0,9.0,1.2654614786495557e-05,0.0,Logging (0.0%)
+214,2391.0,Manufacturing,Curtains and Draperies,#0072FF,2391.0,9.0,1.2654614786495557e-05,0.0,Curtains and Draperies (0.0%)
+599,4482.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Ferries,#C3FF00,4482.0,9.0,1.2654614786495557e-05,0.0,Ferries (0.0%)
+333,3131.0,Manufacturing,Boot and Shoe Cut Stock and Findings,#0072FF,3131.0,9.0,1.2654614786495557e-05,0.0,Boot and Shoe Cut Stock and Findings (0.0%)
+339,3161.0,Manufacturing,Luggage,#0072FF,3161.0,9.0,1.2654614786495557e-05,0.0,Luggage (0.0%)
+239,2511.0,Manufacturing,"Wood Household Furniture, Except Upholstered",#0072FF,2511.0,9.0,1.2654614786495557e-05,0.0,"Wood Household Furniture, Except Upholstered (0.0%)"
+71,1311.0,"Agriculture, Forestry, Fishing, Mining",Crude Petroleum and Natural Gas,#698705,1311.0,9.0,1.2654614786495557e-05,0.0,Crude Petroleum and Natural Gas (0.0%)
+674,5092.0,Retail and wholesale trade,Toys and Hobby Goods and Supplies,#FF9BCD,5092.0,9.0,1.2654614786495557e-05,0.0,Toys and Hobby Goods and Supplies (0.0%)
+553,3851.0,Manufacturing,Ophthalmic Goods,#0072FF,3851.0,8.0,1.124854647688494e-05,0.0,Ophthalmic Goods (0.0%)
+190,2299.0,Manufacturing,"Textile goods, Not Elsewhere Classified",#0072FF,2299.0,8.0,1.124854647688494e-05,0.0,"Textile goods, Not Elsewhere Classified (0.0%)"
+103,1743.0,Construction,"Terrazzo, Tile, Marble, and Mosaic Work",#696969,1743.0,8.0,1.124854647688494e-05,0.0,"Terrazzo, Tile, Marble, and Mosaic Work (0.0%)"
+567,3961.0,Manufacturing,"Costume Jewelry and Costume Novelties, Except Precious Metal",#0072FF,3961.0,8.0,1.124854647688494e-05,0.0,"Costume Jewelry and Costume Novelties, Except Precious Metal (0.0%)"
+356,3269.0,Manufacturing,"Pottery Products, Not Elsewhere Classified",#0072FF,3269.0,8.0,1.124854647688494e-05,0.0,"Pottery Products, Not Elsewhere Classified (0.0%)"
+810,6515.0,"Finance, Insurance, And Real Estate",Operators of Residential Mobile Home Sites,#FFFF00,6515.0,8.0,1.124854647688494e-05,0.0,Operators of Residential Mobile Home Sites (0.0%)
+565,3953.0,Manufacturing,Marking Devices,#0072FF,3953.0,8.0,1.124854647688494e-05,0.0,Marking Devices (0.0%)
+668,5083.0,Retail and wholesale trade,Farm and Garden Machinery and Equipment,#FF9BCD,5083.0,8.0,1.124854647688494e-05,0.0,Farm and Garden Machinery and Equipment (0.0%)
+860,7352.0,Services,Medical Equipment Rental and Leasing,#FF0069,7352.0,8.0,1.124854647688494e-05,0.0,Medical Equipment Rental and Leasing (0.0%)
+457,3556.0,Manufacturing,Food Products Machinery,#0072FF,3556.0,8.0,1.124854647688494e-05,0.0,Food Products Machinery (0.0%)
+154,2085.0,Manufacturing,Distilled and Blended Liquors,#0072FF,2085.0,8.0,1.124854647688494e-05,0.0,Distilled and Blended Liquors (0.0%)
+232,2448.0,Manufacturing,Wood Pallets and Skids,#0072FF,2448.0,8.0,1.124854647688494e-05,0.0,Wood Pallets and Skids (0.0%)
+224,2426.0,Manufacturing,Hardwood Dimension and Flooring Mills,#0072FF,2426.0,8.0,1.124854647688494e-05,0.0,Hardwood Dimension and Flooring Mills (0.0%)
+221,2399.0,Manufacturing,"Fabricated Textile Products, Not Elsewhere Classified",#0072FF,2399.0,8.0,1.124854647688494e-05,0.0,"Fabricated Textile Products, Not Elsewhere Classified (0.0%)"
+49,783.0,"Agriculture, Forestry, Fishing, Mining",Ornamental Shrub and Tree Services,#698705,783.0,7.0,9.842478167274322e-06,0.0,Ornamental Shrub and Tree Services (0.0%)
+666,5078.0,Retail and wholesale trade,Refrigeration Equipment and Supplies,#FF9BCD,5078.0,7.0,9.842478167274322e-06,0.0,Refrigeration Equipment and Supplies (0.0%)
+157,2091.0,Manufacturing,Canned and Cured Fish and Seafoods,#0072FF,2091.0,7.0,9.842478167274322e-06,0.0,Canned and Cured Fish and Seafoods (0.0%)
+767,5984.0,Retail and wholesale trade,Liquefied Petroleum Gas (Bottled Gas) Dealers,#FF9BCD,5984.0,7.0,9.842478167274322e-06,0.0,Liquefied Petroleum Gas (Bottled Gas) Dealers (0.0%)
+291,2833.0,Manufacturing,Medicinal Chemicals and Botanical Products,#0072FF,2833.0,7.0,9.842478167274322e-06,0.0,Medicinal Chemicals and Botanical Products (0.0%)
+213,2389.0,Manufacturing,"Apparel and Accessories, Not Elsewhere Classified",#0072FF,2389.0,7.0,9.842478167274322e-06,0.0,"Apparel and Accessories, Not Elsewhere Classified (0.0%)"
+713,5261.0,Retail and wholesale trade,"Retail Nurseries, Lawn and Garden Supply Stores",#FF9BCD,5261.0,7.0,9.842478167274322e-06,0.0,"Retail Nurseries, Lawn and Garden Supply Stores (0.0%)"
+240,2512.0,Manufacturing,"Wood Household Furniture, Upholstered",#0072FF,2512.0,7.0,9.842478167274322e-06,0.0,"Wood Household Furniture, Upholstered (0.0%)"
+312,2911.0,Manufacturing,Petroleum Refining,#0072FF,2911.0,7.0,9.842478167274322e-06,0.0,Petroleum Refining (0.0%)
+268,2679.0,Manufacturing,"Converted Paper and Paperboard Products, Not Elsewhere Classified",#0072FF,2679.0,7.0,9.842478167274322e-06,0.0,"Converted Paper and Paperboard Products, Not Elsewhere Classified (0.0%)"
+558,3915.0,Manufacturing,"Jewelers' Findings and Materials, and Lapidary Work",#0072FF,3915.0,7.0,9.842478167274322e-06,0.0,"Jewelers' Findings and Materials, and Lapidary Work (0.0%)"
+678,5111.0,Retail and wholesale trade,Printing and Writing Paper,#FF9BCD,5111.0,7.0,9.842478167274322e-06,0.0,Printing and Writing Paper (0.0%)
+12,172.0,"Agriculture, Forestry, Fishing, Mining",Grapes,#698705,172.0,7.0,9.842478167274322e-06,0.0,Grapes (0.0%)
+467,3569.0,Manufacturing,"General Industrial Machinery and Equipment, Not Elsewhere",#0072FF,3569.0,7.0,9.842478167274322e-06,0.0,"General Industrial Machinery and Equipment, Not Elsewhere (0.0%)"
+531,3743.0,Manufacturing,Railroad Equipment,#0072FF,3743.0,6.0,8.436409857663704e-06,0.0,Railroad Equipment (0.0%)
+437,3531.0,Manufacturing,Construction Machinery and Equipment,#0072FF,3531.0,6.0,8.436409857663704e-06,0.0,Construction Machinery and Equipment (0.0%)
+695,5153.0,Retail and wholesale trade,Grain and Field Beans,#FF9BCD,5153.0,6.0,8.436409857663704e-06,0.0,Grain and Field Beans (0.0%)
+916,7993.0,Services,Coin-Operated Amusement Devices,#FF0069,7993.0,6.0,8.436409857663704e-06,0.0,Coin-Operated Amusement Devices (0.0%)
+885,7533.0,Services,Automotive Exhaust System Repair Shops,#FF0069,7533.0,6.0,8.436409857663704e-06,0.0,Automotive Exhaust System Repair Shops (0.0%)
+759,5946.0,Retail and wholesale trade,Camera and Photographic Supply Stores,#FF9BCD,5946.0,6.0,8.436409857663704e-06,0.0,Camera and Photographic Supply Stores (0.0%)
+340,3171.0,Manufacturing,Women's Handbags and Purses,#0072FF,3171.0,6.0,8.436409857663704e-06,0.0,Women's Handbags and Purses (0.0%)
+153,2084.0,Manufacturing,"Wines, Brandy, and Brandy Spirits",#0072FF,2084.0,6.0,8.436409857663704e-06,0.0,"Wines, Brandy, and Brandy Spirits (0.0%)"
+211,2386.0,Manufacturing,Leather and Sheep-Lined Clothing,#0072FF,2386.0,6.0,8.436409857663704e-06,0.0,Leather and Sheep-Lined Clothing (0.0%)
+478,3589.0,Manufacturing,"Service Industry Machinery, Not Elsewhere Classified",#0072FF,3589.0,6.0,8.436409857663704e-06,0.0,"Service Industry Machinery, Not Elsewhere Classified (0.0%)"
+280,2789.0,Manufacturing,Bookbinding and Related Work,#0072FF,2789.0,6.0,8.436409857663704e-06,0.0,Bookbinding and Related Work (0.0%)
+683,5136.0,Retail and wholesale trade,Men's and Boy's Clothing and Furnishings,#FF9BCD,5136.0,6.0,8.436409857663704e-06,0.0,Men's and Boy's Clothing and Furnishings (0.0%)
+284,2813.0,Manufacturing,Industrial Gases,#0072FF,2813.0,6.0,8.436409857663704e-06,0.0,Industrial Gases (0.0%)
+306,2879.0,Manufacturing,"Pesticides and Agricultural Chemicals, Not Elsewhere Classified",#0072FF,2879.0,5.0,7.0303415480530876e-06,0.0,"Pesticides and Agricultural Chemicals, Not Elsewhere Classified (0.0%)"
+64,1081.0,"Agriculture, Forestry, Fishing, Mining",Metal Mining Services,#698705,1081.0,5.0,7.0303415480530876e-06,0.0,Metal Mining Services (0.0%)
+307,2891.0,Manufacturing,Adhesives and Sealants,#0072FF,2891.0,5.0,7.0303415480530876e-06,0.0,Adhesives and Sealants (0.0%)
+159,2095.0,Manufacturing,Roasted Coffee,#0072FF,2095.0,5.0,7.0303415480530876e-06,0.0,Roasted Coffee (0.0%)
+369,3312.0,Manufacturing,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills",#0072FF,3312.0,5.0,7.0303415480530876e-06,0.0,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills (0.0%)"
+644,5015.0,Retail and wholesale trade,"Motor Vehicle Parts, Used",#FF9BCD,5015.0,4.0,5.62427323844247e-06,0.0,"Motor Vehicle Parts, Used (0.0%)"
+15,175.0,"Agriculture, Forestry, Fishing, Mining",Deciduous Tree Fruits,#698705,175.0,4.0,5.62427323844247e-06,0.0,Deciduous Tree Fruits (0.0%)
+461,3563.0,Manufacturing,Air and Gas Compressors,#0072FF,3563.0,4.0,5.62427323844247e-06,0.0,Air and Gas Compressors (0.0%)
+455,3554.0,Manufacturing,Paper Industries Machinery,#0072FF,3554.0,4.0,5.62427323844247e-06,0.0,Paper Industries Machinery (0.0%)
+248,2541.0,Manufacturing,"Wood Office and Store Fixtures, Partitions, Shelving, and Lockers",#0072FF,2541.0,4.0,5.62427323844247e-06,0.0,"Wood Office and Store Fixtures, Partitions, Shelving, and Lockers (0.0%)"
+650,5039.0,Retail and wholesale trade,"Construction Materials, Not Elsewhere Classified",#FF9BCD,5039.0,4.0,5.62427323844247e-06,0.0,"Construction Materials, Not Elsewhere Classified (0.0%)"
+530,3732.0,Manufacturing,Boat Building and Repairing,#0072FF,3732.0,4.0,5.62427323844247e-06,0.0,Boat Building and Repairing (0.0%)
+649,5033.0,Retail and wholesale trade,"Roofing, Siding, and Insulation Materials",#FF9BCD,5033.0,4.0,5.62427323844247e-06,0.0,"Roofing, Siding, and Insulation Materials (0.0%)"
+74,1382.0,"Agriculture, Forestry, Fishing, Mining",Oil and Gas Field Exploration Services,#698705,1382.0,4.0,5.62427323844247e-06,0.0,Oil and Gas Field Exploration Services (0.0%)
+256,2653.0,Manufacturing,Corrugated and Solid Fiber Boxes,#0072FF,2653.0,4.0,5.62427323844247e-06,0.0,Corrugated and Solid Fiber Boxes (0.0%)
+279,2782.0,Manufacturing,"Blankbooks, Looseleaf Binders and Devices",#0072FF,2782.0,4.0,5.62427323844247e-06,0.0,"Blankbooks, Looseleaf Binders and Devices (0.0%)"
+592,4231.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation,#C3FF00,4231.0,4.0,5.62427323844247e-06,0.0,Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation (0.0%)
+583,4173.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Terminal and Service Facilities for Motor Vehicle Passenger Transportation,#C3FF00,4173.0,4.0,5.62427323844247e-06,0.0,Terminal and Service Facilities for Motor Vehicle Passenger Transportation (0.0%)
+358,3272.0,Manufacturing,"Concrete Products, Except Block and Brick",#0072FF,3272.0,3.0,4.218204928831852e-06,0.0,"Concrete Products, Except Block and Brick (0.0%)"
+119,2022.0,Manufacturing,"Natural, Processed, and Imitation Cheese",#0072FF,2022.0,3.0,4.218204928831852e-06,0.0,"Natural, Processed, and Imitation Cheese (0.0%)"
+129,2041.0,Manufacturing,Flour and Other Grain Mill Products,#0072FF,2041.0,3.0,4.218204928831852e-06,0.0,Flour and Other Grain Mill Products (0.0%)
+53,912.0,"Agriculture, Forestry, Fishing, Mining",Finfish,#698705,912.0,3.0,4.218204928831852e-06,0.0,Finfish (0.0%)
+783,6081.0,"Finance, Insurance, And Real Estate",Branches and Agencies of Foreign Banks,#FFFF00,6081.0,3.0,4.218204928831852e-06,0.0,Branches and Agencies of Foreign Banks (0.0%)
+327,3085.0,Manufacturing,Plastics Bottles,#0072FF,3085.0,3.0,4.218204928831852e-06,0.0,Plastics Bottles (0.0%)
+641,5012.0,Retail and wholesale trade,Automobiles and Other Motor Vehicles,#FF9BCD,5012.0,3.0,4.218204928831852e-06,0.0,Automobiles and Other Motor Vehicles (0.0%)
+640,4971.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Irrigation Systems,#C3FF00,4971.0,3.0,4.218204928831852e-06,0.0,Irrigation Systems (0.0%)
+730,5561.0,Retail and wholesale trade,Recreational Vehicle Dealers,#FF9BCD,5561.0,3.0,4.218204928831852e-06,0.0,Recreational Vehicle Dealers (0.0%)
+629,4923.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Natural Gas Transmission and Distribution,#C3FF00,4923.0,3.0,4.218204928831852e-06,0.0,Natural Gas Transmission and Distribution (0.0%)
+349,3253.0,Manufacturing,Ceramic Wall and Floor Tile,#0072FF,3253.0,3.0,4.218204928831852e-06,0.0,Ceramic Wall and Floor Tile (0.0%)
+402,3432.0,Manufacturing,Plumbing Fixture Fittings and Trim,#0072FF,3432.0,3.0,4.218204928831852e-06,0.0,Plumbing Fixture Fittings and Trim (0.0%)
+882,7519.0,Services,Utility Trailer and Recreational Vehicle Rental,#FF0069,7519.0,3.0,4.218204928831852e-06,0.0,Utility Trailer and Recreational Vehicle Rental (0.0%)
+282,2796.0,Manufacturing,Platemaking and Related Services,#0072FF,2796.0,3.0,4.218204928831852e-06,0.0,Platemaking and Related Services (0.0%)
+204,2353.0,Manufacturing,"Hats, Caps, and Millinery",#0072FF,2353.0,3.0,4.218204928831852e-06,0.0,"Hats, Caps, and Millinery (0.0%)"
+238,2499.0,Manufacturing,"Wood Products, Not Elsewhere Classified",#0072FF,2499.0,3.0,4.218204928831852e-06,0.0,"Wood Products, Not Elsewhere Classified (0.0%)"
+33,273.0,"Agriculture, Forestry, Fishing, Mining",Animal Aquaculture,#698705,273.0,3.0,4.218204928831852e-06,0.0,Animal Aquaculture (0.0%)
+25,241.0,"Agriculture, Forestry, Fishing, Mining",Dairy Farms,#698705,241.0,3.0,4.218204928831852e-06,0.0,Dairy Farms (0.0%)
+143,2066.0,Manufacturing,Chocolate and Cocoa Products,#0072FF,2066.0,3.0,4.218204928831852e-06,0.0,Chocolate and Cocoa Products (0.0%)
+432,3499.0,Manufacturing,"Fabricated Metal Products, Not Elsewhere Classified",#0072FF,3499.0,3.0,4.218204928831852e-06,0.0,"Fabricated Metal Products, Not Elsewhere Classified (0.0%)"
+262,2673.0,Manufacturing,"Plastics, Foil, and Coated Paper Bags",#0072FF,2673.0,3.0,4.218204928831852e-06,0.0,"Plastics, Foil, and Coated Paper Bags (0.0%)"
+155,2086.0,Manufacturing,Bottled and Canned Soft Drinks and Carbonated Waters,#0072FF,2086.0,3.0,4.218204928831852e-06,0.0,Bottled and Canned Soft Drinks and Carbonated Waters (0.0%)
+46,762.0,"Agriculture, Forestry, Fishing, Mining",Farm Management Services,#698705,762.0,3.0,4.218204928831852e-06,0.0,Farm Management Services (0.0%)
+145,2068.0,Manufacturing,Salted and Roasted Nuts and Seeds,#0072FF,2068.0,3.0,4.218204928831852e-06,0.0,Salted and Roasted Nuts and Seeds (0.0%)
+607,4522.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Air Transportation, Nonscheduled",#C3FF00,4522.0,3.0,4.218204928831852e-06,0.0,"Air Transportation, Nonscheduled (0.0%)"
+330,3088.0,Manufacturing,Plastics Plumbing Fixtures,#0072FF,3088.0,3.0,4.218204928831852e-06,0.0,Plastics Plumbing Fixtures (0.0%)
+278,2771.0,Manufacturing,Greeting Cards,#0072FF,2771.0,2.0,2.812136619221235e-06,0.0,Greeting Cards (0.0%)
+659,5052.0,Retail and wholesale trade,Coal and Other Minerals and Ores,#FF9BCD,5052.0,2.0,2.812136619221235e-06,0.0,Coal and Other Minerals and Ores (0.0%)
+794,6221.0,"Finance, Insurance, And Real Estate",Commodity Contracts Brokers and Dealers,#FFFF00,6221.0,2.0,2.812136619221235e-06,0.0,Commodity Contracts Brokers and Dealers (0.0%)
+32,272.0,"Agriculture, Forestry, Fishing, Mining",Horses and Other Equines,#698705,272.0,2.0,2.812136619221235e-06,0.0,Horses and Other Equines (0.0%)
+475,3582.0,Manufacturing,"Commercial Laundry, Drycleaning, and Pressing Machines",#0072FF,3582.0,2.0,2.812136619221235e-06,0.0,"Commercial Laundry, Drycleaning, and Pressing Machines (0.0%)"
+52,851.0,"Agriculture, Forestry, Fishing, Mining",Forestry Services,#698705,851.0,2.0,2.812136619221235e-06,0.0,Forestry Services (0.0%)
+899,7694.0,Services,Armature Rewinding Shops,#FF0069,7694.0,2.0,2.812136619221235e-06,0.0,Armature Rewinding Shops (0.0%)
+61,1041.0,"Agriculture, Forestry, Fishing, Mining",Gold Ores,#698705,1041.0,2.0,2.812136619221235e-06,0.0,Gold Ores (0.0%)
+223,2421.0,Manufacturing,"Sawmills and Planing Mills, General",#0072FF,2421.0,2.0,2.812136619221235e-06,0.0,"Sawmills and Planing Mills, General (0.0%)"
+499,3645.0,Manufacturing,Residential Electric Lighting Fixtures,#0072FF,3645.0,2.0,2.812136619221235e-06,0.0,Residential Electric Lighting Fixtures (0.0%)
+189,2298.0,Manufacturing,Cordage and Twine,#0072FF,2298.0,2.0,2.812136619221235e-06,0.0,Cordage and Twine (0.0%)
+557,3914.0,Manufacturing,"Silverware, Plated Ware, and Stainless Steel Ware",#0072FF,3914.0,2.0,2.812136619221235e-06,0.0,"Silverware, Plated Ware, and Stainless Steel Ware (0.0%)"
+179,2261.0,Manufacturing,Finishers of Broadwoven Fabrics of Cotton,#0072FF,2261.0,2.0,2.812136619221235e-06,0.0,Finishers of Broadwoven Fabrics of Cotton (0.0%)
+326,3084.0,Manufacturing,Plastics Pipe,#0072FF,3084.0,2.0,2.812136619221235e-06,0.0,Plastics Pipe (0.0%)
+318,3021.0,Manufacturing,Rubber and Plastics Footwear,#0072FF,3021.0,2.0,2.812136619221235e-06,0.0,Rubber and Plastics Footwear (0.0%)
+468,3571.0,Manufacturing,Electronic Computers,#0072FF,3571.0,2.0,2.812136619221235e-06,0.0,Electronic Computers (0.0%)
+697,5159.0,Retail and wholesale trade,"Farm-Product Raw Materials, Not Elsewhere Classified",#FF9BCD,5159.0,2.0,2.812136619221235e-06,0.0,"Farm-Product Raw Materials, Not Elsewhere Classified (0.0%)"
+696,5154.0,Retail and wholesale trade,Livestock,#FF9BCD,5154.0,2.0,2.812136619221235e-06,0.0,Livestock (0.0%)
+174,2253.0,Manufacturing,Knit Outerwear Mills,#0072FF,2253.0,2.0,2.812136619221235e-06,0.0,Knit Outerwear Mills (0.0%)
+582,4151.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",School Buses,#C3FF00,4151.0,2.0,2.812136619221235e-06,0.0,School Buses (0.0%)
+124,2033.0,Manufacturing,"Canned Fruits, Vegetables, Preserves, Jams, and Jellies",#0072FF,2033.0,2.0,2.812136619221235e-06,0.0,"Canned Fruits, Vegetables, Preserves, Jams, and Jellies (0.0%)"
+708,5198.0,Retail and wholesale trade,"Paints, Varnishes, and Supplies",#FF9BCD,5198.0,2.0,2.812136619221235e-06,0.0,"Paints, Varnishes, and Supplies (0.0%)"
+528,3728.0,Manufacturing,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified",#0072FF,3728.0,2.0,2.812136619221235e-06,0.0,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified (0.0%)"
+489,3629.0,Manufacturing,"Electrical Industrial Apparatus, Not Elsewhere Classified",#0072FF,3629.0,2.0,2.812136619221235e-06,0.0,"Electrical Industrial Apparatus, Not Elsewhere Classified (0.0%)"
+346,3231.0,Manufacturing,"Glass Products, Made of Purchased Glass",#0072FF,3231.0,2.0,2.812136619221235e-06,0.0,"Glass Products, Made of Purchased Glass (0.0%)"
+403,3433.0,Manufacturing,"Heating Equipment, Except Electric and Warm Air Furnaces",#0072FF,3433.0,2.0,2.812136619221235e-06,0.0,"Heating Equipment, Except Electric and Warm Air Furnaces (0.0%)"
+444,3541.0,Manufacturing,"Machine Tools, Metal Cutting Types",#0072FF,3541.0,2.0,2.812136619221235e-06,0.0,"Machine Tools, Metal Cutting Types (0.0%)"
+10,161.0,"Agriculture, Forestry, Fishing, Mining",Vegetables and Melons,#698705,161.0,1.0,1.4060683096106175e-06,0.0,Vegetables and Melons (0.0%)
+390,3365.0,Manufacturing,Aluminum Foundries,#0072FF,3365.0,1.0,1.4060683096106175e-06,0.0,Aluminum Foundries (0.0%)
+20,211.0,"Agriculture, Forestry, Fishing, Mining",Beef Cattle Feedlots,#698705,211.0,1.0,1.4060683096106175e-06,0.0,Beef Cattle Feedlots (0.0%)
+215,2392.0,Manufacturing,"House furnishing, Except Curtains and Draperies",#0072FF,2392.0,1.0,1.4060683096106175e-06,0.0,"House furnishing, Except Curtains and Draperies (0.0%)"
+405,3442.0,Manufacturing,"Metal Doors, Sash, Frames, Molding, and Trim Manufacturing",#0072FF,3442.0,1.0,1.4060683096106175e-06,0.0,"Metal Doors, Sash, Frames, Molding, and Trim Manufacturing (0.0%)"
+2,115.0,"Agriculture, Forestry, Fishing, Mining",Corn,#698705,115.0,1.0,1.4060683096106175e-06,0.0,Corn (0.0%)
+784,6082.0,"Finance, Insurance, And Real Estate",Foreign Trade and International Banking Institutions,#FFFF00,6082.0,1.0,1.4060683096106175e-06,0.0,Foreign Trade and International Banking Institutions (0.0%)
+250,2591.0,Manufacturing,Drapery Hardware and Window Blinds and Shades,#0072FF,2591.0,1.0,1.4060683096106175e-06,0.0,Drapery Hardware and Window Blinds and Shades (0.0%)
+412,3452.0,Manufacturing,"Bolts, Nuts, Screws, Rivets, and Washers",#0072FF,3452.0,1.0,1.4060683096106175e-06,0.0,"Bolts, Nuts, Screws, Rivets, and Washers (0.0%)"
+394,3399.0,Manufacturing,"Primary Metal Products, Not Elsewhere Classified",#0072FF,3399.0,1.0,1.4060683096106175e-06,0.0,"Primary Metal Products, Not Elsewhere Classified (0.0%)"
+218,2395.0,Manufacturing,"Pleating, Decorative and Novelty Stitching, and Tucking for the Trade",#0072FF,2395.0,1.0,1.4060683096106175e-06,0.0,"Pleating, Decorative and Novelty Stitching, and Tucking for the Trade (0.0%)"
+893,7622.0,Services,Radio and Television Repair Shops,#FF0069,7622.0,1.0,1.4060683096106175e-06,0.0,Radio and Television Repair Shops (0.0%)
+264,2675.0,Manufacturing,Die-Cut Paper and Paperboard and Cardboard,#0072FF,2675.0,1.0,1.4060683096106175e-06,0.0,Die-Cut Paper and Paperboard and Cardboard (0.0%)
+126,2035.0,Manufacturing,"Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings",#0072FF,2035.0,1.0,1.4060683096106175e-06,0.0,"Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings (0.0%)"
+130,2043.0,Manufacturing,Cereal Breakfast Foods,#0072FF,2043.0,1.0,1.4060683096106175e-06,0.0,Cereal Breakfast Foods (0.0%)
+171,2241.0,Manufacturing,"Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk, and Manmade Fiber",#0072FF,2241.0,1.0,1.4060683096106175e-06,0.0,"Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk, and Manmade Fiber (0.0%)"
+438,3532.0,Manufacturing,"Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment",#0072FF,3532.0,1.0,1.4060683096106175e-06,0.0,"Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment (0.0%)"
+380,3339.0,Manufacturing,"Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum",#0072FF,3339.0,1.0,1.4060683096106175e-06,0.0,"Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum (0.0%)"
+72,1321.0,"Agriculture, Forestry, Fishing, Mining",Natural Gas Liquids,#698705,1321.0,1.0,1.4060683096106175e-06,0.0,Natural Gas Liquids (0.0%)
+540,3821.0,Manufacturing,Laboratory Apparatus and Furniture,#0072FF,3821.0,1.0,1.4060683096106175e-06,0.0,Laboratory Apparatus and Furniture (0.0%)
+290,2824.0,Manufacturing,"Manmade Organic Fibers, Except Cellulosic",#0072FF,2824.0,1.0,1.4060683096106175e-06,0.0,"Manmade Organic Fibers, Except Cellulosic (0.0%)"
+57,971.0,"Agriculture, Forestry, Fishing, Mining","Hunting and Trapping, and Game Propagation",#698705,971.0,1.0,1.4060683096106175e-06,0.0,"Hunting and Trapping, and Game Propagation (0.0%)"
+170,2231.0,Manufacturing,"Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing)",#0072FF,2231.0,1.0,1.4060683096106175e-06,0.0,"Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing) (0.0%)"
+251,2599.0,Manufacturing,"Furniture and Fixtures, Not Elsewhere Classified",#0072FF,2599.0,1.0,1.4060683096106175e-06,0.0,"Furniture and Fixtures, Not Elsewhere Classified (0.0%)"
+502,3648.0,Manufacturing,"Lighting Equipment, Not Elsewhere Classified",#0072FF,3648.0,1.0,1.4060683096106175e-06,0.0,"Lighting Equipment, Not Elsewhere Classified (0.0%)"
+376,3324.0,Manufacturing,Steel Investment Foundries,#0072FF,3324.0,1.0,1.4060683096106175e-06,0.0,Steel Investment Foundries (0.0%)
+303,2873.0,Manufacturing,Nitrogenous Fertilizers,#0072FF,2873.0,1.0,1.4060683096106175e-06,0.0,Nitrogenous Fertilizers (0.0%)
+1001,9661.0,Public Administration,Space and Research and Technology,#CD7CA4,,0.0,0.0,0.0,Space and Research and Technology (0.0%)
+886,7534.0,Services,Tire Retreading and Repair Shops,#FF0069,,0.0,0.0,0.0,Tire Retreading and Repair Shops (0.0%)
+823,6792.0,"Finance, Insurance, And Real Estate",Oil Royalty Traders,#FFFF00,,0.0,0.0,0.0,Oil Royalty Traders (0.0%)
+830,7033.0,Services,Recreational Vehicle Parks and Campsites,#FF0069,,0.0,0.0,0.0,Recreational Vehicle Parks and Campsites (0.0%)
+768,5989.0,Retail and wholesale trade,"Fuel Dealers, Not Elsewhere Classified",#FF9BCD,,0.0,0.0,0.0,"Fuel Dealers, Not Elsewhere Classified (0.0%)"
+906,7833.0,Services,Drive-In Motion Picture Theaters,#FF0069,,0.0,0.0,0.0,Drive-In Motion Picture Theaters (0.0%)
+975,8811.0,Services,Private Households,#FF0069,,0.0,0.0,0.0,Private Households (0.0%)
+775,6019.0,"Finance, Insurance, And Real Estate","Central Reserve Depository Institutions, Not Elsewhere Classified",#FFFF00,,0.0,0.0,0.0,"Central Reserve Depository Institutions, Not Elsewhere Classified (0.0%)"
+811,6517.0,"Finance, Insurance, And Real Estate",Lessors of Railroad Property,#FFFF00,,0.0,0.0,0.0,Lessors of Railroad Property (0.0%)
+714,5271.0,Retail and wholesale trade,Mobile Home Dealers,#FF9BCD,,0.0,0.0,0.0,Mobile Home Dealers (0.0%)
+0,111.0,"Agriculture, Forestry, Fishing, Mining",Wheat,#698705,,0.0,0.0,0.0,Wheat (0.0%)
+656,5048.0,Retail and wholesale trade,Ophthalmic Goods,#FF9BCD,,0.0,0.0,0.0,Ophthalmic Goods (0.0%)
+206,2369.0,Manufacturing,"Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified (0.0%)"
+193,2322.0,Manufacturing,Men's and Boys' Underwear and Nightwear,#0072FF,,0.0,0.0,0.0,Men's and Boys' Underwear and Nightwear (0.0%)
+194,2323.0,Manufacturing,Men's and Boys' Neckwear,#0072FF,,0.0,0.0,0.0,Men's and Boys' Neckwear (0.0%)
+195,2325.0,Manufacturing,Men's and Boys' Separate Trousers and Slacks,#0072FF,,0.0,0.0,0.0,Men's and Boys' Separate Trousers and Slacks (0.0%)
+198,2331.0,Manufacturing,"Women's, Misses', and Juniors' Blouses and Shirts",#0072FF,,0.0,0.0,0.0,"Women's, Misses', and Juniors' Blouses and Shirts (0.0%)"
+202,2341.0,Manufacturing,"Women's, Misses', Children's, and Infants' Underwear and Nightwear",#0072FF,,0.0,0.0,0.0,"Women's, Misses', Children's, and Infants' Underwear and Nightwear (0.0%)"
+203,2342.0,Manufacturing,"Brassieres, Girdles, and Allied Garments",#0072FF,,0.0,0.0,0.0,"Brassieres, Girdles, and Allied Garments (0.0%)"
+205,2361.0,Manufacturing,"Girls', Children's, and Infants' Dresses, Blouses, and Shirts",#0072FF,,0.0,0.0,0.0,"Girls', Children's, and Infants' Dresses, Blouses, and Shirts (0.0%)"
+207,2371.0,Manufacturing,Fur Goods,#0072FF,,0.0,0.0,0.0,Fur Goods (0.0%)
+188,2297.0,Manufacturing,Non-woven Fabrics,#0072FF,,0.0,0.0,0.0,Non-woven Fabrics (0.0%)
+208,2381.0,Manufacturing,"Dress and Work Gloves, Except Knit and All-Leather",#0072FF,,0.0,0.0,0.0,"Dress and Work Gloves, Except Knit and All-Leather (0.0%)"
+209,2384.0,Manufacturing,Robes and Dressing Gowns,#0072FF,,0.0,0.0,0.0,Robes and Dressing Gowns (0.0%)
+210,2385.0,Manufacturing,Waterproof Outerwear,#0072FF,,0.0,0.0,0.0,Waterproof Outerwear (0.0%)
+212,2387.0,Manufacturing,Apparel belts,#0072FF,,0.0,0.0,0.0,Apparel belts (0.0%)
+216,2393.0,Manufacturing,Textile Bags,#0072FF,,0.0,0.0,0.0,Textile Bags (0.0%)
+220,2397.0,Manufacturing,Schiffli Machine Embroideries,#0072FF,,0.0,0.0,0.0,Schiffli Machine Embroideries (0.0%)
+225,2429.0,Manufacturing,"Special Product Sawmills, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Special Product Sawmills, Not Elsewhere Classified (0.0%)"
+192,2321.0,Manufacturing,"Men's and Boys' Shirts, Except Work Shirts",#0072FF,,0.0,0.0,0.0,"Men's and Boys' Shirts, Except Work Shirts (0.0%)"
+187,2296.0,Manufacturing,Tire Cord and Fabrics,#0072FF,,0.0,0.0,0.0,Tire Cord and Fabrics (0.0%)
+160,2096.0,Manufacturing,"Potato Chips, Corn Chips, and Similar Snacks",#0072FF,,0.0,0.0,0.0,"Potato Chips, Corn Chips, and Similar Snacks (0.0%)"
+175,2254.0,Manufacturing,Knit Underwear and Nightwear Mills,#0072FF,,0.0,0.0,0.0,Knit Underwear and Nightwear Mills (0.0%)
+164,2111.0,Manufacturing,Cigarettes,#0072FF,,0.0,0.0,0.0,Cigarettes (0.0%)
+165,2121.0,Manufacturing,Cigars,#0072FF,,0.0,0.0,0.0,Cigars (0.0%)
+166,2131.0,Manufacturing,Chewing and Smoking Tobacco and Snuff,#0072FF,,0.0,0.0,0.0,Chewing and Smoking Tobacco and Snuff (0.0%)
+167,2141.0,Manufacturing,Tobacco Stemming and Redrying,#0072FF,,0.0,0.0,0.0,Tobacco Stemming and Redrying (0.0%)
+169,2221.0,Manufacturing,"Broadwoven Fabric Mills, Manmade Fiber and Silk",#0072FF,,0.0,0.0,0.0,"Broadwoven Fabric Mills, Manmade Fiber and Silk (0.0%)"
+172,2251.0,Manufacturing,"Women's Full-Length and Knee-Length Hosiery, Except Socks",#0072FF,,0.0,0.0,0.0,"Women's Full-Length and Knee-Length Hosiery, Except Socks (0.0%)"
+173,2252.0,Manufacturing,"Hosiery, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Hosiery, Not Elsewhere Classified (0.0%)"
+176,2257.0,Manufacturing,Weft Knit Fabric Mills,#0072FF,,0.0,0.0,0.0,Weft Knit Fabric Mills (0.0%)
+186,2295.0,Manufacturing,"Coated Fabrics, Not Rubberized",#0072FF,,0.0,0.0,0.0,"Coated Fabrics, Not Rubberized (0.0%)"
+177,2258.0,Manufacturing,Lace and Warp Knit Fabric Mills,#0072FF,,0.0,0.0,0.0,Lace and Warp Knit Fabric Mills (0.0%)
+178,2259.0,Manufacturing,"Knitting Mills, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Knitting Mills, Not Elsewhere Classified (0.0%)"
+180,2262.0,Manufacturing,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk,#0072FF,,0.0,0.0,0.0,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk (0.0%)
+181,2269.0,Manufacturing,"Finishers of Textiles, Not elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Finishers of Textiles, Not elsewhere Classified (0.0%)"
+183,2281.0,Manufacturing,Yarn Spinning Mills,#0072FF,,0.0,0.0,0.0,Yarn Spinning Mills (0.0%)
+184,2282.0,Manufacturing,"Yarn Texturizing, Throwing, Twisting, and Winding Mills",#0072FF,,0.0,0.0,0.0,"Yarn Texturizing, Throwing, Twisting, and Winding Mills (0.0%)"
+185,2284.0,Manufacturing,Thread Mills,#0072FF,,0.0,0.0,0.0,Thread Mills (0.0%)
+228,2435.0,Manufacturing,Hardwood Veneer and Plywood,#0072FF,,0.0,0.0,0.0,Hardwood Veneer and Plywood (0.0%)
+229,2436.0,Manufacturing,Softwood Veneer and Plywood,#0072FF,,0.0,0.0,0.0,Softwood Veneer and Plywood (0.0%)
+230,2439.0,Manufacturing,"Structural Wood Members, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Structural Wood Members, Not Elsewhere Classified (0.0%)"
+295,2841.0,Manufacturing,"Soap and Other Detergents, Except Specialty Cleaners",#0072FF,,0.0,0.0,0.0,"Soap and Other Detergents, Except Specialty Cleaners (0.0%)"
+266,2677.0,Manufacturing,Envelopes,#0072FF,,0.0,0.0,0.0,Envelopes (0.0%)
+267,2678.0,Manufacturing,"Stationery, Tablets, and Related Products",#0072FF,,0.0,0.0,0.0,"Stationery, Tablets, and Related Products (0.0%)"
+272,2732.0,Manufacturing,Book Printing,#0072FF,,0.0,0.0,0.0,Book Printing (0.0%)
+283,2812.0,Manufacturing,Alkalies and Chlorine,#0072FF,,0.0,0.0,0.0,Alkalies and Chlorine (0.0%)
+285,2816.0,Manufacturing,Inorganic Pigments,#0072FF,,0.0,0.0,0.0,Inorganic Pigments (0.0%)
+288,2822.0,Manufacturing,Synthetic Rubber (Vulcanizable Elastomers),#0072FF,,0.0,0.0,0.0,Synthetic Rubber (Vulcanizable Elastomers) (0.0%)
+289,2823.0,Manufacturing,Cellulosic Manmade Fibers,#0072FF,,0.0,0.0,0.0,Cellulosic Manmade Fibers (0.0%)
+296,2842.0,Manufacturing,"Specialty Cleaning, Polishing, and Sanitation Preparations",#0072FF,,0.0,0.0,0.0,"Specialty Cleaning, Polishing, and Sanitation Preparations (0.0%)"
+231,2441.0,Manufacturing,Nailed and Lock Corner Wood Boxes and Shook,#0072FF,,0.0,0.0,0.0,Nailed and Lock Corner Wood Boxes and Shook (0.0%)
+297,2843.0,Manufacturing,"Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants",#0072FF,,0.0,0.0,0.0,"Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants (0.0%)"
+300,2861.0,Manufacturing,Gum and Wood Chemicals,#0072FF,,0.0,0.0,0.0,Gum and Wood Chemicals (0.0%)
+301,2865.0,Manufacturing,"Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments",#0072FF,,0.0,0.0,0.0,"Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments (0.0%)"
+304,2874.0,Manufacturing,Phosphatic Fertilizers,#0072FF,,0.0,0.0,0.0,Phosphatic Fertilizers (0.0%)
+305,2875.0,Manufacturing,"Fertilizers, Mixing Only",#0072FF,,0.0,0.0,0.0,"Fertilizers, Mixing Only (0.0%)"
+308,2892.0,Manufacturing,Explosives,#0072FF,,0.0,0.0,0.0,Explosives (0.0%)
+309,2893.0,Manufacturing,Printing Ink,#0072FF,,0.0,0.0,0.0,Printing Ink (0.0%)
+265,2676.0,Manufacturing,Sanitary Paper Products,#0072FF,,0.0,0.0,0.0,Sanitary Paper Products (0.0%)
+263,2674.0,Manufacturing,Uncoated Paper and Multiwall Bags,#0072FF,,0.0,0.0,0.0,Uncoated Paper and Multiwall Bags (0.0%)
+261,2672.0,Manufacturing,"Coated and Laminated Paper, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Coated and Laminated Paper, Not Elsewhere Classified (0.0%)"
+259,2657.0,Manufacturing,"Folding Paperboard Boxes, Including Sanitary",#0072FF,,0.0,0.0,0.0,"Folding Paperboard Boxes, Including Sanitary (0.0%)"
+233,2449.0,Manufacturing,"Wood Containers, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Wood Containers, Not Elsewhere Classified (0.0%)"
+234,2451.0,Manufacturing,Mobile Homes,#0072FF,,0.0,0.0,0.0,Mobile Homes (0.0%)
+235,2452.0,Manufacturing,Prefabricated Wood Buildings and Components,#0072FF,,0.0,0.0,0.0,Prefabricated Wood Buildings and Components (0.0%)
+236,2491.0,Manufacturing,Wood Preserving,#0072FF,,0.0,0.0,0.0,Wood Preserving (0.0%)
+237,2493.0,Manufacturing,Reconstituted Wood Products,#0072FF,,0.0,0.0,0.0,Reconstituted Wood Products (0.0%)
+241,2514.0,Manufacturing,Metal Household Furniture,#0072FF,,0.0,0.0,0.0,Metal Household Furniture (0.0%)
+242,2515.0,Manufacturing,"Mattresses, Foundations, and Convertible Beds",#0072FF,,0.0,0.0,0.0,"Mattresses, Foundations, and Convertible Beds (0.0%)"
+243,2517.0,Manufacturing,"Wood Television, Radio, Phonograph, and Sewing Machine Cabinets",#0072FF,,0.0,0.0,0.0,"Wood Television, Radio, Phonograph, and Sewing Machine Cabinets (0.0%)"
+244,2519.0,Manufacturing,"Household Furniture, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Household Furniture, Not Elsewhere Classified (0.0%)"
+249,2542.0,Manufacturing,"Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood",#0072FF,,0.0,0.0,0.0,"Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood (0.0%)"
+252,2611.0,Manufacturing,Pulp Mills,#0072FF,,0.0,0.0,0.0,Pulp Mills (0.0%)
+254,2631.0,Manufacturing,Paperboard Mills,#0072FF,,0.0,0.0,0.0,Paperboard Mills (0.0%)
+255,2652.0,Manufacturing,Setup Paperboard Boxes,#0072FF,,0.0,0.0,0.0,Setup Paperboard Boxes (0.0%)
+257,2655.0,Manufacturing,"Fiber Cans, Tubes, Drums, and Similar Products",#0072FF,,0.0,0.0,0.0,"Fiber Cans, Tubes, Drums, and Similar Products (0.0%)"
+258,2656.0,Manufacturing,"Sanitary Food Containers, Except Folding",#0072FF,,0.0,0.0,0.0,"Sanitary Food Containers, Except Folding (0.0%)"
+161,2097.0,Manufacturing,Manufactured Ice,#0072FF,,0.0,0.0,0.0,Manufactured Ice (0.0%)
+156,2087.0,Manufacturing,"Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified (0.0%)"
+314,2952.0,Manufacturing,Asphalt Felts and Coatings,#0072FF,,0.0,0.0,0.0,Asphalt Felts and Coatings (0.0%)
+43,751.0,"Agriculture, Forestry, Fishing, Mining","Livestock Services, Except Veterinary",#698705,,0.0,0.0,0.0,"Livestock Services, Except Veterinary (0.0%)"
+31,271.0,"Agriculture, Forestry, Fishing, Mining",Fur-Bearing Animals and Rabbits,#698705,,0.0,0.0,0.0,Fur-Bearing Animals and Rabbits (0.0%)
+36,711.0,"Agriculture, Forestry, Fishing, Mining",Soil Preparation Services,#698705,,0.0,0.0,0.0,Soil Preparation Services (0.0%)
+37,721.0,"Agriculture, Forestry, Fishing, Mining","Crop Planting, Cultivating, and Protecting",#698705,,0.0,0.0,0.0,"Crop Planting, Cultivating, and Protecting (0.0%)"
+38,722.0,"Agriculture, Forestry, Fishing, Mining","Crop Harvesting, Primarily by Machine",#698705,,0.0,0.0,0.0,"Crop Harvesting, Primarily by Machine (0.0%)"
+39,723.0,"Agriculture, Forestry, Fishing, Mining","Crop Preparation Services for Market, Except Cotton Ginning",#698705,,0.0,0.0,0.0,"Crop Preparation Services for Market, Except Cotton Ginning (0.0%)"
+40,724.0,"Agriculture, Forestry, Fishing, Mining",Cotton Ginning,#698705,,0.0,0.0,0.0,Cotton Ginning (0.0%)
+41,741.0,"Agriculture, Forestry, Fishing, Mining",Veterinary Services for Livestock,#698705,,0.0,0.0,0.0,Veterinary Services for Livestock (0.0%)
+45,761.0,"Agriculture, Forestry, Fishing, Mining",Farm Labor Contractors and Crew Leaders,#698705,,0.0,0.0,0.0,Farm Labor Contractors and Crew Leaders (0.0%)
+29,254.0,"Agriculture, Forestry, Fishing, Mining",Poultry Hatcheries,#698705,,0.0,0.0,0.0,Poultry Hatcheries (0.0%)
+51,831.0,"Agriculture, Forestry, Fishing, Mining",Forest Nurseries and Gathering of Forest Products,#698705,,0.0,0.0,0.0,Forest Nurseries and Gathering of Forest Products (0.0%)
+54,913.0,"Agriculture, Forestry, Fishing, Mining",Shellfish,#698705,,0.0,0.0,0.0,Shellfish (0.0%)
+55,919.0,"Agriculture, Forestry, Fishing, Mining",Miscellaneous Marine Products,#698705,,0.0,0.0,0.0,Miscellaneous Marine Products (0.0%)
+56,921.0,"Agriculture, Forestry, Fishing, Mining",Fish Hatcheries and Preserves,#698705,,0.0,0.0,0.0,Fish Hatcheries and Preserves (0.0%)
+58,1011.0,"Agriculture, Forestry, Fishing, Mining",Iron Ores,#698705,,0.0,0.0,0.0,Iron Ores (0.0%)
+59,1021.0,"Agriculture, Forestry, Fishing, Mining",Copper Ores,#698705,,0.0,0.0,0.0,Copper Ores (0.0%)
+60,1031.0,"Agriculture, Forestry, Fishing, Mining",Lead and Zinc Ores,#698705,,0.0,0.0,0.0,Lead and Zinc Ores (0.0%)
+30,259.0,"Agriculture, Forestry, Fishing, Mining","Poultry and Eggs, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Poultry and Eggs, Not Elsewhere Classified (0.0%)"
+28,253.0,"Agriculture, Forestry, Fishing, Mining",Turkeys and Turkey Eggs,#698705,,0.0,0.0,0.0,Turkeys and Turkey Eggs (0.0%)
+152,2083.0,Manufacturing,Malt,#0072FF,,0.0,0.0,0.0,Malt (0.0%)
+11,171.0,"Agriculture, Forestry, Fishing, Mining",Berry Crops,#698705,,0.0,0.0,0.0,Berry Crops (0.0%)
+3,116.0,"Agriculture, Forestry, Fishing, Mining",Soybeans,#698705,,0.0,0.0,0.0,Soybeans (0.0%)
+4,119.0,"Agriculture, Forestry, Fishing, Mining","Cash Grains, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Cash Grains, Not Elsewhere Classified (0.0%)"
+5,131.0,"Agriculture, Forestry, Fishing, Mining",Cotton,#698705,,0.0,0.0,0.0,Cotton (0.0%)
+6,132.0,"Agriculture, Forestry, Fishing, Mining",Tobacco,#698705,,0.0,0.0,0.0,Tobacco (0.0%)
+7,133.0,"Agriculture, Forestry, Fishing, Mining",Sugarcane and Sugar Beets,#698705,,0.0,0.0,0.0,Sugarcane and Sugar Beets (0.0%)
+8,134.0,"Agriculture, Forestry, Fishing, Mining",Irish Potatoes,#698705,,0.0,0.0,0.0,Irish Potatoes (0.0%)
+9,139.0,"Agriculture, Forestry, Fishing, Mining","Field Crops, Except Cash Grains, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Field Crops, Except Cash Grains, Not Elsewhere Classified (0.0%)"
+13,173.0,"Agriculture, Forestry, Fishing, Mining",Tree Nuts,#698705,,0.0,0.0,0.0,Tree Nuts (0.0%)
+27,252.0,"Agriculture, Forestry, Fishing, Mining",Chicken Eggs,#698705,,0.0,0.0,0.0,Chicken Eggs (0.0%)
+14,174.0,"Agriculture, Forestry, Fishing, Mining",Citrus Fruits,#698705,,0.0,0.0,0.0,Citrus Fruits (0.0%)
+16,179.0,"Agriculture, Forestry, Fishing, Mining","Fruits and Tree Nuts, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Fruits and Tree Nuts, Not Elsewhere Classified (0.0%)"
+21,212.0,"Agriculture, Forestry, Fishing, Mining","Beef Cattle, Except Feedlots",#698705,,0.0,0.0,0.0,"Beef Cattle, Except Feedlots (0.0%)"
+22,213.0,"Agriculture, Forestry, Fishing, Mining",Hogs,#698705,,0.0,0.0,0.0,Hogs (0.0%)
+23,214.0,"Agriculture, Forestry, Fishing, Mining",Sheep and Goats,#698705,,0.0,0.0,0.0,Sheep and Goats (0.0%)
+24,219.0,"Agriculture, Forestry, Fishing, Mining","General Livestock, Except Dairy and Poultry",#698705,,0.0,0.0,0.0,"General Livestock, Except Dairy and Poultry (0.0%)"
+26,251.0,"Agriculture, Forestry, Fishing, Mining","Broiler, Fryer, and Roaster Chickens",#698705,,0.0,0.0,0.0,"Broiler, Fryer, and Roaster Chickens (0.0%)"
+62,1044.0,"Agriculture, Forestry, Fishing, Mining",Silver Ores,#698705,,0.0,0.0,0.0,Silver Ores (0.0%)
+63,1061.0,"Agriculture, Forestry, Fishing, Mining","Ferroalloy Ores, Except Vanadium",#698705,,0.0,0.0,0.0,"Ferroalloy Ores, Except Vanadium (0.0%)"
+65,1094.0,"Agriculture, Forestry, Fishing, Mining",Uranium-Radium-Vanadium Ores,#698705,,0.0,0.0,0.0,Uranium-Radium-Vanadium Ores (0.0%)
+139,2061.0,Manufacturing,"Cane Sugar, Except Refining",#0072FF,,0.0,0.0,0.0,"Cane Sugar, Except Refining (0.0%)"
+118,2021.0,Manufacturing,Creamery Butter,#0072FF,,0.0,0.0,0.0,Creamery Butter (0.0%)
+125,2034.0,Manufacturing,"Dried and Dehydrated Fruits, Vegetables, and Soup Mixes",#0072FF,,0.0,0.0,0.0,"Dried and Dehydrated Fruits, Vegetables, and Soup Mixes (0.0%)"
+127,2037.0,Manufacturing,"Frozen Fruits, Fruit Juices, and Vegetables",#0072FF,,0.0,0.0,0.0,"Frozen Fruits, Fruit Juices, and Vegetables (0.0%)"
+131,2044.0,Manufacturing,Rice Milling,#0072FF,,0.0,0.0,0.0,Rice Milling (0.0%)
+132,2045.0,Manufacturing,Prepared Flour Mixes and Doughs,#0072FF,,0.0,0.0,0.0,Prepared Flour Mixes and Doughs (0.0%)
+133,2046.0,Manufacturing,Wet Corn Milling,#0072FF,,0.0,0.0,0.0,Wet Corn Milling (0.0%)
+138,2053.0,Manufacturing,"Frozen Bakery Products, Except Bread",#0072FF,,0.0,0.0,0.0,"Frozen Bakery Products, Except Bread (0.0%)"
+140,2062.0,Manufacturing,Cane Sugar Refining,#0072FF,,0.0,0.0,0.0,Cane Sugar Refining (0.0%)
+66,1099.0,"Agriculture, Forestry, Fishing, Mining","Miscellaneous Metal Ores, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Miscellaneous Metal Ores, Not Elsewhere Classified (0.0%)"
+141,2063.0,Manufacturing,Beet Sugar,#0072FF,,0.0,0.0,0.0,Beet Sugar (0.0%)
+144,2067.0,Manufacturing,Chewing Gum,#0072FF,,0.0,0.0,0.0,Chewing Gum (0.0%)
+146,2074.0,Manufacturing,Cottonseed Oil Mills,#0072FF,,0.0,0.0,0.0,Cottonseed Oil Mills (0.0%)
+147,2075.0,Manufacturing,Soybean Oil Mills,#0072FF,,0.0,0.0,0.0,Soybean Oil Mills (0.0%)
+148,2076.0,Manufacturing,"Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean",#0072FF,,0.0,0.0,0.0,"Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean (0.0%)"
+149,2077.0,Manufacturing,Animal and Marine Fats and Oils,#0072FF,,0.0,0.0,0.0,Animal and Marine Fats and Oils (0.0%)
+150,2079.0,Manufacturing,"Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified (0.0%)"
+116,2013.0,Manufacturing,Sausages and Other Prepared Meat Products,#0072FF,,0.0,0.0,0.0,Sausages and Other Prepared Meat Products (0.0%)
+108,1781.0,Construction,Water Well Drilling,#696969,,0.0,0.0,0.0,Water Well Drilling (0.0%)
+88,1499.0,"Agriculture, Forestry, Fishing, Mining","Miscellaneous Nonmetallic Minerals, Except Fuels",#698705,,0.0,0.0,0.0,"Miscellaneous Nonmetallic Minerals, Except Fuels (0.0%)"
+87,1481.0,"Agriculture, Forestry, Fishing, Mining","Nonmetallic Minerals Services, Except Fuels",#698705,,0.0,0.0,0.0,"Nonmetallic Minerals Services, Except Fuels (0.0%)"
+67,1221.0,"Agriculture, Forestry, Fishing, Mining",Bituminous Coal and Lignite Surface Mining,#698705,,0.0,0.0,0.0,Bituminous Coal and Lignite Surface Mining (0.0%)
+68,1222.0,"Agriculture, Forestry, Fishing, Mining",Bituminous Coal Underground Mining,#698705,,0.0,0.0,0.0,Bituminous Coal Underground Mining (0.0%)
+69,1231.0,"Agriculture, Forestry, Fishing, Mining",Anthracite Mining,#698705,,0.0,0.0,0.0,Anthracite Mining (0.0%)
+70,1241.0,"Agriculture, Forestry, Fishing, Mining",Coal Mining Services,#698705,,0.0,0.0,0.0,Coal Mining Services (0.0%)
+73,1381.0,"Agriculture, Forestry, Fishing, Mining",Drilling Oil and Gas Wells,#698705,,0.0,0.0,0.0,Drilling Oil and Gas Wells (0.0%)
+76,1411.0,"Agriculture, Forestry, Fishing, Mining",Dimension Stone,#698705,,0.0,0.0,0.0,Dimension Stone (0.0%)
+77,1422.0,"Agriculture, Forestry, Fishing, Mining",Crushed and Broken Limestone,#698705,,0.0,0.0,0.0,Crushed and Broken Limestone (0.0%)
+78,1423.0,"Agriculture, Forestry, Fishing, Mining",Crushed and Broken Granite,#698705,,0.0,0.0,0.0,Crushed and Broken Granite (0.0%)
+79,1429.0,"Agriculture, Forestry, Fishing, Mining","Crushed and Broken Stone, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Crushed and Broken Stone, Not Elsewhere Classified (0.0%)"
+81,1446.0,"Agriculture, Forestry, Fishing, Mining",Industrial Sand,#698705,,0.0,0.0,0.0,Industrial Sand (0.0%)
+82,1455.0,"Agriculture, Forestry, Fishing, Mining",Kaolin and Ball Clay,#698705,,0.0,0.0,0.0,Kaolin and Ball Clay (0.0%)
+83,1459.0,"Agriculture, Forestry, Fishing, Mining","Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified (0.0%)"
+84,1474.0,"Agriculture, Forestry, Fishing, Mining","Potash, Soda, and Borate Minerals",#698705,,0.0,0.0,0.0,"Potash, Soda, and Borate Minerals (0.0%)"
+85,1475.0,"Agriculture, Forestry, Fishing, Mining",Phosphate Rock,#698705,,0.0,0.0,0.0,Phosphate Rock (0.0%)
+86,1479.0,"Agriculture, Forestry, Fishing, Mining","Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified",#698705,,0.0,0.0,0.0,"Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified (0.0%)"
+313,2951.0,Manufacturing,Asphalt Paving Mixtures and Blocks,#0072FF,,0.0,0.0,0.0,Asphalt Paving Mixtures and Blocks (0.0%)
+315,2992.0,Manufacturing,Lubricating Oils and Greases,#0072FF,,0.0,0.0,0.0,Lubricating Oils and Greases (0.0%)
+643,5014.0,Retail and wholesale trade,Tires and Tubes,#FF9BCD,,0.0,0.0,0.0,Tires and Tubes (0.0%)
+482,3596.0,Manufacturing,"Scales and Balances, Except Laboratory",#0072FF,,0.0,0.0,0.0,"Scales and Balances, Except Laboratory (0.0%)"
+470,3575.0,Manufacturing,Computer Terminals,#0072FF,,0.0,0.0,0.0,Computer Terminals (0.0%)
+472,3578.0,Manufacturing,"Calculating and Accounting Machines, Except Electronic Computers",#0072FF,,0.0,0.0,0.0,"Calculating and Accounting Machines, Except Electronic Computers (0.0%)"
+474,3581.0,Manufacturing,Automatic Vending Machines,#0072FF,,0.0,0.0,0.0,Automatic Vending Machines (0.0%)
+477,3586.0,Manufacturing,Measuring and Dispensing Pumps,#0072FF,,0.0,0.0,0.0,Measuring and Dispensing Pumps (0.0%)
+479,3592.0,Manufacturing,"Carburetors, Pistons, Piston Rings, and Valves",#0072FF,,0.0,0.0,0.0,"Carburetors, Pistons, Piston Rings, and Valves (0.0%)"
+480,3593.0,Manufacturing,Fluid Power Cylinders and Actuators,#0072FF,,0.0,0.0,0.0,Fluid Power Cylinders and Actuators (0.0%)
+481,3594.0,Manufacturing,Fluid Power Pumps and Motors,#0072FF,,0.0,0.0,0.0,Fluid Power Pumps and Motors (0.0%)
+484,3612.0,Manufacturing,"Power, Distribution, and Specialty Transformers",#0072FF,,0.0,0.0,0.0,"Power, Distribution, and Specialty Transformers (0.0%)"
+466,3568.0,Manufacturing,"Mechanical Power Transmission Equipment, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Mechanical Power Transmission Equipment, Not Elsewhere Classified (0.0%)"
+485,3613.0,Manufacturing,Switchgear and Switchboard Apparatus,#0072FF,,0.0,0.0,0.0,Switchgear and Switchboard Apparatus (0.0%)
+487,3624.0,Manufacturing,Carbon and Graphite Products,#0072FF,,0.0,0.0,0.0,Carbon and Graphite Products (0.0%)
+490,3631.0,Manufacturing,Household Cooking Equipment,#0072FF,,0.0,0.0,0.0,Household Cooking Equipment (0.0%)
+491,3632.0,Manufacturing,Household Refrigerators and HOme and Farm Freezers,#0072FF,,0.0,0.0,0.0,Household Refrigerators and HOme and Farm Freezers (0.0%)
+492,3633.0,Manufacturing,Household Laundry Equipment,#0072FF,,0.0,0.0,0.0,Household Laundry Equipment (0.0%)
+494,3635.0,Manufacturing,Household Vacuum Cleaners,#0072FF,,0.0,0.0,0.0,Household Vacuum Cleaners (0.0%)
+495,3639.0,Manufacturing,"Household Appliances, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Household Appliances, Not Elsewhere Classified (0.0%)"
+469,3572.0,Manufacturing,Computer Storage Devices,#0072FF,,0.0,0.0,0.0,Computer Storage Devices (0.0%)
+465,3567.0,Manufacturing,Industrial Process Furnaces and Ovens,#0072FF,,0.0,0.0,0.0,Industrial Process Furnaces and Ovens (0.0%)
+439,3533.0,Manufacturing,Oil and Gas Field Machinery and Equipment,#0072FF,,0.0,0.0,0.0,Oil and Gas Field Machinery and Equipment (0.0%)
+451,3548.0,Manufacturing,Electric and Gas Welding and Soldering Equipment,#0072FF,,0.0,0.0,0.0,Electric and Gas Welding and Soldering Equipment (0.0%)
+443,3537.0,Manufacturing,"Industrial Trucks, Tractors, Trailers, and Stackers",#0072FF,,0.0,0.0,0.0,"Industrial Trucks, Tractors, Trailers, and Stackers (0.0%)"
+445,3542.0,Manufacturing,"Machine Tools, Metal Forming Types",#0072FF,,0.0,0.0,0.0,"Machine Tools, Metal Forming Types (0.0%)"
+446,3543.0,Manufacturing,Industrial Patterns,#0072FF,,0.0,0.0,0.0,Industrial Patterns (0.0%)
+447,3544.0,Manufacturing,"Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds",#0072FF,,0.0,0.0,0.0,"Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds (0.0%)"
+448,3545.0,Manufacturing,"Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices",#0072FF,,0.0,0.0,0.0,"Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices (0.0%)"
+449,3546.0,Manufacturing,Power-Driven Handtools,#0072FF,,0.0,0.0,0.0,Power-Driven Handtools (0.0%)
+450,3547.0,Manufacturing,Rolling Mill Machinery and Equipment,#0072FF,,0.0,0.0,0.0,Rolling Mill Machinery and Equipment (0.0%)
+452,3549.0,Manufacturing,"Metalworking Machinery, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Metalworking Machinery, Not Elsewhere Classified (0.0%)"
+464,3566.0,Manufacturing,"Speed Changers, Industrial High-Speed Drives, and Gears",#0072FF,,0.0,0.0,0.0,"Speed Changers, Industrial High-Speed Drives, and Gears (0.0%)"
+453,3552.0,Manufacturing,Textile Machinery,#0072FF,,0.0,0.0,0.0,Textile Machinery (0.0%)
+454,3553.0,Manufacturing,Woodworking Machinery,#0072FF,,0.0,0.0,0.0,Woodworking Machinery (0.0%)
+456,3555.0,Manufacturing,Printing Trades Machinery and Equipment,#0072FF,,0.0,0.0,0.0,Printing Trades Machinery and Equipment (0.0%)
+459,3561.0,Manufacturing,Pumps and Pumping Equipment,#0072FF,,0.0,0.0,0.0,Pumps and Pumping Equipment (0.0%)
+460,3562.0,Manufacturing,Ball and Roller Bearings,#0072FF,,0.0,0.0,0.0,Ball and Roller Bearings (0.0%)
+462,3564.0,Manufacturing,Industrial and Commercial Fans and Blowers and Air Purification Equipment,#0072FF,,0.0,0.0,0.0,Industrial and Commercial Fans and Blowers and Air Purification Equipment (0.0%)
+463,3565.0,Manufacturing,Packaging Machinery,#0072FF,,0.0,0.0,0.0,Packaging Machinery (0.0%)
+496,3641.0,Manufacturing,Electric Lamp Bulbs and Tubes,#0072FF,,0.0,0.0,0.0,Electric Lamp Bulbs and Tubes (0.0%)
+498,3644.0,Manufacturing,Noncurrent-Carrying Wiring Devices,#0072FF,,0.0,0.0,0.0,Noncurrent-Carrying Wiring Devices (0.0%)
+501,3647.0,Manufacturing,Vehicular Lighting Equipment,#0072FF,,0.0,0.0,0.0,Vehicular Lighting Equipment (0.0%)
+575,4013.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Railroad Switching and Terminal Establishments,#C3FF00,,0.0,0.0,0.0,Railroad Switching and Terminal Establishments (0.0%)
+555,3873.0,Manufacturing,"Watches, Clocks, Clockwork Operated Devices, and Parts",#0072FF,,0.0,0.0,0.0,"Watches, Clocks, Clockwork Operated Devices, and Parts (0.0%)"
+560,3942.0,Manufacturing,Dolls and Stuffed Toys,#0072FF,,0.0,0.0,0.0,Dolls and Stuffed Toys (0.0%)
+563,3951.0,Manufacturing,"Pens, Mechanical Pencils, and Parts",#0072FF,,0.0,0.0,0.0,"Pens, Mechanical Pencils, and Parts (0.0%)"
+564,3952.0,Manufacturing,"Lead Pencils, Crayons, and Artists' Materials",#0072FF,,0.0,0.0,0.0,"Lead Pencils, Crayons, and Artists' Materials (0.0%)"
+566,3955.0,Manufacturing,Carbon Paper and Inked Ribbons,#0072FF,,0.0,0.0,0.0,Carbon Paper and Inked Ribbons (0.0%)
+569,3991.0,Manufacturing,Brooms and Brushes,#0072FF,,0.0,0.0,0.0,Brooms and Brushes (0.0%)
+572,3996.0,Manufacturing,"Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified (0.0%)"
+588,4221.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Farm Product Warehousing and Storage,#C3FF00,,0.0,0.0,0.0,Farm Product Warehousing and Storage (0.0%)
+1,112.0,"Agriculture, Forestry, Fishing, Mining",Rice,#698705,,0.0,0.0,0.0,Rice (0.0%)
+596,4432.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Freight Transportation on the Great Lakes-St. Lawrence Seaway,#C3FF00,,0.0,0.0,0.0,Freight Transportation on the Great Lakes-St. Lawrence Seaway (0.0%)
+598,4481.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Deep Sea Transportation of Passengers, Except by Ferry",#C3FF00,,0.0,0.0,0.0,"Deep Sea Transportation of Passengers, Except by Ferry (0.0%)"
+609,4612.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Crude Petroleum Pipelines,#C3FF00,,0.0,0.0,0.0,Crude Petroleum Pipelines (0.0%)
+610,4613.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Refined Petroleum Pipelines,#C3FF00,,0.0,0.0,0.0,Refined Petroleum Pipelines (0.0%)
+611,4619.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Pipelines, Not Elsewhere Classified",#C3FF00,,0.0,0.0,0.0,"Pipelines, Not Elsewhere Classified (0.0%)"
+617,4783.0,"Transportation, Communications, Electric, Gas, And Sanitary Services",Packing and Crating,#C3FF00,,0.0,0.0,0.0,Packing and Crating (0.0%)
+631,4925.0,"Transportation, Communications, Electric, Gas, And Sanitary Services","Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or",#C3FF00,,0.0,0.0,0.0,"Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or (0.0%)"
+551,3844.0,Manufacturing,X-Ray Apparatus and Tubes and Related Irradiation Apparatus,#0072FF,,0.0,0.0,0.0,X-Ray Apparatus and Tubes and Related Irradiation Apparatus (0.0%)
+543,3824.0,Manufacturing,Totalizing Fluid Meters and Counting Devices,#0072FF,,0.0,0.0,0.0,Totalizing Fluid Meters and Counting Devices (0.0%)
+538,3799.0,Manufacturing,"Transportation Equipment, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Transportation Equipment, Not Elsewhere Classified (0.0%)"
+537,3795.0,Manufacturing,Tanks and Tank Components,#0072FF,,0.0,0.0,0.0,Tanks and Tank Components (0.0%)
+504,3652.0,Manufacturing,Phonograph Records and Prerecorded Audio Tapes and Disks,#0072FF,,0.0,0.0,0.0,Phonograph Records and Prerecorded Audio Tapes and Disks (0.0%)
+509,3672.0,Manufacturing,Printed Circuit Boards,#0072FF,,0.0,0.0,0.0,Printed Circuit Boards (0.0%)
+511,3675.0,Manufacturing,Electronic Capacitors,#0072FF,,0.0,0.0,0.0,Electronic Capacitors (0.0%)
+512,3676.0,Manufacturing,Electronic Resistors,#0072FF,,0.0,0.0,0.0,Electronic Resistors (0.0%)
+513,3677.0,Manufacturing,"Electronic Coils, Transformers, and Other Inductors",#0072FF,,0.0,0.0,0.0,"Electronic Coils, Transformers, and Other Inductors (0.0%)"
+514,3678.0,Manufacturing,Electronic Connectors,#0072FF,,0.0,0.0,0.0,Electronic Connectors (0.0%)
+517,3692.0,Manufacturing,"Primary Batteries, Dry and Wet",#0072FF,,0.0,0.0,0.0,"Primary Batteries, Dry and Wet (0.0%)"
+518,3694.0,Manufacturing,Electrical Equipment for Internal Combustion Engines,#0072FF,,0.0,0.0,0.0,Electrical Equipment for Internal Combustion Engines (0.0%)
+524,3715.0,Manufacturing,Truck Trailers,#0072FF,,0.0,0.0,0.0,Truck Trailers (0.0%)
+525,3716.0,Manufacturing,Motor Homes,#0072FF,,0.0,0.0,0.0,Motor Homes (0.0%)
+527,3724.0,Manufacturing,Aircraft Engines and Engine Parts,#0072FF,,0.0,0.0,0.0,Aircraft Engines and Engine Parts (0.0%)
+533,3761.0,Manufacturing,Guided Missiles and Space Vehicles,#0072FF,,0.0,0.0,0.0,Guided Missiles and Space Vehicles (0.0%)
+534,3764.0,Manufacturing,Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts,#0072FF,,0.0,0.0,0.0,Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts (0.0%)
+535,3769.0,Manufacturing,"Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified (0.0%)"
+536,3792.0,Manufacturing,Travel Trailers and Campers,#0072FF,,0.0,0.0,0.0,Travel Trailers and Campers (0.0%)
+440,3534.0,Manufacturing,Elevators and Moving Stairways,#0072FF,,0.0,0.0,0.0,Elevators and Moving Stairways (0.0%)
+436,3524.0,Manufacturing,Lawn and Garden Tractors and Home Lawn and Garden Equipment,#0072FF,,0.0,0.0,0.0,Lawn and Garden Tractors and Home Lawn and Garden Equipment (0.0%)
+316,2999.0,Manufacturing,"Products of Petroleum and Coal, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Products of Petroleum and Coal, Not Elsewhere Classified (0.0%)"
+364,3292.0,Manufacturing,Asbestos Products,#0072FF,,0.0,0.0,0.0,Asbestos Products (0.0%)
+352,3261.0,Manufacturing,Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories,#0072FF,,0.0,0.0,0.0,Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories (0.0%)
+353,3262.0,Manufacturing,Vitreous China Table and Kitchen Articles,#0072FF,,0.0,0.0,0.0,Vitreous China Table and Kitchen Articles (0.0%)
+354,3263.0,Manufacturing,Fine Earthenware (Whiteware) Table and Kitchen Articles,#0072FF,,0.0,0.0,0.0,Fine Earthenware (Whiteware) Table and Kitchen Articles (0.0%)
+355,3264.0,Manufacturing,Porcelain Electrical Supplies,#0072FF,,0.0,0.0,0.0,Porcelain Electrical Supplies (0.0%)
+357,3271.0,Manufacturing,Concrete Block and Brick,#0072FF,,0.0,0.0,0.0,Concrete Block and Brick (0.0%)
+360,3274.0,Manufacturing,Lime,#0072FF,,0.0,0.0,0.0,Lime (0.0%)
+361,3275.0,Manufacturing,Gypsum Products,#0072FF,,0.0,0.0,0.0,Gypsum Products (0.0%)
+365,3295.0,Manufacturing,"Minerals and Earths, Ground or Otherwise Treated",#0072FF,,0.0,0.0,0.0,"Minerals and Earths, Ground or Otherwise Treated (0.0%)"
+350,3255.0,Manufacturing,Clay Refractories,#0072FF,,0.0,0.0,0.0,Clay Refractories (0.0%)
+366,3296.0,Manufacturing,Mineral Wool,#0072FF,,0.0,0.0,0.0,Mineral Wool (0.0%)
+367,3297.0,Manufacturing,Nonclay Refractories,#0072FF,,0.0,0.0,0.0,Nonclay Refractories (0.0%)
+368,3299.0,Manufacturing,"Nonmetallic Mineral Products, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Nonmetallic Mineral Products, Not Elsewhere Classified (0.0%)"
+370,3313.0,Manufacturing,"Electrometallurgical Products, Except Steel",#0072FF,,0.0,0.0,0.0,"Electrometallurgical Products, Except Steel (0.0%)"
+371,3315.0,Manufacturing,Steel Wiredrawing and Steel Nails and Spikes,#0072FF,,0.0,0.0,0.0,Steel Wiredrawing and Steel Nails and Spikes (0.0%)
+372,3316.0,Manufacturing,"Cold-Rolled Steel Sheet, Strip, and Bars",#0072FF,,0.0,0.0,0.0,"Cold-Rolled Steel Sheet, Strip, and Bars (0.0%)"
+373,3317.0,Manufacturing,Steel Pipe and Tubes,#0072FF,,0.0,0.0,0.0,Steel Pipe and Tubes (0.0%)
+351,3259.0,Manufacturing,"Structural Clay Products, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Structural Clay Products, Not Elsewhere Classified (0.0%)"
+348,3251.0,Manufacturing,Brick and Structural Clay Tile,#0072FF,,0.0,0.0,0.0,Brick and Structural Clay Tile (0.0%)
+431,3498.0,Manufacturing,Fabricated Pipe and Pipe Fittings,#0072FF,,0.0,0.0,0.0,Fabricated Pipe and Pipe Fittings (0.0%)
+328,3086.0,Manufacturing,Plastics Foam Products,#0072FF,,0.0,0.0,0.0,Plastics Foam Products (0.0%)
+317,3011.0,Manufacturing,Tires and Inner Tubes,#0072FF,,0.0,0.0,0.0,Tires and Inner Tubes (0.0%)
+319,3052.0,Manufacturing,Rubber and Plastics Hose and Belting,#0072FF,,0.0,0.0,0.0,Rubber and Plastics Hose and Belting (0.0%)
+320,3053.0,Manufacturing,"Gaskets, Packing, and Sealing Devices",#0072FF,,0.0,0.0,0.0,"Gaskets, Packing, and Sealing Devices (0.0%)"
+321,3061.0,Manufacturing,"Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods",#0072FF,,0.0,0.0,0.0,"Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods (0.0%)"
+322,3069.0,Manufacturing,"Fabricated Rubber Products, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Fabricated Rubber Products, Not Elsewhere Classified (0.0%)"
+324,3082.0,Manufacturing,Unsupported Plastics Profile Shapes,#0072FF,,0.0,0.0,0.0,Unsupported Plastics Profile Shapes (0.0%)
+325,3083.0,Manufacturing,"Laminated Plastics Plate, Sheet, and Profile Shapes",#0072FF,,0.0,0.0,0.0,"Laminated Plastics Plate, Sheet, and Profile Shapes (0.0%)"
+329,3087.0,Manufacturing,Custom Compounding of Purchased Plastics Resins,#0072FF,,0.0,0.0,0.0,Custom Compounding of Purchased Plastics Resins (0.0%)
+347,3241.0,Manufacturing,"Cement, Hydraulic",#0072FF,,0.0,0.0,0.0,"Cement, Hydraulic (0.0%)"
+332,3111.0,Manufacturing,Leather Tanning and Finishing,#0072FF,,0.0,0.0,0.0,Leather Tanning and Finishing (0.0%)
+334,3142.0,Manufacturing,House Slippers,#0072FF,,0.0,0.0,0.0,House Slippers (0.0%)
+336,3144.0,Manufacturing,"Women's Footwear, Except Athletic",#0072FF,,0.0,0.0,0.0,"Women's Footwear, Except Athletic (0.0%)"
+338,3151.0,Manufacturing,Leather Gloves and Mittens,#0072FF,,0.0,0.0,0.0,Leather Gloves and Mittens (0.0%)
+342,3199.0,Manufacturing,"Leather Goods, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Leather Goods, Not Elsewhere Classified (0.0%)"
+343,3211.0,Manufacturing,Flat Glass,#0072FF,,0.0,0.0,0.0,Flat Glass (0.0%)
+344,3221.0,Manufacturing,Glass Containers,#0072FF,,0.0,0.0,0.0,Glass Containers (0.0%)
+375,3322.0,Manufacturing,Malleable Iron Foundries,#0072FF,,0.0,0.0,0.0,Malleable Iron Foundries (0.0%)
+377,3325.0,Manufacturing,"Steel Foundries, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Steel Foundries, Not Elsewhere Classified (0.0%)"
+378,3331.0,Manufacturing,Primary Smelting and Refining of Copper,#0072FF,,0.0,0.0,0.0,Primary Smelting and Refining of Copper (0.0%)
+422,3484.0,Manufacturing,Small Arms,#0072FF,,0.0,0.0,0.0,Small Arms (0.0%)
+414,3463.0,Manufacturing,Nonferrous Forgings,#0072FF,,0.0,0.0,0.0,Nonferrous Forgings (0.0%)
+415,3465.0,Manufacturing,Automotive Stampings,#0072FF,,0.0,0.0,0.0,Automotive Stampings (0.0%)
+416,3466.0,Manufacturing,Crowns and Closures,#0072FF,,0.0,0.0,0.0,Crowns and Closures (0.0%)
+417,3469.0,Manufacturing,"Metal Stampings, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Metal Stampings, Not Elsewhere Classified (0.0%)"
+418,3471.0,Manufacturing,"Electroplating, Plating, Polishing, Anodizing, and Coloring",#0072FF,,0.0,0.0,0.0,"Electroplating, Plating, Polishing, Anodizing, and Coloring (0.0%)"
+420,3482.0,Manufacturing,Small Arms Ammunition,#0072FF,,0.0,0.0,0.0,Small Arms Ammunition (0.0%)
+421,3483.0,Manufacturing,"Ammunition, Except for Small Arms",#0072FF,,0.0,0.0,0.0,"Ammunition, Except for Small Arms (0.0%)"
+423,3489.0,Manufacturing,"Ordnance and Accessories, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Ordnance and Accessories, Not Elsewhere Classified (0.0%)"
+379,3334.0,Manufacturing,Primary Production of Aluminum,#0072FF,,0.0,0.0,0.0,Primary Production of Aluminum (0.0%)
+424,3491.0,Manufacturing,Industrial Valves,#0072FF,,0.0,0.0,0.0,Industrial Valves (0.0%)
+425,3492.0,Manufacturing,Fluid Power Valves and Hose Fittings,#0072FF,,0.0,0.0,0.0,Fluid Power Valves and Hose Fittings (0.0%)
+426,3493.0,Manufacturing,"Steel Springs, Except Wire",#0072FF,,0.0,0.0,0.0,"Steel Springs, Except Wire (0.0%)"
+427,3494.0,Manufacturing,"Valves and Pipe Fittings, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Valves and Pipe Fittings, Not Elsewhere Classified (0.0%)"
+428,3495.0,Manufacturing,Wire Springs,#0072FF,,0.0,0.0,0.0,Wire Springs (0.0%)
+429,3496.0,Manufacturing,Miscellaneous Fabricated Wire Products,#0072FF,,0.0,0.0,0.0,Miscellaneous Fabricated Wire Products (0.0%)
+430,3497.0,Manufacturing,Metal Foil and Leaf,#0072FF,,0.0,0.0,0.0,Metal Foil and Leaf (0.0%)
+413,3462.0,Manufacturing,Iron and Steel Forgings,#0072FF,,0.0,0.0,0.0,Iron and Steel Forgings (0.0%)
+411,3451.0,Manufacturing,Screw Machine Products,#0072FF,,0.0,0.0,0.0,Screw Machine Products (0.0%)
+410,3449.0,Manufacturing,Miscellaneous Structural Metal Work,#0072FF,,0.0,0.0,0.0,Miscellaneous Structural Metal Work (0.0%)
+401,3431.0,Manufacturing,Enameled Iron and Metal Sanitary Ware,#0072FF,,0.0,0.0,0.0,Enameled Iron and Metal Sanitary Ware (0.0%)
+381,3341.0,Manufacturing,Secondary Smelting and Refining of Nonferrous Metals,#0072FF,,0.0,0.0,0.0,Secondary Smelting and Refining of Nonferrous Metals (0.0%)
+382,3351.0,Manufacturing,"Rolling, Drawing, and Extruding Of Copper",#0072FF,,0.0,0.0,0.0,"Rolling, Drawing, and Extruding Of Copper (0.0%)"
+383,3353.0,Manufacturing,"Aluminum Sheet, Plate, and Foil",#0072FF,,0.0,0.0,0.0,"Aluminum Sheet, Plate, and Foil (0.0%)"
+384,3354.0,Manufacturing,Aluminum Extruded Products,#0072FF,,0.0,0.0,0.0,Aluminum Extruded Products (0.0%)
+385,3355.0,Manufacturing,"Aluminum Rolling and Drawing, Not Elsewhere Classified",#0072FF,,0.0,0.0,0.0,"Aluminum Rolling and Drawing, Not Elsewhere Classified (0.0%)"
+386,3356.0,Manufacturing,"Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum",#0072FF,,0.0,0.0,0.0,"Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum (0.0%)"
+388,3363.0,Manufacturing,Aluminum Die-Castings,#0072FF,,0.0,0.0,0.0,Aluminum Die-Castings (0.0%)
+389,3364.0,Manufacturing,"Nonferrous Die-Castings, Except Aluminum",#0072FF,,0.0,0.0,0.0,"Nonferrous Die-Castings, Except Aluminum (0.0%)"
+391,3366.0,Manufacturing,Copper Foundries,#0072FF,,0.0,0.0,0.0,Copper Foundries (0.0%)
+392,3369.0,Manufacturing,"Nonferrous Foundries, Except Aluminum and Copper",#0072FF,,0.0,0.0,0.0,"Nonferrous Foundries, Except Aluminum and Copper (0.0%)"
+393,3398.0,Manufacturing,Metal Heat Treating,#0072FF,,0.0,0.0,0.0,Metal Heat Treating (0.0%)
+395,3411.0,Manufacturing,Metal Cans,#0072FF,,0.0,0.0,0.0,Metal Cans (0.0%)
+396,3412.0,Manufacturing,"Metal Shipping Barrels, Drums, Kegs, and Pails",#0072FF,,0.0,0.0,0.0,"Metal Shipping Barrels, Drums, Kegs, and Pails (0.0%)"
+398,3423.0,Manufacturing,"Hand and Edge Tools, Except Machine Tools and Handsaws",#0072FF,,0.0,0.0,0.0,"Hand and Edge Tools, Except Machine Tools and Handsaws (0.0%)"
+399,3425.0,Manufacturing,Saw Blades and Handsaws,#0072FF,,0.0,0.0,0.0,Saw Blades and Handsaws (0.0%)
+1005,,Other,,#9B3700,,0.0,0.0,0.0,

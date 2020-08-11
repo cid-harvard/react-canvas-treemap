@@ -59,5 +59,18 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@types/color": "^3.0.1",
+    "@types/gsap": "^1.20.2",
+    "@types/lodash": "^4.14.159",
+    "@types/styled-components": "^5.1.2",
+    "color": "^3.1.2",
+    "gsap": "^3.4.2",
+    "interval-tree-1d": "^1.0.3",
+    "lodash": "^4.17.19",
+    "polished": "^3.6.5",
+    "raw.macro": "^0.4.2",
+    "styled-components": "^5.1.1"
+  }
 }
