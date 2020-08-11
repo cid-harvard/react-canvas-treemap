@@ -10,7 +10,6 @@ import {
   labelTopMargin,
   minNodeNameFontSize,
 } from './transformUtils';
-
 import {
   determineFontSizeToFit,
   truncateTextInRectangle,
@@ -23,7 +22,7 @@ interface Rect {
   y1: number;
 }
 
-export type WithTextLayout<T> = T & {
+type WithTextLayout<T> = T & {
   textLayout: TextLayout;
 };
 

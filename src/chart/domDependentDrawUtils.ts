@@ -14,7 +14,6 @@ import {
   labelHorizontalMargin,
   labelTopMargin,
 } from './transformUtils';
-import './cellLabel.css';
 
 interface ITextElemStyles {
   className: string;

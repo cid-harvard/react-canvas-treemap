@@ -29,16 +29,6 @@ export const filterByMonetaryValues =
   <T extends IWithMonetaryValue>(data: T[]): T[] =>
     data.filter(({monetaryValue}) => monetaryValue > 0);
 
-interface IWithCategory {
-  topLevelParentId: string;
-}
-export const filterBySelectedCategories =
-    <T extends IWithCategory>(data: T[], selectedCategories: string[]): T[] => {
-
-  const asSet = new Set(selectedCategories);
-  return data.filter(({topLevelParentId}) => asSet.has(topLevelParentId));
-};
-
 //#region Constants
 // The font size should never get smaller than this:
 export const minNodeNameFontSize = 8;

@@ -2,12 +2,6 @@ import React, {useState} from 'react'
 import raw from 'raw.macro';
 import TreeMap, {transformData} from 'react-canvas-treemap';
 import styled from 'styled-components/macro';
-// import {CSSPlugin} from 'gsap';
-
-// // Need to do this so that `CSSPlugin` is not dropped by the minifier:
-// if (!CSSPlugin) {
-//   console.error('CSSPlugin failed to load', CSSPlugin);
-// }
 
 const Grid = styled.div`
   display: grid;

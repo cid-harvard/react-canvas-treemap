@@ -17,18 +17,6 @@ export interface ITreeMapCell {
   textLayout: TextLayout;
 }
 
-export interface TreeMapCSVRow {
-  Name: string;
-  ['Gross Export']?: number;
-  ['Gross Import']?: number;
-  Share: number;
-}
-
-export interface TreeMapCSVProductRow extends TreeMapCSVRow {
-  Code: string;
-  Sector: string;
-}
-
 // Layout for percentage numbers in each cell:
 export type ShareLayout  = {
   showText: false,

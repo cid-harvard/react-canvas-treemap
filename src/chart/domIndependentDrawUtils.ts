@@ -42,7 +42,7 @@ export interface ICellInternal {
   textLayout: TextLayout;
 }
 
-export const getColorTripletFromColorString =
+const getColorTripletFromColorString =
   (colorString: string) => normalizeColorTriplet(color(colorString).rgb().array() as ColorTriplet);
 
 export const convertToInternalCells =

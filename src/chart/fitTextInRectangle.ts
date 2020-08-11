@@ -5,9 +5,9 @@ import {
   ellipsisCharacter as ellipsis,
 } from './Utils';
 
-export const wordSeparator = ' ';
+const wordSeparator = ' ';
 
-export interface IFontMeasurement {
+interface IFontMeasurement {
   maxCharacterWidth: number;
   maxCharacterHeight: number;
 }
@@ -17,24 +17,24 @@ interface IRectangle {
   height: number;
 }
 
-export interface IWord {
+interface IWord {
   text: string;
   width: number;
 }
 
-export type ILayoutAttemptResult = {
+type ILayoutAttemptResult = {
   success: boolean,
   // Each element in the array represents a row. Each row is in turn an array of
   // words.
   lines: ILine[];
 };
 
-export interface ILine {
+interface ILine {
   text: string;
   words: IWord[];
 }
 
-export const attemptFitTextInsideRectangle = (input: {
+const attemptFitTextInsideRectangle = (input: {
     text: string,
     referenceMeasurement: IFontMeasurement,
     referenceFontSize: number,
@@ -124,7 +124,7 @@ export const attemptFitTextInsideRectangle = (input: {
   }
 };
 
-export interface IFontSizeDetermination {
+interface IFontSizeDetermination {
   fontSize: number;
   lines: ILine[];
 }
