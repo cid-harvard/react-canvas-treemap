@@ -1,4 +1,4 @@
-import {CSSPlugin, TimelineLite, TweenLite} from 'gsap';
+import {CSSPlugin, TimelineLite, TweenLite, registerPlugin} from 'gsap';
 import createIntervalTree, {
   IntervalTree,
 } from 'interval-tree-1d';
@@ -70,6 +70,9 @@ import raw from 'raw.macro';
 CSSPlugin;
 /* tslint:disable-next-line:no-unused-expression */
 TimelineLite;
+/* tslint:disable-next-line:no-unused-expression */
+TweenLite;
+registerPlugin(CSSPlugin);
 
 //#region Styling
 const Root = styled.div`
