@@ -34,6 +34,10 @@ export interface Inputs {
   colorMap: ColorMap[];
 }
 
+export interface Output {
+  treeMapCells: ITreeMapCell[];
+}
+
 interface Transformed {
   id: string;
   label: string;
@@ -42,7 +46,7 @@ interface Transformed {
   percentage: number;
 }
 
-const treemapCellTransformer = (inputs: Inputs) => {
+const treemapCellTransformer = (inputs: Inputs): Output => {
   const {
     data, width, height, colorMap,
   } = inputs;

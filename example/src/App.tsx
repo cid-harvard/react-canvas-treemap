@@ -36,13 +36,30 @@ const originBostonData = transformData({
   colorMap: colorMap,
 });
 
-const filteredToServices = destBostonDataRaw.filter(({topLevelParentId}: {topLevelParentId: string}) => topLevelParentId === 'Services');
 
-const filteredBostonData = transformData({
-  data: filteredToServices,
+const employeeBostonDataRaw = JSON.parse(raw('./data/boston_dest_employees.json'));
+
+let cityColorMap: Array<{id: string, color: string}> = [];
+employeeBostonDataRaw.forEach(({topLevelParentId, color}: {topLevelParentId: string, color: string}) => {
+  if (!cityColorMap.find(({id}) => id === topLevelParentId)) {
+    cityColorMap.push({id: topLevelParentId, color});
+  }
+})
+
+const employeeBostonData = transformData({
+  data: employeeBostonDataRaw,
   width: 500,
   height: 500,
-  colorMap: colorMap,
+  colorMap: cityColorMap,
+});
+
+const filteredToUSA = employeeBostonDataRaw.filter(({topLevelParentId}: {topLevelParentId: string}) => topLevelParentId === 'USA');
+
+const filteredBostonData = transformData({
+  data: filteredToUSA,
+  width: 500,
+  height: 500,
+  colorMap: cityColorMap,
 });
 
 
@@ -95,7 +112,7 @@ const App = () => {
           </button>
           <TreeMap
             highlighted={undefined}
-            cells={filtered ? filteredBostonData.treeMapCells : destBostonData.treeMapCells}
+            cells={filtered ? filteredBostonData.treeMapCells : employeeBostonData.treeMapCells}
             numCellsTier={NumCellsTier.Small}
             chartContainerWidth={500}
             chartContainerHeight={500}
