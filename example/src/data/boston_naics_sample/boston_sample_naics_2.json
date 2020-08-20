@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 50,
+    "num_employ": 1323,
+    "num_company": 473,
+    "level": 2
+  },
+  {
+    "id": 1,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 51,
+    "num_employ": 316,
+    "num_company": 39,
+    "level": 2
+  },
+  {
+    "id": 2,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 52,
+    "num_employ": 7588,
+    "num_company": 465,
+    "level": 2
+  },
+  {
+    "id": 3,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 53,
+    "num_employ": 58439,
+    "num_company": 13970,
+    "level": 2
+  },
+  {
+    "id": 4,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 54,
+    "num_employ": 112229,
+    "num_company": 4771,
+    "level": 2
+  },
+  {
+    "id": 5,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 55,
+    "num_employ": 43599,
+    "num_company": 4889,
+    "level": 2
+  },
+  {
+    "id": 6,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 56,
+    "num_employ": 131792,
+    "num_company": 14127,
+    "level": 2
+  },
+  {
+    "id": 7,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 57,
+    "num_employ": 43814,
+    "num_company": 4228,
+    "level": 2
+  },
+  {
+    "id": 8,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 58,
+    "num_employ": 81745,
+    "num_company": 4777,
+    "level": 2
+  },
+  {
+    "id": 9,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 59,
+    "num_employ": 175086,
+    "num_company": 11386,
+    "level": 2
+  },
+  {
+    "id": 10,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 60,
+    "num_employ": 63165,
+    "num_company": 12643,
+    "level": 2
+  },
+  {
+    "id": 11,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 61,
+    "num_employ": 211774,
+    "num_company": 27287,
+    "level": 2
+  },
+  {
+    "id": 12,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 62,
+    "num_employ": 6475,
+    "num_company": 805,
+    "level": 2
+  },
+  {
+    "id": 13,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 63,
+    "num_employ": 94033,
+    "num_company": 15079,
+    "level": 2
+  },
+  {
+    "id": 14,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 64,
+    "num_employ": 142999,
+    "num_company": 5003,
+    "level": 2
+  },
+  {
+    "id": 15,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 65,
+    "num_employ": 280464,
+    "num_company": 18109,
+    "level": 2
+  },
+  {
+    "id": 16,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 66,
+    "num_employ": 26196,
+    "num_company": 3641,
+    "level": 2
+  },
+  {
+    "id": 17,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 67,
+    "num_employ": 133341,
+    "num_company": 8990,
+    "level": 2
+  },
+  {
+    "id": 18,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 68,
+    "num_employ": 81615,
+    "num_company": 17174,
+    "level": 2
+  },
+  {
+    "id": 19,
+    "city_id": 1022,
+    "year": 2020,
+    "naics_id": 69,
+    "num_employ": 123469,
+    "num_company": 1850,
+    "level": 2
+  }
+]
