@@ -1,0 +1,778 @@
+[
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 100,
+    "num_employ": 618,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 101,
+    "num_employ": 164,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 102,
+    "num_employ": 28,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 103,
+    "num_employ": 69,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 104,
+    "num_employ": 444,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 105,
+    "num_employ": 19,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 106,
+    "num_employ": 66,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 107,
+    "num_employ": 231,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 108,
+    "num_employ": 7588,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 109,
+    "num_employ": 17778,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 110,
+    "num_employ": 10336,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 111,
+    "num_employ": 30325,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 112,
+    "num_employ": 6970,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 113,
+    "num_employ": 1339,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 114,
+    "num_employ": 266,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 115,
+    "num_employ": 664,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 116,
+    "num_employ": 655,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 117,
+    "num_employ": 1557,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 118,
+    "num_employ": 594,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 119,
+    "num_employ": 625,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 120,
+    "num_employ": 5449,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 121,
+    "num_employ": 50,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 122,
+    "num_employ": 29785,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 123,
+    "num_employ": 1675,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 124,
+    "num_employ": 7949,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 125,
+    "num_employ": 689,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 126,
+    "num_employ": 4768,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 127,
+    "num_employ": 5720,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 128,
+    "num_employ": 23151,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 129,
+    "num_employ": 6828,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 130,
+    "num_employ": 3776,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 131,
+    "num_employ": 1331,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 132,
+    "num_employ": 8388,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 133,
+    "num_employ": 25892,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 134,
+    "num_employ": 17705,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 135,
+    "num_employ": 2,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 136,
+    "num_employ": 10486,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 137,
+    "num_employ": 4541,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 138,
+    "num_employ": 9839,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 139,
+    "num_employ": 6748,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 140,
+    "num_employ": 36922,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 141,
+    "num_employ": 9942,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 142,
+    "num_employ": 2870,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 143,
+    "num_employ": 17057,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 144,
+    "num_employ": 5347,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 145,
+    "num_employ": 10150,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 146,
+    "num_employ": 11311,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 147,
+    "num_employ": 6579,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 148,
+    "num_employ": 4891,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 149,
+    "num_employ": 1924,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 150,
+    "num_employ": 189,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 151,
+    "num_employ": 4252,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 152,
+    "num_employ": 9639,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 153,
+    "num_employ": 249,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 154,
+    "num_employ": 442,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 155,
+    "num_employ": 12587,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 156,
+    "num_employ": 3824,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 157,
+    "num_employ": 1316,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 158,
+    "num_employ": 4501,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 159,
+    "num_employ": 32352,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 160,
+    "num_employ": 6893,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 161,
+    "num_employ": 6703,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 162,
+    "num_employ": 24568,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 163,
+    "num_employ": 3878,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 164,
+    "num_employ": 7351,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 165,
+    "num_employ": 950,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 166,
+    "num_employ": 32997,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 167,
+    "num_employ": 69395,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 168,
+    "num_employ": 35431,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 169,
+    "num_employ": 36313,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 170,
+    "num_employ": 56997,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 171,
+    "num_employ": 5774,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 172,
+    "num_employ": 394,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 173,
+    "num_employ": 211774,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 174,
+    "num_employ": 6475,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 175,
+    "num_employ": 91360,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 176,
+    "num_employ": 2673,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 177,
+    "num_employ": 142999,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 178,
+    "num_employ": 113720,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 179,
+    "num_employ": 94694,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 180,
+    "num_employ": 35701,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 181,
+    "num_employ": 36349,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 182,
+    "num_employ": 5855,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 183,
+    "num_employ": 5700,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 184,
+    "num_employ": 14641,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 185,
+    "num_employ": 35019,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 186,
+    "num_employ": 98322,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 187,
+    "num_employ": 14614,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 188,
+    "num_employ": 21143,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 189,
+    "num_employ": 45858,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 191,
+    "num_employ": 31827,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 192,
+    "num_employ": 35532,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 193,
+    "num_employ": 20691,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 194,
+    "num_employ": 7313,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 195,
+    "num_employ": 4387,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 196,
+    "num_employ": 13278,
+    "level": 3
+  },
+  {
+    "city_id": 1022,
+    "city_name": "Boston",
+    "year": 2020,
+    "naics_id": 198,
+    "num_employ": 10441,
+    "level": 3
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 100,
+    "num_employ": 3573,
+    "num_company": 1724,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 101,
+    "num_employ": 1669,
+    "num_company": 502,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 102,
+    "num_employ": 795,
+    "num_company": 54,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 103,
+    "num_employ": 156,
+    "num_company": 53,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 104,
+    "num_employ": 1935,
+    "num_company": 864,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 105,
+    "num_employ": 2248,
+    "num_company": 81,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 106,
+    "num_employ": 2474,
+    "num_company": 126,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 107,
+    "num_employ": 2819,
+    "num_company": 194,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 108,
+    "num_employ": 33289,
+    "num_company": 2441,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 109,
+    "num_employ": 119676,
+    "num_company": 39444,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 110,
+    "num_employ": 46986,
+    "num_company": 8698,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 111,
+    "num_employ": 202842,
+    "num_company": 46769,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 112,
+    "num_employ": 53402,
+    "num_company": 4590,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 113,
+    "num_employ": 12436,
+    "num_company": 518,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 114,
+    "num_employ": 16819,
+    "num_company": 733,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 115,
+    "num_employ": 8656,
+    "num_company": 769,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 116,
+    "num_employ": 40522,
+    "num_company": 2118,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 117,
+    "num_employ": 16145,
+    "num_company": 445,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 118,
+    "num_employ": 7688,
+    "num_company": 1092,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 119,
+    "num_employ": 33014,
+    "num_company": 591,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 120,
+    "num_employ": 36270,
+    "num_company": 3897,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 121,
+    "num_employ": 10283,
+    "num_company": 170,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 122,
+    "num_employ": 137273,
+    "num_company": 3138,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 123,
+    "num_employ": 22811,
+    "num_company": 795,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 124,
+    "num_employ": 13080,
+    "num_company": 756,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 125,
+    "num_employ": 8588,
+    "num_company": 448,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 126,
+    "num_employ": 47783,
+    "num_company": 2670,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 127,
+    "num_employ": 40632,
+    "num_company": 1909,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 128,
+    "num_employ": 81834,
+    "num_company": 2396,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 129,
+    "num_employ": 20337,
+    "num_company": 941,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 130,
+    "num_employ": 43379,
+    "num_company": 610,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 131,
+    "num_employ": 18474,
+    "num_company": 1434,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 132,
+    "num_employ": 61489,
+    "num_company": 6262,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 133,
+    "num_employ": 257513,
+    "num_company": 27646,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 134,
+    "num_employ": 224408,
+    "num_company": 30432,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 135,
+    "num_employ": 152,
+    "num_company": 39,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 136,
+    "num_employ": 69463,
+    "num_company": 8509,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 137,
+    "num_employ": 35607,
+    "num_company": 7587,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 138,
+    "num_employ": 41799,
+    "num_company": 6223,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 139,
+    "num_employ": 41262,
+    "num_company": 4390,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 140,
+    "num_employ": 207302,
+    "num_company": 28003,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 141,
+    "num_employ": 88047,
+    "num_company": 10931,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 142,
+    "num_employ": 14551,
+    "num_company": 3027,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 143,
+    "num_employ": 191992,
+    "num_company": 23864,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 144,
+    "num_employ": 33382,
+    "num_company": 5255,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 145,
+    "num_employ": 77981,
+    "num_company": 3169,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 146,
+    "num_employ": 65272,
+    "num_company": 20115,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 147,
+    "num_employ": 34167,
+    "num_company": 4093,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 148,
+    "num_employ": 9386,
+    "num_company": 287,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 149,
+    "num_employ": 2442,
+    "num_company": 60,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 150,
+    "num_employ": 6109,
+    "num_company": 473,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 151,
+    "num_employ": 47826,
+    "num_company": 10334,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 152,
+    "num_employ": 98410,
+    "num_company": 8599,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 153,
+    "num_employ": 462,
+    "num_company": 33,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 154,
+    "num_employ": 587,
+    "num_company": 32,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 155,
+    "num_employ": 96195,
+    "num_company": 19478,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 156,
+    "num_employ": 35850,
+    "num_company": 646,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 157,
+    "num_employ": 11448,
+    "num_company": 924,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 158,
+    "num_employ": 18855,
+    "num_company": 1359,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 159,
+    "num_employ": 116464,
+    "num_company": 6263,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 160,
+    "num_employ": 70597,
+    "num_company": 16202,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 161,
+    "num_employ": 73591,
+    "num_company": 1801,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 162,
+    "num_employ": 146180,
+    "num_company": 13542,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 163,
+    "num_employ": 23480,
+    "num_company": 1431,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 164,
+    "num_employ": 38194,
+    "num_company": 2077,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 165,
+    "num_employ": 2974,
+    "num_company": 5,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 166,
+    "num_employ": 554286,
+    "num_company": 13372,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 167,
+    "num_employ": 290421,
+    "num_company": 27044,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 168,
+    "num_employ": 159770,
+    "num_company": 12145,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 169,
+    "num_employ": 107563,
+    "num_company": 6426,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 170,
+    "num_employ": 346269,
+    "num_company": 75373,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 171,
+    "num_employ": 45494,
+    "num_company": 5681,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 172,
+    "num_employ": 9445,
+    "num_company": 235,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 173,
+    "num_employ": 1086604,
+    "num_company": 174281,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 174,
+    "num_employ": 50127,
+    "num_company": 8134,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 175,
+    "num_employ": 561842,
+    "num_company": 115551,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 176,
+    "num_employ": 22377,
+    "num_company": 2205,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 177,
+    "num_employ": 793322,
+    "num_company": 28078,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 178,
+    "num_employ": 660276,
+    "num_company": 103287,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 179,
+    "num_employ": 381960,
+    "num_company": 2114,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 180,
+    "num_employ": 165101,
+    "num_company": 2771,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 181,
+    "num_employ": 182284,
+    "num_company": 19713,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 182,
+    "num_employ": 60585,
+    "num_company": 13437,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 183,
+    "num_employ": 18787,
+    "num_company": 2973,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 184,
+    "num_employ": 82456,
+    "num_company": 11994,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 185,
+    "num_employ": 116221,
+    "num_company": 4133,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 186,
+    "num_employ": 642002,
+    "num_company": 65359,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 187,
+    "num_employ": 72853,
+    "num_company": 24244,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 188,
+    "num_employ": 136831,
+    "num_company": 45767,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 189,
+    "num_employ": 306416,
+    "num_company": 60404,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 191,
+    "num_employ": 176719,
+    "num_company": 2918,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 192,
+    "num_employ": 216086,
+    "num_company": 2592,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 193,
+    "num_employ": 60494,
+    "num_company": 775,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 194,
+    "num_employ": 20867,
+    "num_company": 418,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 195,
+    "num_employ": 27085,
+    "num_company": 723,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 196,
+    "num_employ": 40791,
+    "num_company": 621,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 197,
+    "num_employ": 673,
+    "num_company": 5,
+    "level": 3
+  },
+  {
+    "city_id": 945,
+    "city_name": "New York",
+    "year": 2020,
+    "naics_id": 198,
+    "num_employ": 41096,
+    "num_company": 893,
+    "level": 3
+  }
+]

@@ -734,6 +734,7 @@ const getUnthrottledHoverHandler = (input: {
 export interface IProps {
   highlighted: string | undefined;
   cells: ITreeMapCell[];
+  comparisonCells?: ITreeMapCell[];
 
   numCellsTier: NumCellsTier;
 

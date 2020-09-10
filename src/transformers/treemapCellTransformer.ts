@@ -15,13 +15,20 @@ import {
   measuredCharacterWidth,
   referenceFontSize,
 } from '../chart/Utils';
+import mergeComparisonData from './mergeComparisonData';
 
-interface Datum {
+export interface Datum {
   id: string;
   value: number;
   title: string;
   topLevelParentId: string;
 }
+
+export interface ComparisonDatum extends Datum {
+  primaryValue: number;
+  secondaryValue: number;
+}
+
 interface ColorMap {
   id: string;
   color: string;
@@ -29,6 +36,7 @@ interface ColorMap {
 
 export interface Inputs {
   data: Datum[];
+  comparisonData?: Datum[];
   width: number;
   height: number;
   colorMap: ColorMap[];
@@ -38,7 +46,7 @@ export interface Output {
   treeMapCells: ITreeMapCell[];
 }
 
-interface Transformed {
+export interface Transformed {
   id: string;
   label: string;
   monetaryValue: number;
@@ -48,8 +56,18 @@ interface Transformed {
 
 const treemapCellTransformer = (inputs: Inputs): Output => {
   const {
-    data, width, height, colorMap,
+    width, height, colorMap,
   } = inputs;
+  let data: (Datum[]) | (ComparisonDatum[]);
+  let createComparisionCells: ((layoutCell: ITreeMapCell) => [ITreeMapCell, ITreeMapCell, ITreeMapCell]) | undefined;
+  if (inputs.comparisonData !== undefined) {
+    const merged = mergeComparisonData(inputs.data, inputs.comparisonData);
+    data = merged.data;
+    createComparisionCells = merged.createComparisionCells;
+  } else {
+    data = inputs.data;
+    createComparisionCells = undefined;
+  }
   const withComputedTradeValues = computeGrossNetTradeValues(data);
   const filteredByMonetaryValue = filterByMonetaryValues(withComputedTradeValues);
   const totalSum = sum(filteredByMonetaryValue.map(({monetaryValue}) => monetaryValue));
@@ -85,7 +103,8 @@ const treemapCellTransformer = (inputs: Inputs): Output => {
     });
   });
 
-  let treeMapCells: ITreeMapCell[] = withTextLayout.map(({topLevelParentId, monetaryValue, ...rest}) => {
+  let treeMapCells: ITreeMapCell[] = [];
+  withTextLayout.forEach(({topLevelParentId, monetaryValue, ...rest}) => {
     const tagetColor = colorMap.find(c => c.id === topLevelParentId);
     if (tagetColor === undefined) {
       throw new Error('Cannot find color for top section ' + topLevelParentId);
@@ -95,7 +114,12 @@ const treemapCellTransformer = (inputs: Inputs): Output => {
       color: tagetColor.color,
       value: monetaryValue,
     };
-    return out;
+    if (inputs.comparisonData !== undefined && createComparisionCells !== undefined) {
+      const mergedCells = createComparisionCells(out)
+      mergedCells.forEach(cell => treeMapCells.push(cell));
+    } else {
+      treeMapCells.push(out);
+    }
   });
 
   return {treeMapCells};

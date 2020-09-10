@@ -6,7 +6,7 @@ export interface ITreeMapCell {
   // Monetary value of a cell:
   value: number;
 
-  color: string;
+  color: string | 'transparent';
 
   x0: number;
   y0: number;
@@ -15,6 +15,9 @@ export interface ITreeMapCell {
 
   // info about where and how cell label should be displayed:
   textLayout: TextLayout;
+
+  // optional info on whether this cell is a comparison or not
+  comparison?: boolean;
 }
 
 // Layout for percentage numbers in each cell:

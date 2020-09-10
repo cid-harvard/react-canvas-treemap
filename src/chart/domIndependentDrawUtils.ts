@@ -40,6 +40,7 @@ export interface ICellInternal {
   x1: number;
   y1: number;
   textLayout: TextLayout;
+  isComparisonCell: boolean;
 }
 
 const getColorTripletFromColorString =
@@ -60,6 +61,7 @@ export const convertToInternalCells =
     const y0 = cell.y0;
     const x1 = cell.x1;
     const y1 = cell.y1;
+    const isComparisonCell = cell.comparison ? true : false;
     const textLayout = cell.textLayout;
     const retrievedColor = cell.color;
 
@@ -71,6 +73,7 @@ export const convertToInternalCells =
       id, x0, y0, x1, y1, textLayout,
       fillColor: colorQuadruplet,
       strokeOpacity: 1,
+      isComparisonCell,
     };
     nextKeys.push(id);
     nextCells.set(id, internalCell);
@@ -123,6 +126,7 @@ export const writeToCellBuffers = (
     let finalBottomRightX: number, finalBottomRightY: number;
     let initialFillColor: ColorQuadruplet, finalFillColor: ColorQuadruplet;
     let initialStrokeColor: ColorQuadruplet, finalStrokeColor: ColorQuadruplet;
+    let strokeWidth: number;
 
     if (type === UpdateType.Enter) {
       const cell = nextCells.get(key)!;
@@ -131,7 +135,7 @@ export const writeToCellBuffers = (
       initialBottomRightX = finalBottomRightX = cell.x1;
       initialBottomRightY = finalBottomRightY = cell.y1;
 
-      const {fillColor} = cell;
+      const {fillColor, isComparisonCell} = cell;
       initialFillColor = fillColor.slice(0) as ColorQuadruplet;
       initialFillColor[3] = 0;
       finalFillColor = fillColor.slice(0) as ColorQuadruplet;
@@ -139,6 +143,7 @@ export const writeToCellBuffers = (
       initialStrokeColor = strokeColor.slice(0) as ColorQuadruplet;
       initialStrokeColor[3] = 0;
       finalStrokeColor = strokeColor.slice(0) as ColorQuadruplet;
+      strokeWidth = isComparisonCell ? 0 : halfStrokeWidth;
 
     } else if (type === UpdateType.Exit) {
       const cell = prevCells.get(key)!;
@@ -147,7 +152,7 @@ export const writeToCellBuffers = (
       initialBottomRightX = finalBottomRightX = cell.x1;
       initialBottomRightY = finalBottomRightY = cell.y1;
 
-      const {fillColor, strokeOpacity} = cell;
+      const {fillColor, strokeOpacity, isComparisonCell} = cell;
 
       initialFillColor = fillColor.slice(0) as ColorQuadruplet;
       finalFillColor = fillColor.slice(0) as ColorQuadruplet;
@@ -157,6 +162,7 @@ export const writeToCellBuffers = (
       initialStrokeColor[3] = strokeOpacity;
       finalStrokeColor = strokeColor.slice(0) as ColorQuadruplet;
       finalStrokeColor[3] = 0;
+      strokeWidth = isComparisonCell ? 0 : halfStrokeWidth;
 
     } else if (type === UpdateType.Update) {
       const prevCell = prevCells.get(key)!;
@@ -177,6 +183,7 @@ export const writeToCellBuffers = (
 
       finalStrokeColor = strokeColor.slice(0) as ColorQuadruplet;
       finalStrokeColor[3] = nextCell.strokeOpacity;
+      strokeWidth = halfStrokeWidth;
 
     } else {
       failIfValidOrNonExhaustive(type, 'Invalid update type');
@@ -187,6 +194,7 @@ export const writeToCellBuffers = (
       initialBottomRightY = finalBottomRightY = 0;
       initialFillColor = finalFillColor = [0, 0, 0, 0];
       initialStrokeColor = finalStrokeColor = [0, 0, 0, 0];
+      strokeWidth = halfStrokeWidth;
     }
 
     // Add the position values twice because they are shared by the fill and stroke rectangles:
@@ -230,7 +238,7 @@ export const writeToCellBuffers = (
     // Set `halfStrokeWidth` to 0 for first instance (stroke):
     actualBuffer[numFloatsPerCell * i + numFloatsSetPerInstanceSoFar] = 0;
     // Set `halfStrokeWidth` to `halfStrokeWidth` for first instance (fill):
-    actualBuffer[numFloatsPerCell * i + numFloatsPerCellInstance + numFloatsSetPerInstanceSoFar] = halfStrokeWidth;
+    actualBuffer[numFloatsPerCell * i + numFloatsPerCellInstance + numFloatsSetPerInstanceSoFar] = strokeWidth;
   }
 
   return {

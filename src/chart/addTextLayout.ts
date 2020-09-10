@@ -22,7 +22,7 @@ interface Rect {
   y1: number;
 }
 
-type WithTextLayout<T> = T & {
+export type WithTextLayout<T> = T & {
   textLayout: TextLayout;
 };
 

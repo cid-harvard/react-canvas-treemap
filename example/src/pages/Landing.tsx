@@ -18,6 +18,7 @@ export default () => {
     <ul>
       <ListItem><Link to={'/toggle'}>Toggle data demo</Link></ListItem>
       <ListItem><Link to={'/digit'}>1 - 6 digit demo</Link></ListItem>
+      <ListItem><Link to={'/compare'}>Comparison demo</Link></ListItem>
     </ul>
   );
 }
