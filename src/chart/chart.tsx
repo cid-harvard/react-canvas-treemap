@@ -76,6 +76,7 @@ const Root = styled.div`
     position: absolute;
     color: white;
     font-weight: 300;
+    box-sizing: border-box;
   }
 
   .react-canvas-tree-map-percentage {

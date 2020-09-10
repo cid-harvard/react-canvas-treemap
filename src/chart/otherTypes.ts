@@ -6,7 +6,7 @@ export interface ITreeMapCell {
   // Monetary value of a cell:
   value: number;
 
-  color: string | 'transparent';
+  color: string;
 
   x0: number;
   y0: number;

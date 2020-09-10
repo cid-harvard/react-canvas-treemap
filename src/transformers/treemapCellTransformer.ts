@@ -15,7 +15,7 @@ import {
   measuredCharacterWidth,
   referenceFontSize,
 } from '../chart/Utils';
-import mergeComparisonData from './mergeComparisonData';
+import mergeComparisonData, {ComparisonTreeMapCells} from './mergeComparisonData';
 
 export interface Datum {
   id: string;
@@ -59,7 +59,7 @@ const treemapCellTransformer = (inputs: Inputs): Output => {
     width, height, colorMap,
   } = inputs;
   let data: (Datum[]) | (ComparisonDatum[]);
-  let createComparisionCells: ((layoutCell: ITreeMapCell) => [ITreeMapCell, ITreeMapCell, ITreeMapCell]) | undefined;
+  let createComparisionCells: ((layoutCell: ITreeMapCell) => ComparisonTreeMapCells) | undefined;
   if (inputs.comparisonData !== undefined) {
     const merged = mergeComparisonData(inputs.data, inputs.comparisonData);
     data = merged.data;

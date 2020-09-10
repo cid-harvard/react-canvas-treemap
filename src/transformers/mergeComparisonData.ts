@@ -9,9 +9,23 @@ import {
 } from '../chart/otherTypes';
 import {lighten} from 'polished';
 
+type TextCell = ITreeMapCell;
+type PrimaryCell = ITreeMapCell;
+type SecondaryCell = ITreeMapCell;
+type BorderBottomCell = ITreeMapCell;
+type BorderRightCell = ITreeMapCell;
+
+export type ComparisonTreeMapCells = [
+  TextCell,
+  PrimaryCell,
+  SecondaryCell,
+  BorderBottomCell,
+  BorderRightCell,
+]
+
 interface Output {
   data: ComparisonDatum[];
-  createComparisionCells: (layoutCell: ITreeMapCell) => [ITreeMapCell, ITreeMapCell, ITreeMapCell];
+  createComparisionCells: (layoutCell: ITreeMapCell) => ComparisonTreeMapCells;
 }
 
 export default (primaryData: Datum[], secondaryData: Datum[]): Output => {
@@ -25,7 +39,7 @@ export default (primaryData: Datum[], secondaryData: Datum[]): Output => {
   secondaryData.filter(({id}) => !primaryData.find(d => d.id === id))
                .forEach(d => data.push({...d, primaryValue: 0, secondaryValue: d.value}));
 
-  const createComparisionCells = (layoutCell: ITreeMapCell): [ITreeMapCell, ITreeMapCell, ITreeMapCell] => {
+  const createComparisionCells = (layoutCell: ITreeMapCell): ComparisonTreeMapCells => {
     const targetDatum = data.find(({id}) => id === layoutCell.id);
     if (!targetDatum) {
       console.error({'Invalid cell': layoutCell});
@@ -41,19 +55,20 @@ export default (primaryData: Datum[], secondaryData: Datum[]): Output => {
     } else {
       textLayout = { type: TextLayoutType.ShowNone };
     }
-    const textCell: ITreeMapCell = {
+    const textCell: TextCell = {
       ...layoutCell,
+      id: 'text-cell-' + layoutCell.id,
       textLayout,
       color: 'transparent',
     }
-    const primaryCell: ITreeMapCell = {
+    const primaryCell: PrimaryCell = {
       ...layoutCell,
       id: 'primary-cell-' + layoutCell.id,
       x1: layoutCell.x1 - ((layoutCell.x1 - layoutCell.x0) * (targetDatum.secondaryValue / targetDatum.value)),
       textLayout: { type: TextLayoutType.ShowNone },
       comparison: true,
     }
-    const secondaryCell: ITreeMapCell = {
+    const secondaryCell: SecondaryCell = {
       ...layoutCell,
       id: 'secondary-cell-' + layoutCell.id,
       x0: primaryCell.x1,
@@ -61,14 +76,23 @@ export default (primaryData: Datum[], secondaryData: Datum[]): Output => {
       textLayout: { type: TextLayoutType.ShowNone },
       comparison: true,
     }
-    // const borderBottom: ITreeMapCell = {
-    //   ...layoutCell,
-    //   y0: layoutCell.y1 - 1,
-    //   color: 'white',
-    //   comparison: true,
-    //   textLayout: { type: TextLayoutType.ShowNone },
-    // }
-    return [textCell, primaryCell, secondaryCell];
+    const borderBottom: BorderBottomCell = {
+      ...layoutCell,
+      id: 'border-bottom-' + layoutCell.id,
+      y0: layoutCell.y1 - 0.5,
+      color: 'white',
+      comparison: true,
+      textLayout: { type: TextLayoutType.ShowNone },
+    }
+    const borderRight: BorderRightCell = {
+      ...layoutCell,
+      id: 'border-right-' + layoutCell.id,
+      x0: layoutCell.x1 - 0.5,
+      color: 'white',
+      comparison: true,
+      textLayout: { type: TextLayoutType.ShowNone },
+    }
+    return [textCell, primaryCell, secondaryCell, borderBottom, borderRight];
   }
   return {data, createComparisionCells};
 }
