@@ -35,7 +35,7 @@ import {
 import {
   failIfValidOrNonExhaustive,
   millisecondsPerSeconds,
-  halfStrokeWidth,
+  halfStrokeWidth as defaultStrokeWidth,
   strokeColor,
 } from './Utils';
 import {
@@ -361,7 +361,7 @@ const upgradeToLargeBuffer = (glInfo: IGLInfo) => {
 
 type IMonitoredProps = Pick<
   IProps,
-  'cells' | 'highlighted' | 'numCellsTier' | 'chartContainerHeight' | 'chartContainerWidth'
+  'cells' | 'highlighted' | 'numCellsTier' | 'chartContainerHeight' | 'chartContainerWidth' | 'comparisonTreeMap'
 >;
 
 interface IPropsChangeHandlerExtraInputs {
@@ -390,7 +390,7 @@ const performPropsChange =
     },
     done,
   } = input;
-
+  const halfStrokeWidth = nextValue.comparisonTreeMap ? 0 : defaultStrokeWidth;
   const prevValue = (input.prevValue === undefined) ? nextValue : input.prevValue;
   const hasChartSizeChanged =
     (nextValue.chartContainerHeight !== prevValue.chartContainerHeight ||
@@ -735,7 +735,7 @@ const getUnthrottledHoverHandler = (input: {
 export interface IProps {
   highlighted: string | undefined;
   cells: ITreeMapCell[];
-  comparisonCells?: ITreeMapCell[];
+  comparisonTreeMap?: boolean;
 
   numCellsTier: NumCellsTier;
 
@@ -804,6 +804,7 @@ export default (props: IProps) => {
     value: {
       cells, highlighted, numCellsTier,
       chartContainerHeight, chartContainerWidth,
+      comparisonTreeMap: props.comparisonTreeMap,
     },
     getExtraInputToPropsChangeHandler: () => ({
       glInfoRef, cellProgramRef,

@@ -32,15 +32,15 @@ interface NaicsDatum {
 const naicsData: NaicsDatum[] = JSON.parse(raw('../data/naics_2017.json'));
 
 const colorMap = [
-  { id: '0', color: '#2b005c' },
-  { id: '1', color: '#630061' },
-  { id: '2', color: '#91005e' },
-  { id: '3', color: '#b90056' },
-  { id: '4', color: '#d92649' },
-  { id: '5', color: '#f05238' },
-  { id: '6', color: '#fc7c23' },
-  { id: '7', color: '#ffa600' },
-  { id: '8', color: 'red' },
+  { id: '0', color: '#A973BE' },
+  { id: '1', color: '#F1866C' },
+  { id: '2', color: '#FFC135' },
+  { id: '3', color: '#93CFD0' },
+  { id: '4', color: '#488098' },
+  { id: '5', color: '#77C898' },
+  { id: '6', color: '#6A6AAD' },
+  { id: '7', color: '#D35162' },
+  { id: '8', color: '#F28188' },
 ]
 
 interface RawDatum {
