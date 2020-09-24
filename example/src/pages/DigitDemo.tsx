@@ -123,7 +123,7 @@ interface DataMap {
   [key: number]: PreparedDatum[]
 }
 
-const data: DataMap = {
+const bosData: DataMap = {
   1: [],
   2: [],
   3: [],
@@ -131,8 +131,18 @@ const data: DataMap = {
   5: [],
   6: [],
 }
+const nyData: DataMap = {
+  1: [],
+  2: [],
+  3: [],
+  4: [],
+  5: [],
+  6: [],
+}
+let bostonTotal = 0;
+let newYorkTotal = 0;
 rawData.forEach(({naics_id, num_company, level, city_id, year}) => {
-  if (city_id === 1022 && year === 2020) {
+  if (year === 2020) {
     let topLevelParentId: string = naics_id.toString();
     let current: NaicsDatum | undefined = naicsData.find(datum => datum.naics_id === naics_id);
     const title = current && current.name ? current.name : 'Unknown';
@@ -149,21 +159,48 @@ rawData.forEach(({naics_id, num_company, level, city_id, year}) => {
       console.error(current);
       throw new Error('Parent out of range')
     }
-
-    data[level].push({
-      id: naics_id.toString() + level,
-      title,
-      value: num_company,
-      topLevelParentId,
-    })
+    if (city_id === 1022) {
+      bosData[level].push({
+        id: naics_id.toString() + level,
+        title,
+        value: num_company,
+        topLevelParentId,
+      })
+      bostonTotal += num_company;
+    } else {
+      nyData[level].push({
+        id: naics_id.toString() + level,
+        title,
+        value: num_company,
+        topLevelParentId,
+      })
+      newYorkTotal += num_company;
+    }
   }
 });
 
-const transformedData: TransformedData[] = [];
+const transformedBosData: TransformedData[] = [];
+const transformedNyData: TransformedData[] = [];
+const comparisonData: TransformedData[] = [];
 
-for (let d in data) {
-  transformedData.push(transformData({
-    data: data[d],
+for (let d in bosData) {
+  transformedBosData.push(transformData({
+    data: bosData[d],
+    width,
+    height,
+    colorMap: colorMap,
+  }))
+  transformedNyData.push(transformData({
+    data: nyData[d],
+    width,
+    height,
+    colorMap: colorMap,
+  }))
+  comparisonData.push(transformData({
+      // eslint-disable-next-line
+    data: bosData[d].map(d => ({...d, value: d.value / bostonTotal})),
+      // eslint-disable-next-line
+    comparisonData: nyData[d].map(d => ({...d, value: d.value / newYorkTotal})),
     width,
     height,
     colorMap: colorMap,
@@ -171,6 +208,12 @@ for (let d in data) {
 }
 
 //////////////////////////////////////
+
+enum City {
+  Boston = 'Boston',
+  NewYork = 'New York',
+  Comparison = 'Comparison',
+}
 
 
 enum NumCellsTier {
@@ -181,6 +224,7 @@ enum NumCellsTier {
 }
 
 const App = () => {
+  const [city, setCity] = useState<City>(City.Boston);
   const [digit, setDigit] = useState<number>(0);
 
   const tooltipContent = (id: string) => {
@@ -192,51 +236,87 @@ const App = () => {
     }
   }
 
+  let dataset: TransformedData[] = [] 
+  if (city === City.Boston) {
+    dataset = transformedBosData;
+  } else if (city === City.NewYork) {
+    dataset = transformedNyData;
+  } else {
+    dataset = comparisonData;
+  }
+
   return (
     <div>
       <Nav>
         <Button
+          onClick={() => setCity(City.Boston)}
+          disabled={city === City.Boston}
+        >
+          Boston
+        </Button>
+        <Button
+          onClick={() => setCity(City.NewYork)}
+          disabled={city === City.NewYork}
+        >
+          New York
+        </Button>
+        <Button
+          onClick={() => setCity(City.Comparison)}
+          disabled={digit > 3 || city === City.Comparison}
+        >
+          Comparison
+        </Button>
+      </Nav>
+      <Nav>
+        <Button
           onClick={() => setDigit(0)}
+          disabled={digit === 0}
         >
           1-digit
         </Button>
         <Button
           onClick={() => setDigit(1)}
+          disabled={digit === 1}
         >
           2-digit
         </Button>
         <Button
           onClick={() => setDigit(2)}
+          disabled={digit === 2}
         >
           3-digit
         </Button>
         <Button
           onClick={() => setDigit(3)}
+          disabled={digit === 3}
         >
           4-digit
         </Button>
         <Button
           onClick={() => setDigit(4)}
+          disabled={city === City.Comparison || digit === 4}
         >
           5-digit
         </Button>
         <Button
           onClick={() => setDigit(5)}
+          disabled={city === City.Comparison || digit === 5}
         >
           6-digit
         </Button>
       </Nav>
-      <h3>{digit + 1}-digit</h3>
+      <h3>{city}: {digit + 1}-digit</h3>
       <Container>
         <TreeMap
           highlighted={undefined}
-          cells={transformedData[digit].treeMapCells}
+          cells={dataset[digit].treeMapCells}
           numCellsTier={NumCellsTier.Small}
           chartContainerWidth={width}
           chartContainerHeight={height}
           onCellClick={id => alert('Clicked: ' + tooltipContent(id))}
           onMouseOverCell={id => console.log('Hovered on: ' + tooltipContent(id))}
           onMouseLeaveChart={() => {}}
+          comparisonTreeMap={city === City.Comparison ? true : false}
         />
       </Container>
     </div>
