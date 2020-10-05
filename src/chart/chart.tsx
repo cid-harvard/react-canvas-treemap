@@ -831,7 +831,6 @@ export default (props: IProps) => {
   );
 
   const onMouseLeave = () => {
-    console.log('onMouseLeave')
     const {current: throttledHover} = throttledPerformHoverRef;
     if (isTransitionInProgress() === false) {
       throttledHover({cancel: true});
