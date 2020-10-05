@@ -10,9 +10,6 @@ import React, {
   useRef,
 } from 'react';
 import styled from 'styled-components/macro';
-import {
-  sendHeroElementTiming,
-} from './heroElement';
 import DOMPool from './DOMPool';
 import {
   ANGLEInstancedArrays,
@@ -371,7 +368,6 @@ interface IPropsChangeHandlerExtraInputs {
   statusRef: MutableRefObject<Status>;
   domPoolRef: MutableRefObject<DOMPool>;
   upgradeToLargeBufferRef: MutableRefObject<typeof upgradeToLargeBuffer>;
-  sendHeroElementTimingOnceRef: MutableRefObject<typeof sendHeroElementTiming>;
 }
 
 const performPropsChange =
@@ -386,7 +382,6 @@ const performPropsChange =
       statusRef: {current: prevStatus}, statusRef,
       domPoolRef,
       upgradeToLargeBufferRef: {current: upgradeBuffer},
-      sendHeroElementTimingOnceRef: {current: sendHeroElementTimingOnce},
     },
     done,
   } = input;
@@ -401,10 +396,6 @@ const performPropsChange =
     const {gl} = glInfo;
     resizeViewport(gl, true);
   }
-
-  const {
-    chartContainerHeight, chartContainerWidth,
-  } = nextValue;
 
   if (glInfo !== undefined && cellProgram !== undefined && rootEl !== null) {
 
@@ -546,19 +537,10 @@ const performPropsChange =
           );
         };
 
-        const reportHeroElementTimingIfNeeded = () => {
-          if (chartContainerHeight !== undefined &&
-                chartContainerWidth !== undefined && cells.length > 0) {
-            sendHeroElementTimingOnce('tree map');
-          }
-        };
-
         const onAnimationComplete = () => {
           vaoExtension.bindVertexArrayOES(null);
 
           const endProspChangeTransition = () => {
-            reportHeroElementTimingIfNeeded();
-
             statusRef.current = {
               status: AnimationStatus.FinishedCompletely,
               // cells related:
@@ -756,7 +738,6 @@ export default (props: IProps) => {
   const rootElRef = useRef<HTMLDivElement | null>(null);
 
   const upgradeToLargeBufferRef = useRef(once(upgradeToLargeBuffer));
-  const sendHeroElementTimingOnceRef = useRef(once(sendHeroElementTiming));
 
   const {
     numCellsTier, cells, highlighted,
@@ -810,7 +791,7 @@ export default (props: IProps) => {
       glInfoRef, cellProgramRef,
       widthInCSSPixelsRef: chartWidthRef,
       heightInCSSPixelsRef: chartHeightRef,
-      statusRef, domPoolRef, upgradeToLargeBufferRef, sendHeroElementTimingOnceRef,
+      statusRef, domPoolRef, upgradeToLargeBufferRef,
       rootElRef,
     }),
     performPropsChange,
