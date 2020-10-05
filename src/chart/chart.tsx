@@ -699,7 +699,7 @@ const getUnthrottledHoverHandler = (input: {
 
   let hoveredNode: string | undefined;
 
-  return () => {
+  return (input?: {cancel: boolean}) => {
     const {current: status} = statusRef;
     if (isTransitionInProgress() === false && status.status === AnimationStatus.FinishedCompletely) {
       const prevHoveredNode = hoveredNode;
@@ -714,7 +714,7 @@ const getUnthrottledHoverHandler = (input: {
           chartWidth,
           chartHeight,
         });
-        hoveredNode = nextHoveredNode;
+        hoveredNode = input && input.cancel ? undefined : nextHoveredNode;
         const {current: onMouseOverCell} = onMouseOverCellRef;
         const {current: onMouseLeaveChart} = onMouseLeaveChartRef;
         if (nextHoveredNode !== prevHoveredNode) {
@@ -831,8 +831,11 @@ export default (props: IProps) => {
   );
 
   const onMouseLeave = () => {
+    console.log('onMouseLeave')
     const {current: throttledHover} = throttledPerformHoverRef;
-    throttledHover.cancel();
+    if (isTransitionInProgress() === false) {
+      throttledHover({cancel: true});
+    }
     props.onMouseLeaveChart();
   };
 
