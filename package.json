@@ -1,6 +1,6 @@
 {
   "name": "react-canvas-treemap",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Canvas based Treemap data visualization using React.",
   "author": "wsoeltz",
   "license": "MIT",

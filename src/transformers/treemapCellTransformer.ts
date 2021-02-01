@@ -22,6 +22,7 @@ export interface Datum {
   value: number;
   title: string;
   topLevelParentId: string;
+  fill?: string;
 }
 
 export interface ComparisonDatum extends Datum {
@@ -52,6 +53,7 @@ export interface Transformed {
   monetaryValue: number;
   topLevelParentId: string;
   percentage: number;
+  colorOverride: string | undefined;
 }
 
 const treemapCellTransformer = (inputs: Inputs): Output => {
@@ -74,7 +76,7 @@ const treemapCellTransformer = (inputs: Inputs): Output => {
   const transformed: Transformed[] = [];
   for (const elem of filteredByMonetaryValue) {
     const {
-      monetaryValue, topLevelParentId, id, title,
+      monetaryValue, topLevelParentId, id, title, fill,
     } = elem;
     const percentage = monetaryValue / totalSum;
 
@@ -84,6 +86,7 @@ const treemapCellTransformer = (inputs: Inputs): Output => {
       monetaryValue,
       topLevelParentId,
       percentage,
+      colorOverride: fill,
     };
     transformed.push(out);
 
@@ -104,14 +107,20 @@ const treemapCellTransformer = (inputs: Inputs): Output => {
   });
 
   let treeMapCells: ITreeMapCell[] = [];
-  withTextLayout.forEach(({topLevelParentId, monetaryValue, ...rest}) => {
-    const tagetColor = colorMap.find(c => c.id === topLevelParentId);
-    if (tagetColor === undefined) {
-      throw new Error('Cannot find color for top section ' + topLevelParentId);
+  withTextLayout.forEach(({topLevelParentId, monetaryValue, colorOverride, ...rest}) => {
+    let color: string;
+    if (colorOverride) {
+      color = colorOverride;
+    } else {
+      const targetColor = colorMap.find(c => c.id === topLevelParentId);
+      if (targetColor === undefined) {
+        throw new Error('Cannot find color for top section ' + topLevelParentId);
+      }
+      color = targetColor.color;
     }
     const out: ITreeMapCell = {
       ...rest,
-      color: tagetColor.color,
+      color,
       value: monetaryValue,
     };
     if (inputs.comparisonData !== undefined && createComparisionCells !== undefined) {
