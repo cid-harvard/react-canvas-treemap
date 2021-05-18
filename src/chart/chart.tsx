@@ -864,9 +864,8 @@ export default (props: IProps) => {
       <canvas
         ref={canvasRef}
         style={{width: props.chartContainerWidth, height: chartContainerHeight}}
-      >
-        {fallbackText}
-      </canvas>
+        aria-label={fallbackText} role="img"
+      />
     </Root>
   );
 
