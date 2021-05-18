@@ -719,6 +719,8 @@ export interface IProps {
   cells: ITreeMapCell[];
   comparisonTreeMap?: boolean;
 
+  fallbackTitle?: string;
+
   numCellsTier: NumCellsTier;
 
   chartContainerWidth: number ;
@@ -847,7 +849,11 @@ export default (props: IProps) => {
     }
 
   };
-
+  let fallbackText = props.fallbackTitle ? props.fallbackTitle : '';
+  cells.slice(0, 20).forEach((d: any) => {
+    const percent = parseFloat((d.percentage * 100).toFixed(3)) + '%';
+    fallbackText += d.label + ' makes up ' + percent + ', '
+  })
   return (
     <Root ref={rootElRef}
       onMouseLeave={onMouseLeave}
@@ -858,7 +864,9 @@ export default (props: IProps) => {
       <canvas
         ref={canvasRef}
         style={{width: props.chartContainerWidth, height: chartContainerHeight}}
-      />
+      >
+        {fallbackText}
+      </canvas>
     </Root>
   );
 

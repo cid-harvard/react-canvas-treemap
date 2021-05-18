@@ -54,6 +54,7 @@ The TreeMap component takes the following props:
 - **highlighted**: `string | undefined`
 - **cells**: `ITreeMapCell[]`
 - **comparisonTreeMap** *(optional)*: `boolean`
+- **fallbackTitle** *(optional)*: `string`
 - **numCellsTier**: `NumCellsTier`
 - **chartContainerWidth**: `number `
 - **chartContainerHeight**: `number`
